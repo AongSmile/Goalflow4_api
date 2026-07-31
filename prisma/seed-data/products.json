@@ -1,0 +1,2636 @@
+[
+  {
+    "id": "productccdcamera",
+    "name": "CCD Camera Zoom Stereo Microscope",
+    "category": "products",
+    "subcategory": "pccdcamera",
+    "image": "/product-media/CCD-CAMERA-ZOOM-STEREO-MICROSCOPE.png",
+    "specPdf": "/product-media/CCD-CAMERAZOOMSTEREOMICROSCOPE.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "CCD Camera Zoom Stereo Microscope",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "การแสดงภาพแบบ 3 มิติ (3D Image): ให้ภาพเชิงลึก (Stereoscopic) ทำให้เห็นโครงสร้างวัตถุแบบ 3 มิติชัดเจน เหมาะสำหรับการตรวจสอบชิ้นงานที่ต้องการความลึก",
+        "ระบบกล้อง CCD ความละเอียดสูง: เซ็นเซอร์ CCD แปลงแสงเป็นสัญญาณไฟฟ้าได้ดีเยี่ยม ให้ภาพมีความไวแสงสูง (High Sensitivity) และสัญญาณรบกวนต่ำ เหมาะสำหรับงานภาพที่ต้องการความแม่นยำสูง",
+        "การแสดงผลบนหน้าจอ (Digital Imaging): กล้องมักเชื่อมต่อผ่านพอร์ต HDMI, USB หรือ VGA เพื่อแสดงภาพบนจอ LCD/Monitor ได้ทันที (Real-time view) ในระดับ FULL HD",
+        "กำลังขยาย (Magnification): โดยทั่วไปจะมีกำลังขยายต่ำ-ปานกลาง ตั้งแต่ประมาณ 7เท่า ถึง 45 เท่า หรือสูงกว่า (ขึ้นอยู่กับเลนส์ใกล้ตาและเลนส์วัตถุที่ใช้) เหมาะกับการดูวัตถุขนาดใหญ่",
+        "ระยะการทำงานสูง (Long Working Distance): มีระยะห่างระหว่างเลนส์วัตถุกับตัวอย่างมาก ทำให้มีพื้นที่ในการทำงาน เช่น การใช้เครื่องมือช่างซ่อมมือถือ, การจับชิ้นงานภายใต้กล้อง",
+        "การบันทึกภาพและวิดีโอ: สามารถบันทึกภาพนิ่งหรือวิดีโอลงใน Memory Card หรือคอมพิวเตอร์ผ่านซอฟต์แวร์"
+      ],
+      "applications": [
+        "งานอุตสาหกรรม: ตรวจสอบลายวงจร PCB (PCB Inspection), งานซ่อมมือถือ/ไอซี, ตรวจสอบชิ้นส่วนโลหะขนาดเล็ก",
+        "งานวิจัยและชีววิทยา: ใช้แยกชิ้นงาน (Dissecting microscope) เช่น แมลง, พืช, ตัวอย่างทางชีวภาพ",
+        "งานอัญมณีและจิวเวลรี่: ตรวจสอบโครงสร้างพื้นผิวและการฝังเพชรพลอย",
+        "งานตรวจสอบคุณภาพ (QC): ใช้ในห้องปฏิบัติการและโรงงานเพื่อตรวจหาข้อบกพร่องของชิ้นงาน"
+      ],
+      "mainImage": "/product-media/CCD-CAMERA-ZOOM-STEREO-MICROSCOPE.png",
+      "logo": "/product-media/gfbrand.png",
+      "specImage": "/product-media/CCDCAMERAZOOMSTEREOMICROSCOPEspec01.png",
+      "deliveryImage": "/product-media/CCDCAMERAZOOMSTEREOMICROSCOPEspec02.png"
+    }
+  },
+  {
+    "id": "productcncautovideo",
+    "name": "Horizontal Measuring Profile Projector",
+    "category": "products",
+    "subcategory": "pccdcamera",
+    "image": "/product-media/Horizontal-Measuring-Profile-Projector.png",
+    "specPdf": null,
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "CNC AUTO VIDEO MEASURING SYSTEM(MOVING GANTRY)",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "โครงสร้างแบบแกนเคลื่อนที่ (Moving Gantry) โดยชิ้นงานวางคงที่บนแท่นวัด",
+        "ระบบ CNC อัตโนมัติแบบวงจรปิด (Closed-loop) ควบคุมการวัดได้อัตโนมัติ",
+        "ฐานและเสาทำจากหินแกรนิต “JINANQING” เกรด “00” ให้ความทนทานต่อการกัดกร่อน และความเสถียรสูงในการทำงาน",
+        "เลนส์ซูมอัตโนมัติ พร้อมระบบกำหนดตำแหน่งแบบอิเล็กทรอนิกส์ ปรับกำลังขยายได้ง่าย",
+        "ควบคุมการเคลื่อนที่แกน X-Y-Z แบบ CNC อัตโนมัติอย่างแม่นยำ",
+        "สเกลเชิงเส้น (Linear Scale) ความละเอียด 0.5 ไมครอน ให้ความแม่นยำสูงและเสถียร",
+        "ใช้รางนำทางเชิงเส้น สกรูบอล (Ball Screw) และมอเตอร์เซอร์โว AC คุณภาพสูง ช่วยให้ตำแหน่งมีความแม่นยำและเสถียร",
+        "ระบบไฟส่องสว่างแบบ LED 5 วง 8 ส่วน ปรับความสว่างได้ 256 ระดับ พร้อมไฟส่องขอบ (Contour Light) แบบขนาน",
+        "ซอฟต์แวร์วัด Microsize รองรับการโฟกัสอัตโนมัติ ค้นหาขอบอัตโนมัติ สร้างรายงานได้หลากหลาย และวิเคราะห์ข้อมูล SPC แบบออนไลน์ พร้อมตั้งค่าการวัดอัตโนมัติได้",
+        "กล้องอุตสาหกรรมสีความละเอียดสูง ให้ภาพคมชัด รองรับการวัดที่มีความเสถียร"
+      ],
+      "applications": [
+        "ใช้งานอย่างแพร่หลายในอุตสาหกรรมการผลิตเครื่องจักร อิเล็กทรอนิกส์ ยานยนต์ ฮาร์ดแวร์ พลาสติก และแม่พิมพ์",
+        "เหมาะสำหรับการวัดขนาด รูปร่าง และค่าความคลาดเคลื่อนของตำแหน่ง (Position Tolerance) ของชิ้นงานได้อย่างแม่นยำ รองรับงานตรวจสอบชิ้นส่วน การวัดรูปทรง และการควบคุมกระบวนการผลิต (Process Control)"
+      ],
+      "mainImage": "/product-media/CNCAUTOVIDEOMEASURINGSYSTEM-MOVINGGANTRY-.png",
+      "logo": "/product-media/22.png",
+      "specImage": "/product-media/CNCAUTOVIDEOMEASURINGSYSTEM-MOVINGGANTRY-spec01.png",
+      "deliveryImage": "/product-media/CNCAUTOVIDEOMEASURINGSYSTEM-MOVINGGANTRY-spec02.png"
+    }
+  },
+  {
+    "id": "productcontourmeasuring",
+    "name": "Contour Measuring",
+    "category": "products",
+    "subcategory": "pcontourmeasuring",
+    "image": "/product-media/CONTOUR-MEASURING.png",
+    "specPdf": "/product-media/CONTOURMEASURING.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Contour Measuring Machine",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "SURFCOM NEX 030(DX/SD) SERIES จาก Accretech (Tokyo Seimitsu) เป็นเครื่องวัดความหยาบผิวและรูปทรง (Contour) อเนกประสงค์ประสิทธิภาพสูง โดดเด่นด้วยชุดขับเคลื่อน Linear Motor ที่สั่นสะเทือนต่ำ วัดได้ละเอียดแม่นยำสูง (0.1 nm) ความเร็วสูงสุดในระดับเดียวกัน สามารถเปลี่ยนหัวตรวจวัดได้หลากหลายและใช้งานง่าย"
+      ],
+      "applications": [
+        "ความแม่นยำสูง: ใช้ Linear motor drive ลดเสียงรบกวน (Noise) ได้ดีเยี่ยม",
+        "ช่วงการวัดกว้าง (Contour): สามารถวัดรูปร่าง (Contour) ได้ในช่วงแนวตั้ง (Z-axis) ถึง 60 mm ด้วยหัวตรวจวัดที่มีสเกลแก้ว",
+        "หัวตรวจวัดแบบเปลี่ยนเร็ว (Quick Change): ระบบยึดหัวตรวจวัดด้วยแม่เหล็กที่ได้รับการจดสิทธิบัตรทำให้เปลี่ยนหัวตรวจวัดได้รวดเร็ว",
+        "ทำงานรวดเร็ว: ขับเคลื่อนด้วยความเร็วสูง X-axis 100mm/s, C-axis 50mm/s เพิ่มประสิทธิภาพการทำงาน",
+        "รองรับงานหลากหลาย: รุ่น DX (Compact) มักเป็นแบบรวมชุดไดรฟ์ โต๊ะ และประมวลผล ส่วนรุ่น SD มักเป็นแบบโมดูลาร์ที่ปรับเปลี่ยนได้ตามความต้องการ",
+        "ความแม่นยำทางคอนทัวร์: มาตรฐานความแม่นยำ ±(1.2+|2H|/100) µm",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/CONTOUR-MEASURING.png",
+      "logo": "/product-media/39.png",
+      "specImage": "/product-media/ContourMeasurementSpec01.png",
+      "deliveryImage": "/product-media/ContourMeasurementSpec02.png"
+    }
+  },
+  {
+    "id": "productcoordinate",
+    "name": "Coordinate Measuring Machines (CMMs)",
+    "category": "products",
+    "subcategory": "pcoordinate",
+    "image": "/product-media/Coordinate-Measuring-Machines-CMMs-.png",
+    "specPdf": "/product-media/CoordinateMeasuringMachines-CMMs-.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Coordinate Measuring Machine (CMM)",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "Explorer เป็นซีรีส์ผลิตภัณฑ์เครื่องมือวัด 3 มิติ หรือ CMM ที่มีความคุ้มค่าและถูกแบ่งออกเป็นสองรุ่นด้วยกัน ได้แก่ Explorer Classic และ Explorer Performance ผลิตภัณฑ์ Explorer Classic รองรับการวัดแบบ Universal Touch-Trigger Measurement ซึ่งถูกปรับให้เหมาะสำหรับความต้องการในการวัดของชิ้นส่วนต่างๆ สำหรับการใช้งานที่ท้าทายและมีความต้องการมากขึ้น ผลิตภัณฑ์ Explorer Performance สามารถรองรับฟังค์ชั่นการสแกนชิ้นงานแบบต่อเนื่อง ซึ่งนำมาสู่ความแม่นยำและประสิทธิภาพการวัดที่มากขึ้น นอกเหนือจากนี้ ผลิตภัณฑ์นี้ยังมีโครงสร้างและการประกอบที่มีคุณสมบัติเสมือนเครื่องมือวัด 3 มิติระดับไฮเอนด์ของ Hexagon เพื่อสร้างประสิทธิภาพที่ดีที่สุดในด้าน ความแม่นยำและความน่าเชื่อถือของการวัด สายผลิตภัณฑ์เครื่องมือวัด 3 มิตินี้นำเสนอคำตอบสำหรับเครื่องมือวัดในราคาที่เหมาะสมและไม่สูงมากนักในการเป็นเจ้าของ"
+      ],
+      "applications": [
+        "มีการกำหนดค่าและขนาดให้เลือกหลากหลายแบบเพื่อรองรับความต้องการในการวัดของการใช้งานต่างๆ",
+        "การออกแบบพิเศษด้วย bridge ทรงสามเหลี่ยม เพื่อสร้างความแม่นยำและความแข็งแรงในระยะยาว",
+        "ตัวยึดแบบ Dovetail พร้อมโครงสร้างแบบปิดเพื่อช่วยให้มีการเคลื่อนไหวที่มั่นคง",
+        "สเกลจาก Heidenhain ปลายของด้านหนึ่งคงที่และอีกด้านหนึ่งปล่อยอิสระ เพื่อการชดเชยของอุณหภูมิที่ง่ายสำหรับการเปลี่ยนแปลงเชิงเส้น",
+        "ประสิทธิภาพการวัดที่น่าเชื่อถือด้วยการออกแบบเครื่องถ่วงดุลแบบ นิวแมติก (pneumatic)",
+        "เพื่อลดผลกระทบของความร้อนต่อประสิทธิภาพในการวัด มอเตอร์ไดรฟ์ชนิดรีโมทสามารถระบายความร้อนออกจากโครงเครื่อง มีขนาดเล็กเพื่อการติดตั้งและการใช้งานในที่แคบ"
+      ],
+      "mainImage": "/product-media/Coordinate-Measuring-Machines-CMMs-.png",
+      "logo": "/product-media/38.png",
+      "specImage": "/product-media/CoordinateMeasuringMachines-CMMs-spec01.png",
+      "deliveryImage": "/product-media/CoordinateMeasuringMachines-CMMs-spec02.png"
+    }
+  },
+  {
+    "id": "productmanualcutting",
+    "name": "Manual Cutting Machine",
+    "category": "products",
+    "subcategory": "pcustting",
+    "image": "/product-media/Manual-Metallographic-Abrasive-Cutting-Machine.png",
+    "specPdf": "/product-media/cutting.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Manual Metallographic Abrasive Cutting Machine",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "เครื่องนี้ใช้ใบตัดแบบใบเจียรขนาดใหญ่ ที่มีความแข็งสูงและทนต่อการสึกหรอได้ดี จึงสามารถตัดชิ้นงานได้อย่างแม่นยำและมีคุณภาพสูง รองรับการใช้งานกับวัสดุโลหะได้หลากหลาย อีกทั้งระบบระบายความร้อนด้วยอากาศของใบตัด ยังช่วยลดปัญหาความร้อนสะสมที่ผิวชิ้นงาน และป้องกันการไหม้จากการตัดได้อย่างมีประสิทธิภาพ นอกจากนี้ ยังติดตั้งหัวฉีดน้ำหล่อเย็นหลายจุดรอบเครื่อง ซึ่งช่วยลดอุณหภูมิระหว่างการตัด ป้องกันการเสียรูปของชิ้นงานจากความร้อน และยังช่วยชะล้างเศษวัสดุที่เกิดขึ้นระหว่างการตัดออกได้อย่างรวดเร็ว"
+      ],
+      "applications": [
+        "ความแม่นยำสูง: ใช้ Linear motor drive ลดเสียงรบกวน (Noise) ได้ดีเยี่ยม",
+        "ช่วงการวัดกว้าง (Contour): สามารถวัดรูปร่าง (Contour) ได้ในช่วงแนวตั้ง (Z-axis) ถึง 60 mm ด้วยหัวตรวจวัดที่มีสเกลแก้ว",
+        "หัวตรวจวัดแบบเปลี่ยนเร็ว (Quick Change): ระบบยึดหัวตรวจวัดด้วยแม่เหล็กที่ได้รับการจดสิทธิบัตรทำให้เปลี่ยนหัวตรวจวัดได้รวดเร็ว",
+        "ทำงานรวดเร็ว: ขับเคลื่อนด้วยความเร็วสูง X-axis 100mm/s, C-axis 50mm/s เพิ่มประสิทธิภาพการทำงาน",
+        "รองรับงานหลากหลาย: รุ่น DX (Compact) มักเป็นแบบรวมชุดไดรฟ์ โต๊ะ และประมวลผล ส่วนรุ่น SD มักเป็นแบบโมดูลาร์ที่ปรับเปลี่ยนได้ตามความต้องการ",
+        "ความแม่นยำทางคอนทัวร์: มาตรฐานความแม่นยำ ±(1.2+|2H|/100) µm",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/Manual-Metallographic-Abrasive-Cutting-Machine.png",
+      "logo": "/product-media/22.png",
+      "specImage": "/product-media/ManualCuttingMachineSpec01.png",
+      "deliveryImage": "/product-media/ManualCuttingMachineSpec02.png"
+    }
+  },
+  {
+    "id": "productmetallographic",
+    "name": "Metallographic Manual Grinder Polisher",
+    "category": "products",
+    "subcategory": "pcustting",
+    "image": "/product-media/METALLOGRAPHIC-MANUAL-GRINDER-POLISHER.png",
+    "specPdf": "/product-media/METALLOGRAPHIC-MANUAL-GRINDER-POLISHER.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Metallographic Menual Grinder Polisher",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "เครื่องขัดและเจียร ควบคุมด้วยระบบไมโครคอนโทรลเลอร์ (Single-chip)",
+        "โครงสร้างเครื่องผลิตจากวัสดุ ABS ดีไซน์สวยงาม ทนทานต่อการกัดกร่อน และแข็งแรง",
+        "แท่นเครื่องขนาดใหญ่ แข็งแรง ช่วยให้การหมุนมีความสมดุลและแม่นยำ",
+        "ปรับความเร็วได้แบบต่อเนื่อง (Stepless) หรือเลือกได้ 4 ระดับ พร้อมปรับทิศทางการหมุนได้",
+        "มอเตอร์ DC แบบไร้แปรงถ่าน อายุการใช้งานยาวนาน เสียงเงียบ ให้กำลังสูง เพื่อประสิทธิภาพในการเจียรและขัดที่ดียิ่งขึ้น",
+        "ออกแบบแกนหมุนแบบป้องกันการรั่วซึม ช่วยปกป้องตลับลูกปืนจากความเสียหาย",
+        "รองรับการเจียรแบบเปียก พร้อมระบบน้ำหล่อเย็น และท่อปรับทิศทางได้",
+        "มีระบบล้างทำความสะอาดด้านล่างจานเจียร ช่วยป้องกันการสะสมของเศษวัสดุ",
+        "เพียงเปลี่ยนกระดาษทรายและผ้าขัด ก็สามารถทำงานได้ครบทั้งการเจียรหยาบ เจียรละเอียด และขัดเงาชิ้นงาน"
+      ],
+      "applications": [
+        "ความแม่นยำสูง: ใช้ Linear motor drive ลดเสียงรบกวน (Noise) ได้ดีเยี่ยม",
+        "ช่วงการวัดกว้าง (Contour): สามารถวัดรูปร่าง (Contour) ได้ในช่วงแนวตั้ง (Z-axis) ถึง 60 mm ด้วยหัวตรวจวัดที่มีสเกลแก้ว",
+        "หัวตรวจวัดแบบเปลี่ยนเร็ว (Quick Change): ระบบยึดหัวตรวจวัดด้วยแม่เหล็กที่ได้รับการจดสิทธิบัตรทำให้เปลี่ยนหัวตรวจวัดได้รวดเร็ว",
+        "ทำงานรวดเร็ว: ขับเคลื่อนด้วยความเร็วสูง X-axis 100mm/s, C-axis 50mm/s เพิ่มประสิทธิภาพการทำงาน",
+        "รองรับงานหลากหลาย: รุ่น DX (Compact) มักเป็นแบบรวมชุดไดรฟ์ โต๊ะ และประมวลผล ส่วนรุ่น SD มักเป็นแบบโมดูลาร์ที่ปรับเปลี่ยนได้ตามความต้องการ",
+        "ความแม่นยำทางคอนทัวร์: มาตรฐานความแม่นยำ ±(1.2+|2H|/100) µm",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/METALLOGRAPHIC-MANUAL-GRINDER-POLISHER.png",
+      "logo": "/product-media/22.png",
+      "specImage": "/product-media/METALLOGRAPHICMANUALGRINDERPOLISHERspec01.png",
+      "deliveryImage": "/product-media/METALLOGRAPHICMANUALGRINDERPOLISHERspec02.png"
+    }
+  },
+  {
+    "id": "productautometallographic",
+    "name": "Auto Metallographic Mounting Press",
+    "category": "products",
+    "subcategory": "pcustting",
+    "image": "/product-media/Auto-Metallographic-Mounting-Press.png",
+    "specPdf": "/product-media/AutoMetallographicMountingPress.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Auto Metallographic Mounting Press",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "เครื่องอัดฝังชิ้นงานโลหะวิทยาแบบอัตโนมัติ ใช้ระบบแรงกดเชิงกลขับเคลื่อนด้วยมอเตอร์",
+        "ควบคุมการทำงานด้วยโปรแกรม รองรับการทำงานแบบปุ่มเดียว ครอบคลุมขั้นตอนให้ความร้อน กดอัด รักษาแรงกด ทำความเย็น และนำชิ้นงานออก",
+        "มอเตอร์เกียร์ ให้แรงกดสม่ำเสมอและเสถียร",
+        "มีระบบแจ้งเตือนทั้งเสียงและแสง",
+        "ระบบระบายความร้อนด้วยน้ำ",
+        "ประสิทธิภาพการทำงานเสถียรและเชื่อถือได้"
+      ],
+      "applications": [
+        "การอัดฝังชิ้นงานเป็นขั้นตอนสำคัญในกระบวนการเตรียมตัวอย่างทางโลหะวิทยา โดยเฉพาะสำหรับชิ้นงานขนาดเล็ก จับยึดยาก หรือมีรูปทรงไม่สม่ำเสมอ รวมถึงงานที่ต้องการปกป้องขอบชิ้นงาน หรือรองรับการเจียรและขัดแบบอัตโนมัติ การอัดฝังจึงเป็นขั้นตอนที่จำเป็นก่อนการเตรียมผิวตัวอย่าง โดยรุ่น MPress-1MA ถือเป็นอุปกรณ์ที่เหมาะอย่างยิ่งสำหรับงานอัดฝังชิ้นงาน"
+      ],
+      "mainImage": "/product-media/Auto-Metallographic-Mounting-Press.png",
+      "logo": "/product-media/22.png",
+      "specImage": "/product-media/AutoMetallographicMountingPressSpec01.png",
+      "deliveryImage": "/product-media/AutoMetallographicMountingPressSpec02.png"
+    }
+  },
+  {
+    "id": "productmanualmetallographic",
+    "name": "Metallographic Auto Grunder Polisher",
+    "category": "products",
+    "subcategory": "pcustting",
+    "image": "/product-media/METALLOGRAPHICAUTOGRINDERPOLISHER.png",
+    "specPdf": "/product-media/METALLOGRAPHICAUTOGRINDERPOLISHERspec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Metallographic Auto Grinder Polisher",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "ควบคุมด้วยไมโครคอนโทรลเลอร์ (Single-chip) โครงสร้างตัวเครื่องทำจากวัสดุ ABS แข็งแรงทนทาน",
+        "ปรับความเร็วได้แบบต่อเนื่อง (Stepless) และสามารถเลือกทิศทางการหมุนได้",
+        "หัวขัดรองรับทั้งระบบ แรงกดแบบเดี่ยว และ แรงกดแบบศูนย์กลาง รองรับการทำงานทั้งแบบ อัตโนมัติ และ แมนนวล ในกระบวนการขัดและขัดเงา",
+        "หน้าจอสัมผัสสีขนาด 7 นิ้ว ใช้งานง่าย แสดงผลข้อมูลชัดเจน",
+        "สามารถตั้งค่าเวลาและความเร็วได้ พร้อมระบบจ่ายน้ำอัตโนมัติ",
+        "ผ่นขัดออกแบบพิเศษแบบ Self-Adaptive ช่วยให้ชิ้นงานแนบสนิทกับแผ่นขัด ลดปัญหาการขัดไม่สม่ำเสมอ และให้ผิวงานมีความเรียบเท่ากัน",
+        "ระบบล็อกหัวขัดอัตโนมัติ เพิ่มความสะดวกและความปลอดภัยในการใช้งาน",
+        "แผ่นขัดแบบแม่เหล็ก ช่วยให้เปลี่ยนแผ่นได้รวดเร็ว พร้อมที่ยึดแบบเคลือบ Teflon ไม่ทิ้งคราบจากกระดาษทรายหรือผ้าขัด",
+        "มอเตอร์แบบ DC Brushless อายุการใช้งานยาวนาน เสียงเงียบ และให้กำลังสูง",
+        "สามารถบันทึกโปรแกรมได้สูงสุด 10 โปรแกรม และตั้งค่าพารามิเตอร์แยกตามชนิดตัวอย่างได้",
+        "แผ่นขัดแบบกึ่งหมุน พร้อมระบบไฟส่องสว่างภายใน ช่วยให้หยิบวางชิ้นงานได้สะดวก"
+      ],
+      "applications": [
+        "ความแม่นยำสูง: ใช้ Linear motor drive ลดเสียงรบกวน (Noise) ได้ดีเยี่ยม",
+        "ช่วงการวัดกว้าง (Contour): สามารถวัดรูปร่าง (Contour) ได้ในช่วงแนวตั้ง (Z-axis) ถึง 60 mm ด้วยหัวตรวจวัดที่มีสเกลแก้ว",
+        "หัวตรวจวัดแบบเปลี่ยนเร็ว (Quick Change): ระบบยึดหัวตรวจวัดด้วยแม่เหล็กที่ได้รับการจดสิทธิบัตรทำให้เปลี่ยนหัวตรวจวัดได้รวดเร็ว",
+        "ทำงานรวดเร็ว: ขับเคลื่อนด้วยความเร็วสูง X-axis 100mm/s, C-axis 50mm/s เพิ่มประสิทธิภาพการทำงาน",
+        "รองรับงานหลากหลาย: รุ่น DX (Compact) มักเป็นแบบรวมชุดไดรฟ์ โต๊ะ และประมวลผล ส่วนรุ่น SD มักเป็นแบบโมดูลาร์ที่ปรับเปลี่ยนได้ตามความต้องการ",
+        "ความแม่นยำทางคอนทัวร์: มาตรฐานความแม่นยำ ±(1.2+|2H|/100) µm",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/METALLOGRAPHICAUTOGRINDERPOLISHER.png",
+      "logo": "/product-media/22.png",
+      "specImage": "/product-media/METALLOGRAPHICAUTOGRINDERPOLISHERspec01.png",
+      "deliveryImage": "/product-media/METALLOGRAPHICAUTOGRINDERPOLISHERspec02.png"
+    }
+  },
+  {
+    "id": "producthardness",
+    "name": "Manual Hardness Rockwell Tester",
+    "category": "products",
+    "subcategory": "phardness",
+    "image": "/product-media/HardnessRockwellTester.png",
+    "specPdf": "/product-media/ManualHardnessRockwellTesterSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Manual Hardness Rockwell Tester",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "เป็นเครื่องทดสอบเชิงกลรุ่นใหม่ ที่มีโครงสร้างแข็งแรง ให้ค่าการวัดที่แม่นยำ ใช้งานและบำรุงรักษาง่าย",
+        "ใช้สำหรับทดสอบความแข็งแบบ Rockwell ของวัสดุต่าง ๆ เช่น คาร์ไบด์ซีเมนต์ (Cemented Carbide), เหล็กชุบแข็ง, อะลูมิเนียมอัลลอย และเหล็กหล่อเหนียว",
+        "นิยมใช้อย่างแพร่หลายในโรงงานอุตสาหกรรม เหมืองแร่ และห้องปฏิบัติการของสถาบันการศึกษา"
+      ],
+      "applications": [
+        "เหมาะสำหรับการทดสอบความแข็งของวัสดุที่ผ่านกระบวนการ การชุบแข็ง (Hardening), การอบคืนตัว (Tempering), และการอบอ่อน (Annealing) รองรับการวัดความแข็งของวัสดุหลากหลายประเภท เช่น เหล็กหล่อผิวแข็ง (Chilled Castings), เหล็กหล่อเหนียว (Malleable Cast Iron), เหล็กอัลลอยความแข็งสูง (Hard Alloy Steel), อะลูมิเนียมอัลลอย, ทองแดงอัลลอย และเหล็กลูกปืน (Bearing Steel)"
+      ],
+      "mainImage": "/product-media/HardnessRockwellTester.png",
+      "logo": "/product-media/22.png",
+      "specImage": "/product-media/ManualHardnessRockwellTesterSPEC01.png",
+      "deliveryImage": "/product-media/ManualHardnessRockwellTesterSPEC02.png"
+    }
+  },
+  {
+    "id": "producttouchhardness",
+    "name": "Touch Screen Rockwell Hardness Tester",
+    "category": "products",
+    "subcategory": "phardness",
+    "image": "/product-media/TOUCH-SCREEN-ROCKWELL-HARDNESS-TESTER.png",
+    "specPdf": "/product-media/TOUCHSCREENROCKWELLHARDNESSTESTERspec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "TOUCH SCREEN ROCKWELL HARDNESS TESTER",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "ใช้ระบบ แรงทดสอบแบบอิเล็กทรอนิกส์ (Electronic Loading) แทนระบบน้ำหนักแบบเดิม ให้ความแม่นยำสูงและค่าการวัดมีความเสถียร",
+        "รองรับการเชื่อมต่อ Bluetooth กับคอมพิวเตอร์ เพื่อวิเคราะห์และจัดการข้อมูลผ่านซอฟต์แวร์ทดสอบความแข็งโดยเฉพาะ",
+        "หน้าจอสัมผัสขนาด 8 นิ้ว ใช้งานง่าย พร้อมอินเทอร์เฟซที่ออกแบบให้เข้าใจง่าย (User-Friendly)",
+        "สามารถเลือกสเกลความแข็งได้หลากหลาย เช่น Rockwell, HV, HB และรองรับการแปลงค่าสเกลต่าง ๆ ได้",
+        "อินเทอร์เฟซใช้งานง่าย สามารถตั้งค่าพารามิเตอร์ได้สะดวก และตัวเครื่องสามารถจัดเก็บข้อมูลได้สูงสุด 500 ชุด"
+      ],
+      "applications": [
+        "เหมาะสำหรับการทดสอบความแข็งแบบ Rockwell ของชิ้นงานโลหะที่ผ่านกระบวนการ ชุบแข็ง (Quenching), คืนไฟ (Tempering) และกระบวนการอบชุบความร้อนอื่น ๆ"
+      ],
+      "mainImage": "/product-media/TOUCH-SCREEN-ROCKWELL-HARDNESS-TESTER.png",
+      "logo": "/product-media/22.png",
+      "specImage": "/product-media/TOUCHSCREENROCKWELLHARDNESSTESTERspec01.png",
+      "deliveryImage": "/product-media/TOUCHSCREENROCKWELLHARDNESSTESTERspec02.png"
+    }
+  },
+  {
+    "id": "productmicrovickers",
+    "name": "Touch Screen Micro Vickers Hardness Tester",
+    "category": "products",
+    "subcategory": "phardness",
+    "image": "/product-media/TOUCH-SCREEN-MICRO-VICKERS-HARDNESS-TESTER.png",
+    "specPdf": "/product-media/TOUCHSCREENMICROVICKERSHARDNESSspec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Touch Screen Micro Vickers Hardness Tester",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "ระบบหมุนอัตโนมัติ (Automatic Turret): สลับหัวกดและเลนส์วัตถุอัตโนมัติ พร้อมระบบระบุตำแหน่งที่แม่นยำ",
+        "ระบบวัดความแข็งที่แม่นยำ: ควบคุมด้วย CPU และใช้ระบบออปติคอลความละเอียดสูงเพื่อความแม่นยำในการวัด",
+        "รองรับการทดสอบ 2 รูปแบบ: สามารถทำได้ทั้งการทดสอบ Micro Vickers และ Knoop",
+        "การแปลงค่าความแข็ง: สามารถแปลงค่าความแข็งเป็นสเกลอื่นๆ ได้",
+        "การวัดอัตโนมัติ: เมื่อกดปุ่มดิจิตอลหลังจากวัดความยาวเส้นทแยงมุมของรอยกด เครื่องจะแสดงค่าความแข็งบนหน้าจออัตโนมัติ",
+        "การตั้งค่าแรงกด (Test Force): สามารถตั้งค่าแรงกดและเวลาในการกดค้าง (Dwell Time) ได้",
+        "ไฟส่องสว่างปรับได้: สามารถปรับความสว่างของไฟส่องสว่างได้",
+        "วัสดุที่ทดสอบได้: เหมาะสำหรับวัดความแข็งของโลหะ, ชิ้นส่วนขนาดเล็ก, บาง และวัสดุที่ไม่ใช่โลหะ เช่น เซรามิก, แก้ว และยาง"
+      ],
+      "applications": [
+        "เหมาะสำหรับการทดสอบความแข็งแบบ Rockwell ของชิ้นงานโลหะที่ผ่านกระบวนการ ชุบแข็ง (Quenching), คืนไฟ (Tempering) และกระบวนการอบชุบความร้อนอื่น ๆ"
+      ],
+      "mainImage": "/product-media/TOUCH-SCREEN-MICRO-VICKERS-HARDNESS-TESTER.png",
+      "logo": "/product-media/22.png",
+      "specImage": "/product-media/TOUCHSCREENMICROVICKERSHARDNESSspec01.png",
+      "deliveryImage": "/product-media/TOUCHSCREENMICROVICKERSHARDNESSspec02.png"
+    }
+  },
+  {
+    "id": "productdigitalhardness",
+    "name": "Manual Digital Brinell Hardness Tester",
+    "category": "products",
+    "subcategory": "phardness",
+    "image": "/product-media/DigitalBrinellHardnessTester.png",
+    "specPdf": "/product-media/ManualDigitalBrinellHardnessTesterspec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Manual Digital Brinell Hardness Tester",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "ระบบควบคุม: ใช้ระบบ Closed-loop control ร่วมกับ Load Cell ความเที่ยงตรงสูง (ไม่ต้องใช้ลูกตุ้มน้ำหนัก) ช่วยให้การใช้งานและการสอบเทียบง่ายช่วง",
+        "การทดสอบ: รองรับแรงกดช่วงกว้าง ตั้งแต่ 62.5Kgf ถึง 3000Kgf เหมาะสำหรับงานวัดความแข็งเหล็กหล่อ, เหล็กกล้า, โลหะนอกกลุ่มเหล็ก และอัลลอยด์แบบอ่อน",
+        "การแสดงผล: หน้าจอสัมผัส (Touch screen) แสดงค่าความแข็งและข้อมูลต่างๆ ใช้งานง่าย",
+        "ระบบวัดผล: มีเลนส์ใกล้ตาพร้อมตัวเข้ารหัสแบบดิจิตอล (Eyepiece with digital encoder) วัดรอยเว้า D1 และ D2 และแสดงผลค่าความแข็งบนหน้าจอ LCD โดยอัตโนมัติ",
+        "การชดเชยแรง: สามารถชดเชยแรงทดสอบแต่ละครั้งอัตโนมัติ (Automatic compensation)",
+        "การแปลงค่า: สามารถแปลงค่าความแข็งระหว่าง Vickers และ Rockwell ได้",
+        "พื้นที่ทำงาน: มีพื้นที่ทดสอบขนาดใหญ่ (ความลึก * ความสูง = 135 x 200 มม.)",
+        "การบันทึกข้อมูล: สามารถบันทึกตัวอย่าง ข้อมูลการทดสอบ และส่งออกข้อมูลเป็นรูปแบบ Excel ผ่าน USB ได้",
+        "การรักษาความปลอดภัย: รองรับการตั้งรหัสผ่านเพื่อป้องกันการเข้าใช้งาน",
+        "การใช้งาน : <br/> - เหมาะสำหรับห้องปฏิบัติการ, โรงงานโลหะการ, และการตรวจสอบวัตถุดิบ<br/> - รองรับสเกลการวัด 12 ชนิด"
+      ],
+      "applications": [
+        "เหมาะสำหรับการทดสอบความแข็งของวัสดุที่ผ่านกระบวนการ การชุบแข็ง (Hardening), การอบคืนตัว (Tempering), และการอบอ่อน (Annealing) รองรับการวัดความแข็งของวัสดุหลากหลายประเภท เช่น เหล็กหล่อผิวแข็ง (Chilled Castings), เหล็กหล่อเหนียว (Malleable Cast Iron), เหล็กอัลลอยความแข็งสูง (Hard Alloy Steel), อะลูมิเนียมอัลลอย, ทองแดงอัลลอย และเหล็กลูกปืน (Bearing Steel)"
+      ],
+      "mainImage": "/product-media/DigitalBrinellHardnessTester.png",
+      "logo": "/product-media/22.png",
+      "specImage": "/product-media/ManualDigitalBrinellHardnessTesterspec01.png",
+      "deliveryImage": "/product-media/ManualDigitalBrinellHardnessTesterspec02.png"
+    }
+  },
+  {
+    "id": "productovenmachine",
+    "name": "Blower drying oven",
+    "category": "products",
+    "subcategory": "povenmachine",
+    "image": "/product-media/Blower-drying-oven.png",
+    "specPdf": "/product-media/Blowerdryingovenspec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Blower drying oven",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "ควบคุมอุณหภูมิด้วยระบบดิจิทัล ให้ความแม่นยำและเสถียรภาพสูง เหมาะสำหรับงานทดลองและงานอุตสาหกรรม",
+        "ระบบหมุนเวียนอากาศภายใน (Forced Air Circulation) ด้วยพัดลม (Blower) ช่วยกระจายความร้อนอย่างสม่ำเสมอทั่วทั้งตู้ ลดความคลาดเคลื่อนของอุณหภูมิ",
+        "โครงสร้างภายนอกผลิตจากเหล็กคุณภาพสูง เคลือบผิวป้องกันการกัดกร่อน เพิ่มความทนทานต่อการใช้งานระยะยาว",
+        "ภายในตู้ผลิตจากสเตนเลสคุณภาพสูง ทนต่อความร้อนและการกัดกร่อน ทำความสะอาดได้ง่าย",
+        "ประตูตู้ติดตั้งกระจกนิรภัย ทนความร้อนสูง สามารถสังเกตตัวอย่างภายในได้โดยไม่ต้องเปิดตู้",
+        "ระบบควบคุมมีฟังก์ชันตั้งเวลา (Timer) และระบบป้องกันอุณหภูมิเกิน (Over-temperature Protection) เพื่อความปลอดภัยในการใช้งาน",
+        "มีชั้นวางตัวอย่างหลายระดับ สามารถปรับตำแหน่งได้ รองรับตัวอย่างหลากหลายขนาด",
+        "เหมาะสำหรับการอบแห้ง การทดสอบความทนความร้อน การไล่ความชื้น และการเตรียมตัวอย่างในห้องปฏิบัติการ"
+      ],
+      "applications": [
+        "เหมาะสำหรับการทดสอบและวิเคราะห์สมบัติเชิงกลของวัสดุ เช่น การทดสอบแรงดึง (Tensile) แรงอัด (Compression) การลอก (Peel) การฉีกขาด (Tear) และแรงเฉือน (Shear)",
+        "สามารถประยุกต์ใช้กับวัสดุหลากหลายประเภท ได้แก่"
+      ],
+      "mainImage": "/product-media/Blower-drying-oven.png",
+      "logo": "/product-media/gfbrand.png",
+      "specImage": "/product-media/Blowerdryingovenspec01.png",
+      "deliveryImage": "/product-media/SingleColumnElectronicUniversalTestingMachinespec02.png"
+    }
+  },
+  {
+    "id": "productsinglecolumn",
+    "name": "Computerized Dual-Column Servo Universal Testing Machine",
+    "category": "products",
+    "subcategory": "povenmachine",
+    "image": "/product-media/Single-Column-Electronic-Universal-Testing-Machine.png",
+    "specPdf": "/product-media/SingleColumnElectronicUniversalTestingMachinespec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Series Single-Column Touch Screen<br/> Universal Testing Machine",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "โครงสร้าง: เป็นแบบ Single-Column ขนาดกะทัดรัด ประหยัดพื้นที่",
+        "การควบคุม: ใช้หน้าจอสัมผัส (Touch Screen) ในการควบคุมและแสดงผล ทำให้ใช้งานง่าย",
+        "การใช้งาน: เหมาะสำหรับการทดสอบแรงดึง (Tensile) และแรงกด (Compression) กับวัสดุขนาดเล็กหรือแรงไม่สูงมาก",
+        "ประเภทอุตสาหกรรม: เหมาะสำหรับใช้ในงานตรวจสอบคุณภาพ (QC) งานวิจัย และพัฒนาวัสดุต่างๆ",
+        "ผู้ผลิต: ผลิตโดย Mikrosize ผู้ผลิตเครื่องมือวัดและทดสอบจากประเทศจีน"
+      ],
+      "applications": [
+        "เหมาะสำหรับการทดสอบและวิเคราะห์สมบัติเชิงกลของวัสดุ เช่น การทดสอบแรงดึง (Tensile) แรงอัด (Compression) การลอก (Peel) การฉีกขาด (Tear) และแรงเฉือน (Shear)",
+        "สามารถประยุกต์ใช้กับวัสดุหลากหลายประเภท ได้แก่"
+      ],
+      "mainImage": "/product-media/SingleColumnElectronicUniversalTestingMachine.png",
+      "logo": "/product-media/22.png",
+      "specImage": "/product-media/SingleColumnElectronicUniversalTestingMachinespec01.png",
+      "deliveryImage": "/product-media/SingleColumnElectronicUniversalTestingMachinespec02.png"
+    }
+  },
+  {
+    "id": "productprofilevertical",
+    "name": "Vertical Measuring Profile Projector",
+    "category": "products",
+    "subcategory": "pprofileprojecter",
+    "image": "/product-media/Vertical-Measuring-Profile-Projector.png",
+    "specPdf": "/product-media/VerticalMeasuringProfileProjector.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Profile Projecter Vertical Measuring",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "ระบบออปติคอลความแม่นยำสูงมาพร้อมเลนส์คุณภาพสูง ให้ภาพคมชัด รายละเอียดครบถ้วน ภายใต้แสงส่องผ่าน ค่าความคลาดเคลื่อนของการวัดขอบ (Contour) ต่ำกว่า 0.08% และอัตราขยายมีความแม่นยำเชื่อถือได้",
+        "การวัดพิกัดที่แม่นยำ ความละเอียดการแสดงผลแกน X และ Y สูงถึง 0.0005 มม.",
+        "ค่าความคลาดเคลื่อนอยู่ที่เพียง (3 + L/200) ไมครอน (L = ความยาวที่วัด)ช่วยให้ได้ผลการวัดที่แม่นยำสูง",
+        "โครงสร้างแกน Z เสถียร ระบบยกแกน Z แบบรางนำ (Guide Rail) เพิ่มความนิ่ง แข็งแรง และทนทานของตัวเครื่องขณะวัดไม่มีอาการสั่นไหว",
+        "หน้าจอฉายคุณภาพสูง หน้าจอขนาด Φ312 มม. ใช้งานจริงมากกว่า Φ300 มม. มีเส้น Crosshair และหมุนได้ 0–360° ช่วยให้จัดตำแหน่งและวัดได้หลายมุมอย่างสะดวก",
+        "ระบบแสงคุณภาพสูง ใช้หลอดฮาโลเจน 24V/150W ทั้งแสงส่องผ่านและแสงสะท้อน พร้อมระบบระบายความร้อนด้วยพัดลม ให้แสงสม่ำเสมอ และควบคุมอุณหภูมิได้ดี เพื่อความเสถียรในการวัด"
+      ],
+      "applications": [
+        "เหมาะสำหรับอุตสาหกรรมหลากหลาย เช่น เครื่องจักรกล อิเล็กทรอนิกส์ ยานยนต์ ฮาร์ดแวร์ พลาสติก และงานแม่พิมพ์",
+        "สามารถวัดขนาด รูปร่าง และค่าความคลาดเคลื่อนของตำแหน่ง (Position Tolerance) ได้อย่างแม่นยำ",
+        "รองรับงานตรวจสอบชิ้นส่วน (Inspection) การวัดรูปทรง (Measurement) และควบคุมกระบวนการผลิต (Process Control) ได้อย่างมีประสิทธิภาพ"
+      ],
+      "mainImage": "/product-media/Vertical-Measuring-Profile-Projector.png",
+      "logo": "/product-media/22.png",
+      "specImage": "/product-media/VerticalMeasuringProfileProjectorspec01.png",
+      "deliveryImage": "/product-media/VerticalMeasuringProfileProjectorspec02.png"
+    }
+  },
+  {
+    "id": "productprofilehorizontal",
+    "name": "Horizontal Measuring Profile Projector",
+    "category": "products",
+    "subcategory": "pprofileprojecter",
+    "image": "/product-media/Horizontal-Measuring-Profile-Projector.png",
+    "specPdf": "/product-media/HorizontalMeasuringProfileProjectorSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Horizontal Measuring Profile Projector",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "ประเภทเครื่อง: Horizontal Profile Projector (รุ่นแนวนอน)",
+        "ระบบแสง: ติดตั้งเลนส์วัตถุคุณภาพสูง (High-precision optical system) ให้ภาพที่ชัดเจนและคมชัด",
+        "การใช้งาน: เหมาะสำหรับการตรวจสอบรูปร่างและวัดขนาดชิ้นงานทางแสง (Measuring & Inspecting",
+        "โครงสร้าง: เป็นส่วนหนึ่งของกลุ่มผลิตภัณฑ์เครื่องมือวัดจาก Mikrosize ซึ่งเน้นความแม่นยำสูง",
+        "เครื่องโปรไฟล์โปรเจคเตอร์รุ่นนี้เหมาะสำหรับงานตรวจสอบคุณภาพในสายการผลิต หรือห้องปฏิบัติการมาตรวิทยา (Metrology Lab)"
+      ],
+      "applications": [
+        "-----",
+        "-----",
+        "-----"
+      ],
+      "mainImage": "/product-media/Horizontal-Measuring-Profile-Projector.png",
+      "logo": "/product-media/22.png",
+      "specImage": "/product-media/Horizontal-Measuring-Profile-Projector-SPEC01.png",
+      "deliveryImage": "/product-media/Horizontal-Measuring-Profile-Projector-SPEC02.png"
+    }
+  },
+  {
+    "id": "productmanualvideo",
+    "name": "Manual Video Measuring System",
+    "category": "products",
+    "subcategory": "pprofileprojecter",
+    "image": "/product-media/MVMM.png",
+    "specPdf": "/product-media/VerticalMeasuringProfileProjector.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Manual Video Measuring System",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "ซอฟต์แวร์วัดผลประสิทธิภาพสูง รองรับฟังก์ชันตรวจจับขอบอัตโนมัติ (Auto Edge Tracing) และสามารถสร้างรายงานได้หลายรูปแบบ",
+        "เทคโนโลยี Sub-pixel segmentation ช่วยเพิ่มความละเอียดในการตรวจจับขอบภาพได้อย่างแม่นยำยิ่งขึ้น",
+        "แหล่งกำเนิดแสงแบบ Cold Light Surface รองรับการวัดชิ้นงานที่มีรูปทรงซับซ้อน",
+        "มีเลเซอร์พอยเตอร์ ช่วยระบุตำแหน่งของชิ้นงานที่ต้องการวัดได้ง่ายและรวดเร็ว",
+        "โต๊ะทำงานหินแกรนิตเกรด “00” ให้ความมั่นคงสูง ลดการสั่นสะเทือน",
+        "แกนเลื่อนและตลับลูกปืนความแม่นยำสูง นำเข้าจากประเทศเยอรมนี",
+        "ระบบวิดีโอความละเอียดสูง เพื่อการมองเห็นที่คมชัด",
+        "รองรับการติดตั้งหัววัด Renishaw (อุปกรณ์เสริม) สำหรับการวัดแบบ 3 มิติพื้นฐาน"
+      ],
+      "applications": [
+        "เหมาะสำหรับใช้งานในอุตสาหกรรมการผลิตเครื่องจักร อิเล็กทรอนิกส์ ยานยนต์ ฮาร์ดแวร์ พลาสติก และแม่พิมพ์",
+        "ใช้สำหรับวัดขนาด รูปร่าง และค่าความคลาดเคลื่อนของตำแหน่ง (Position Tolerance) ของชิ้นงานได้อย่างแม่นยำ รองรับงานตรวจสอบคุณภาพ การวัดรูปทรง และการควบคุมกระบวนการผลิต (Process Control)"
+      ],
+      "mainImage": "/product-media/Manual-Video-Measuring-System.png",
+      "logo": "/product-media/22.png",
+      "specImage": "/product-media/ManualVideoMeasuringSystemSpec01.png",
+      "deliveryImage": "/product-media/ManualVideoMeasuringSystemSpec02.png"
+    }
+  },
+  {
+    "id": "item-18",
+    "name": "Programmable Temperature And Humidity Test Chamber",
+    "category": "products",
+    "subcategory": "pprotablecmm",
+    "image": "/product-media/Programmable-Temperature-And-Humidity-Test-Chamber.png",
+    "specPdf": null,
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": null
+  },
+  {
+    "id": "productarm",
+    "name": "Absolute Arm (CMM Arm)",
+    "category": "products",
+    "subcategory": "pprotablecmm",
+    "image": "/product-media/AbsoluteArm.png",
+    "specPdf": null,
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Absolute Arm 7-Axis 83 series <br/>(หรือ Absolute Arm 7-Axis รุ่น 8300 Series)",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "โครงสร้าง 7 แกน (7-Axis Design): เพิ่มความคล่องตัวในการใช้งาน ช่วยให้สามารถเข้าถึงพื้นที่ที่วัดยากได้ดียิ่งขึ้น และเหมาะสำหรับการใช้งานร่วมกับเลเซอร์สแกนเนอร์",
+        "เทคโนโลยี Absolute Encoders: เป็นจุดเด่นสำคัญ ทำให้ไม่ต้องอ้างอิงตำแหน่ง (No homing required) เปิดเครื่องแล้วสามารถใช้งานได้ทันที ช่วยลดเวลาการทำงาน",
+        "วัสดุคาร์บอนไฟเบอร์ (Carbon Fiber Construction): โครงสร้างมีความแข็งแรงสูง น้ำหนักเบา และทนทานต่อการเปลี่ยนแปลงอุณหภูมิ (Thermal stability) ช่วยให้ความแม่นยำคงที่แม้ในสภาพแวดล้อมการทำงานที่ยากลำบาก",
+        "ความแม่นยำสูง (High Accuracy): ผ่านการรับรองมาตรฐาน ISO 10360-12",
+        "การใช้งานร่วมกับสแกนเนอร์ (Scanner Compatibility): 7-Axis series รองรับการใช้งานร่วมกับเลเซอร์สแกนเนอร์สมรรถนะสูง เช่น RS6 Laser Scanner, RS5 Laser Scanner, หรือ Absolute Scanner AS1",
+        "การเปลี่ยนหัววัดอย่างรวดเร็ว (SmartProbe): สามารถเปลี่ยนหัวโพรบสัมผัส (Tactile Probing) หรือหัวสแกนเนอร์ได้โดยไม่ต้องตั้งค่าใหม่ (No recalibration needed)",
+        "ฟังก์ชันการใช้งานง่าย (Usability): มีหน้าจอแสดงผลบนข้อมือ (On-wrist display) ทำให้ผู้ใช้งานสามารถควบคุมและดูผลการวัดได้ทันที"
+      ],
+      "applications": [
+        "การตรวจสอบชิ้นงานจริงเทียบกับ CAD (Part-to-CAD Inspection)",
+        "วิศวกรรมย้อนกลับ (Reverse Engineering",
+        "การตั้งค่าอุปกรณ์ประกอบ (Fixture Setup)",
+        "การวัดชิ้นงานขนาดใหญ่หรือชิ้นงานที่ไม่สามารถเคลื่อนย้ายได้",
+        "Absolute Arm 7-Axis 83 series เหมาะสำหรับงานอุตสาหกรรมที่ต้องการทั้งความเร็วในการเก็บข้อมูลผ่านเลเซอร์สแกนเนอร์และความแม่นยำในการสัมผัสชิ้นงาน"
+      ],
+      "mainImage": "/product-media/AbsoluteArm.png",
+      "logo": "/product-media/38.png",
+      "specImage": "/product-media/AbsoluteArm-CMM-Arm-spec01.png",
+      "deliveryImage": "/product-media/AutoMetallographicMountingPressSpec02.png"
+    }
+  },
+  {
+    "id": "productroundness",
+    "name": "Roundness Measuring Machine",
+    "category": "products",
+    "subcategory": "proundness",
+    "image": "/product-media/RONDCOM-MEASURING.png",
+    "specPdf": null,
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "RONDCOM NEX 100 (DX/SD) SERIES",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "ความแม่นยำสูง : มีความแม่นยำในการหมุนสูงในทิศทางรัศมีระบบ CNC",
+        "อัตโนมัติ : รองรับการจัดวางตำแหน่งชิ้นงานอัตโนมัติ (Fully automatic alignment) และสามารถเขียนโปรแกรม CNC สำหรับการวัดซ้ำ",
+        "ฟังก์ชันการวัดที่หลากหลาย : <br/> -- วัดความกลม (Roundness) และความเรียบผิว (Flatness) ได้อย่างต่อเนื่อง<br/> -- มีฟังก์ชันวัดเส้นผ่านศูนย์กลางตรงข้าม (Opposed diameter measurement) สำหรับวัดเส้นผ่านศูนย์กลางภายในและภายนอกได้พร้อมกัน",
+        "รองรับชิ้นงานหลากหลาย : รองรับชิ้นงานที่สูงได้ตั้งแต่ 300, 500, ถึง 900 มม.",
+        "เทคโนโลยีการตรวจจับ : ใช้ระบบตรวจจับอัตโนมัติ (Automatic centering and tilting) และปรับแรงอัตโนมัติ (Automatic Stylus Force)",
+        "ระบบ AI และการวิเคราะห์: มีฟังก์ชัน AI สำหรับตั้งค่าเงื่อนไขการตรวจวัดอัตโนมัติ และบันทึกขั้นตอนการวิเคราะห์"
+      ],
+      "applications": [
+        "ความแม่นยำสูง: ใช้ Linear motor drive ลดเสียงรบกวน (Noise) ได้ดีเยี่ยม",
+        "ช่วงการวัดกว้าง (Contour): สามารถวัดรูปร่าง (Contour) ได้ในช่วงแนวตั้ง (Z-axis) ถึง 60 mm ด้วยหัวตรวจวัดที่มีสเกลแก้ว",
+        "หัวตรวจวัดแบบเปลี่ยนเร็ว (Quick Change): ระบบยึดหัวตรวจวัดด้วยแม่เหล็กที่ได้รับการจดสิทธิบัตรทำให้เปลี่ยนหัวตรวจวัดได้รวดเร็ว",
+        "ทำงานรวดเร็ว: ขับเคลื่อนด้วยความเร็วสูง X-axis 100mm/s, C-axis 50mm/s เพิ่มประสิทธิภาพการทำงาน",
+        "รองรับงานหลากหลาย: รุ่น DX (Compact) มักเป็นแบบรวมชุดไดรฟ์ โต๊ะ และประมวลผล ส่วนรุ่น SD มักเป็นแบบโมดูลาร์ที่ปรับเปลี่ยนได้ตามความต้องการ",
+        "ความแม่นยำทางคอนทัวร์: มาตรฐานความแม่นยำ ±(1.2+|2H|/100) µm",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/RONDCOM-MEASURING.png",
+      "logo": "/product-media/39.png",
+      "specImage": "/product-media/RONDCOMMEASURINGspec01.png",
+      "deliveryImage": "/product-media/RONDCOMMEASURINGspec02.png"
+    }
+  },
+  {
+    "id": "productsaltspray",
+    "name": "Salt Spray Test Chamber",
+    "category": "products",
+    "subcategory": "psaltspray",
+    "image": "/product-media/Salt-Spray-Test-Chamber.png",
+    "specPdf": "/product-media/saltspraytestchamberspec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Salt Spray Test Chamber",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "ตู้ทดสอบการกัดกร่อนแบบพ่นละอองเกลือ (Salt Spray Test Chamber) ใช้สำหรับประเมินความสามารถในการต้านทานการกัดกร่อนของวัสดุและชั้นเคลือบผิว รวมถึงใช้เปรียบเทียบคุณภาพของกระบวนการเคลือบผิวชนิดต่าง ๆ",
+        "สามารถใช้ประเมินความทนทานต่อการกัดกร่อนจากไอเกลือของผลิตภัณฑ์ได้ เหมาะสำหรับชิ้นส่วน อุปกรณ์อิเล็กทรอนิกส์ ชั้นเคลือบของวัสดุโลหะ และผลิตภัณฑ์อุตสาหกรรมทั่วไป",
+        "อุปกรณ์ประกอบด้วยระบบกระจายละอองขนาดเล็ก (Fine Droplet Dispersion System) ซึ่งทำให้การพ่นละอองเกลือมีความสม่ำเสมอ เหมาะสำหรับการทดสอบการกัดกร่อนในอุตสาหกรรมต่าง ๆ เช่น อิเล็กทรอนิกส์ ไฟฟ้า ยานยนต์ รถจักรยานยนต์ ฮาร์ดแวร์ พลาสติก แผ่นวงจรยืดหยุ่น (FPC) และผลิตภัณฑ์ชุบผิว (Electroplated Products)",
+        "รองรับการทดสอบได้หลายรูปแบบ เช่น <br/> -- การพ่นละอองเกลือแบบเป็นกลาง (Neutral Salt Spray Test)<br/> -- การพ่นละอองเกลือแบบกรด (Acidic Salt Spray Test)",
+        "เป็นอุปกรณ์ประสิทธิภาพสูงในกลุ่มตู้ทดสอบการกัดกร่อนแบบพ่นละอองเกลือ"
+      ],
+      "applications": [
+        "เหมาะสำหรับการทดสอบและวิเคราะห์สมบัติเชิงกลของวัสดุ เช่น การทดสอบแรงดึง (Tensile) แรงอัด (Compression) การลอก (Peel) การฉีกขาด (Tear) และแรงเฉือน (Shear)",
+        "สามารถประยุกต์ใช้กับวัสดุหลากหลายประเภท ได้แก่"
+      ],
+      "mainImage": "/product-media/Salt-Spray-Test-Chamber.png",
+      "logo": "/product-media/22.png",
+      "specImage": "/product-media/SaltSprayTestChamberspec01.png",
+      "deliveryImage": "/product-media/SingleColumnElectronicUniversalTestingMachinespec02.png"
+    }
+  },
+  {
+    "id": "productsinglecolumn",
+    "name": "Computerized Dual-Column Servo Universal Testing Machine",
+    "category": "products",
+    "subcategory": "psaltspray",
+    "image": "/product-media/Single-Column-Electronic-Universal-Testing-Machine.png",
+    "specPdf": "/product-media/SingleColumnElectronicUniversalTestingMachinespec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Series Single-Column Touch Screen<br/> Universal Testing Machine",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "โครงสร้าง: เป็นแบบ Single-Column ขนาดกะทัดรัด ประหยัดพื้นที่",
+        "การควบคุม: ใช้หน้าจอสัมผัส (Touch Screen) ในการควบคุมและแสดงผล ทำให้ใช้งานง่าย",
+        "การใช้งาน: เหมาะสำหรับการทดสอบแรงดึง (Tensile) และแรงกด (Compression) กับวัสดุขนาดเล็กหรือแรงไม่สูงมาก",
+        "ประเภทอุตสาหกรรม: เหมาะสำหรับใช้ในงานตรวจสอบคุณภาพ (QC) งานวิจัย และพัฒนาวัสดุต่างๆ",
+        "ผู้ผลิต: ผลิตโดย Mikrosize ผู้ผลิตเครื่องมือวัดและทดสอบจากประเทศจีน"
+      ],
+      "applications": [
+        "เหมาะสำหรับการทดสอบและวิเคราะห์สมบัติเชิงกลของวัสดุ เช่น การทดสอบแรงดึง (Tensile) แรงอัด (Compression) การลอก (Peel) การฉีกขาด (Tear) และแรงเฉือน (Shear)",
+        "สามารถประยุกต์ใช้กับวัสดุหลากหลายประเภท ได้แก่"
+      ],
+      "mainImage": "/product-media/SingleColumnElectronicUniversalTestingMachine.png",
+      "logo": "/product-media/22.png",
+      "specImage": "/product-media/SingleColumnElectronicUniversalTestingMachinespec01.png",
+      "deliveryImage": "/product-media/SingleColumnElectronicUniversalTestingMachinespec02.png"
+    }
+  },
+  {
+    "id": "productsurfacetexture",
+    "name": "Surface Texture Measuring Machine",
+    "category": "products",
+    "subcategory": "psurfacetexture",
+    "image": "/product-media/SURFACETEXTUREMEASURING.png",
+    "specPdf": "/product-media/SURFACETEXTUREMEASURINGspec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Surface Texture Measuring",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "High Speed & Precision: ระบบขับเคลื่อนแบบ Magnetic Linear Drive (ไร้การสัมผัส) ช่วยให้การเคลื่อนที่รวดเร็วกว่าแบบ Spindle ทั่วไปสูงสุดถึง 7 เท่า พร้อมลดแรงสั่นสะเทือนในระดับต่ำมาก เพื่อความแม่นยำสูงในการวัด",
+        "Performance: รองรับช่วงการวัดแกน Z สูงสุด ±1,000 µm และมีความละเอียดแนวตั้งสูงถึง 0.0001 µm",
+        "Versatile and Modular: รองรับการวัดทั้งแบบ 2D และ 3D ควบคุมการทำงานด้วยระบบ CNC อัตโนมัติเต็มรูปแบบ และรองรับการใช้งานร่วมกับเซ็นเซอร์แบบ Modular",
+        "Maintenance & Environment: ออกแบบให้ไม่ต้องบำรุงรักษา (ไม่ใช้น้ำมัน และมีการเคลือบผิวพิเศษ) พร้อมรองรับการทำงานที่เสถียรและแม่นยำในช่วงอุณหภูมิ 20°C ± 5°C ระบบนี้ถูกออกแบบมาสำหรับงานวิเคราะห์ค่าพื้นผิวที่ต้องการความละเอียดและความแม่นยำสูง และสามารถใช้งานร่วมกับโต๊ะกันสั่น (Anti-Vibration Table) รุ่น DX เพื่อเพิ่มประสิทธิภาพในการวัดให้ดียิ่งขึ้น"
+      ],
+      "applications": [
+        "ความแม่นยำสูง: ใช้ Linear motor drive ลดเสียงรบกวน (Noise) ได้ดีเยี่ยม",
+        "ช่วงการวัดกว้าง (Contour): สามารถวัดรูปร่าง (Contour) ได้ในช่วงแนวตั้ง (Z-axis) ถึง 60 mm ด้วยหัวตรวจวัดที่มีสเกลแก้ว",
+        "หัวตรวจวัดแบบเปลี่ยนเร็ว (Quick Change): ระบบยึดหัวตรวจวัดด้วยแม่เหล็กที่ได้รับการจดสิทธิบัตรทำให้เปลี่ยนหัวตรวจวัดได้รวดเร็ว",
+        "ทำงานรวดเร็ว: ขับเคลื่อนด้วยความเร็วสูง X-axis 100mm/s, C-axis 50mm/s เพิ่มประสิทธิภาพการทำงาน",
+        "รองรับงานหลากหลาย: รุ่น DX (Compact) มักเป็นแบบรวมชุดไดรฟ์ โต๊ะ และประมวลผล ส่วนรุ่น SD มักเป็นแบบโมดูลาร์ที่ปรับเปลี่ยนได้ตามความต้องการ",
+        "ความแม่นยำทางคอนทัวร์: มาตรฐานความแม่นยำ ±(1.2+|2H|/100) µm",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/SURFACETEXTUREMEASURING.png",
+      "logo": "/product-media/39.png",
+      "specImage": "/product-media/SURFACETEXTUREMEASURINGspec01.png",
+      "deliveryImage": "/product-media/SURFACETEXTUREMEASURINGspec02.png"
+    }
+  },
+  {
+    "id": "producttemperature",
+    "name": "Blower drying oven",
+    "category": "products",
+    "subcategory": "ptemperature",
+    "image": "/product-media/Programmable-Temperature-And-Humidity-Test-Chamber.png",
+    "specPdf": "/product-media/ProgrammableTemperatureAndHumidityTestChamberspec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Programmable Temperature And <br/> Humidity Test Chamber",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "หน้าจอควบคุมแบบสัมผัสชนิดสี (Color LCD Touch Screen)",
+        "โครงสร้างภายนอกผลิตจากแผ่นเหล็กพ่นสี มีคุณสมบัติป้องกันการกัดกร่อน ป้องกันสนิม ทนต่อการสึกหรอและรอยขีดข่วน พร้อมช่วยเพิ่มความสวยงามของตัวเครื่อง",
+        "หน้าต่างสังเกตการณ์แบบกระจกสุญญากาศ 3 ชั้น (Three-layer Vacuum Glass) พร้อมไฟส่องสว่างภายใน และระบบไล่ฝ้าแบบไฟฟ้า (Electric Defogging) ช่วยให้มองเห็นภายในตู้ทดสอบได้อย่างชัดเจน",
+        "ห้องทดสอบภายในผลิตจากสเตนเลสเกรด 304 พร้อมชั้นวางสเตนเลสจำนวน 2 ชั้น สามารถปรับระดับความสูงได้",
+        "ขนาดห้องทดสอบสามารถสั่งผลิตตามความต้องการได้ โดยขนาดมาตรฐานคือ 500 × 750 × 600 มม. (ความจุประมาณ 408 ลิตร)",
+        "วัสดุฉนวนกันความร้อนใช้โฟมโพลียูรีเทนชนิดแข็ง (Polyurethane Rigid Foam) ร่วมกับใยแก้ว (Glass Wool)",
+        "ช่วงอุณหภูมิ: -40℃ ถึง +150℃",
+        "ช่วงความชื้น: 20% – 98% RH (ปรับตั้งค่าได้)",
+        "ติดตั้งถังเก็บน้ำภายในแบบเคลื่อนย้ายได้ พร้อมปั๊มน้ำอัตโนมัติ สำหรับลำเลียงน้ำจากถังด้านล่างไปยังส่วนด้านบนโดยอัตโนมัติ",
+        "ระบบแจ้งเตือนเมื่อน้ำในถังไม่เพียงพอ (Water Shortage Alarm)",
+        "ฐานเครื่องติดตั้งล้อเลื่อนอเนกประสงค์ (Universal Wheels) เพื่อความสะดวกในการเคลื่อนย้าย",
+        "ระบบทำความชื้นแบบแยกส่วน (Split-type Humidifying Cylinder)",
+        "แสดงผลกราฟอุณหภูมิและความชื้นแบบเรียลไทม์ (Real-time Curve Display)",
+        "รองรับการตั้งโปรแกรมอุณหภูมิและความชื้นแบบหลายช่วง (Multi-stage Program) และสามารถกำหนดรอบการทำงานซ้ำได้หลาย Cycle",
+        "มีฟังก์ชันบันทึกโปรแกรมเมื่อไฟฟ้าดับ (Power-off Memory) และสามารถเลือกให้ทำงานต่ออัตโนมัติเมื่อไฟฟ้ากลับมา",
+        "รองรับการตั้งเวลาเริ่มต้นและหยุดการทำงานล่วงหน้า (Reservation Start/Stop) สำหรับการทำงานแบบอัตโนมัติ",
+        "อุปกรณ์หลักใช้ชิ้นส่วนคุณภาพสูงนำเข้า เช่น คอมเพรสเซอร์จากประเทศฝรั่งเศส (Tecumseh)",
+        "ระบบความปลอดภัยครบถ้วน ได้แก่ <br/> -- ระบบป้องกันแรงดันเกิน (Overpressure Protection)<br/> -- ระบบป้องกันกระแสเกินและโหลดเกิน (Overcurrent / Overload Protection)<br/> -- ระบบป้องกันฮีตเตอร์ทำงานแห้ง (Dry-burning Protection)<br/> -- ระบบป้องกันไฟฟ้าขาดเฟส (Phase Failure Protection)<br/> -- ระบบป้องกันน้ำในถังไม่เพียงพอ (Water Shortage Protection)",
+        "มีพอร์ต USB สำหรับส่งออกข้อมูล (Data Export)"
+      ],
+      "applications": [
+        "ออกแบบตามมาตรฐาน: GB 11158, GB 10589-89, GB 10592-89, GB/T 10586-89 GB/T 2423.1, GB/T 2423.2, GB/T 2423.3, GB/T 2423.4, GB/T 2423.22 IEC 60068-2-1, IEC 60068-2-2 GJB 150.3, GJB 150.4, GJB 150.9"
+      ],
+      "mainImage": "/product-media/Programmable-Temperature-And-Humidity-Test-Chamber.png",
+      "logo": "/product-media/gfbrand.png",
+      "specImage": "/product-media/ProgrammableTemperatureAndHumidityTestChamberspec01.png",
+      "deliveryImage": "/product-media/ProgrammableTemperatureAndHumidityTestChamberspec02.png"
+    }
+  },
+  {
+    "id": "productsinglecolumn",
+    "name": "Computerized Dual-Column Servo Universal Testing Machine",
+    "category": "products",
+    "subcategory": "ptemperature",
+    "image": "/product-media/Single-Column-Electronic-Universal-Testing-Machine.png",
+    "specPdf": "/product-media/SingleColumnElectronicUniversalTestingMachinespec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Series Single-Column Touch Screen<br/> Universal Testing Machine",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "โครงสร้าง: เป็นแบบ Single-Column ขนาดกะทัดรัด ประหยัดพื้นที่",
+        "การควบคุม: ใช้หน้าจอสัมผัส (Touch Screen) ในการควบคุมและแสดงผล ทำให้ใช้งานง่าย",
+        "การใช้งาน: เหมาะสำหรับการทดสอบแรงดึง (Tensile) และแรงกด (Compression) กับวัสดุขนาดเล็กหรือแรงไม่สูงมาก",
+        "ประเภทอุตสาหกรรม: เหมาะสำหรับใช้ในงานตรวจสอบคุณภาพ (QC) งานวิจัย และพัฒนาวัสดุต่างๆ",
+        "ผู้ผลิต: ผลิตโดย Mikrosize ผู้ผลิตเครื่องมือวัดและทดสอบจากประเทศจีน"
+      ],
+      "applications": [
+        "เหมาะสำหรับการทดสอบและวิเคราะห์สมบัติเชิงกลของวัสดุ เช่น การทดสอบแรงดึง (Tensile) แรงอัด (Compression) การลอก (Peel) การฉีกขาด (Tear) และแรงเฉือน (Shear)",
+        "สามารถประยุกต์ใช้กับวัสดุหลากหลายประเภท ได้แก่"
+      ],
+      "mainImage": "/product-media/SingleColumnElectronicUniversalTestingMachine.png",
+      "logo": "/product-media/22.png",
+      "specImage": "/product-media/SingleColumnElectronicUniversalTestingMachinespec01.png",
+      "deliveryImage": "/product-media/SingleColumnElectronicUniversalTestingMachinespec02.png"
+    }
+  },
+  {
+    "id": "productdualcolumn",
+    "name": "Computerized Dual-Column Servo Universal Testing Machine",
+    "category": "products",
+    "subcategory": "ptensilemachine",
+    "image": "/product-media/DUALCOLUMNSELECTRONICUNIVERSALTESTINGMACHINE.png",
+    "specPdf": "/product-media/DUALCOLUMNSELECTRONICUNIVERSALTESTINGMACHINEspec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Computerized Dual-Column Servo Universal Testing Machine",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "เครื่องทดสอบควบคุมด้วยคอมพิวเตอร์แบบสมบูรณ์ (Fully Computer-Controlled Testing Machine) ใช้เทคโนโลยีควบคุมความเร็วตามมาตรฐานสากล",
+        "เลือกใช้อุปกรณ์และชิ้นส่วนจากแบรนด์ระดับนานาชาติ ส่งผลให้เครื่องมีความน่าเชื่อถือสูงในระยะยาว มีเสถียรภาพ ความเที่ยงตรงแม่นยำสูง การทำงานราบรื่น และมีอายุการใช้งานยาวนาน",
+        "รองรับการทดสอบวัสดุภายใต้แรงกระทำไม่เกิน 50 kN ครอบคลุมฟังก์ชันการทดสอบที่หลากหลายสำหรับผลิตภัณฑ์ส่วนใหญ่ เหมาะสำหรับใช้งานในโรงงานอุตสาหกรรม สถาบันวิจัย และหน่วยงานตรวจสอบคุณภาพ",
+        "ระบบควบคุมแบบดิจิทัลครบวงจรชนิดวงปิด (Closed-loop) สำหรับพารามิเตอร์แรง (Force) การเปลี่ยนรูป (Deformation) และการเคลื่อนที่ (Displacement) โดยใช้อัลกอริทึม PID แบบปรับตัว (Adaptive PID) เพื่อให้สามารถควบคุมแบบวงปิดได้อย่างสมบูรณ์ ทั้งในส่วนของแรงและการเคลื่อนที่ พร้อมรองรับการสลับโหมดการควบคุมโดยอัตโนมัติ และให้การเปลี่ยนผ่านระหว่างโหมดเป็นไปอย่างต่อเนื่องโดยปราศจากแรงกระทบ (Impact)"
+      ],
+      "applications": [
+        "เหมาะสำหรับการทดสอบและวิเคราะห์สมบัติเชิงกลของวัสดุ เช่น การทดสอบแรงดึง (Tensile) แรงอัด (Compression) การลอก (Peel) การฉีกขาด (Tear) และแรงเฉือน (Shear)",
+        "สามารถประยุกต์ใช้กับวัสดุหลากหลายประเภท ได้แก่ โลหะความแข็งแรงปานกลาง (Medium-strength Metal), วัสดุเผาผง (Sintered Product), วัสดุแรงเสียดทาน (Friction Material), ยาง, พลาสติก, ฟิล์มบาง (Thin Film), เส้นใยและลวดขนาดเล็ก (Fiber and Fine Thread), กาว (Adhesive), โฟม, เทปกาว (Adhesive Tape), อีลาสโตเมอร์ (Elastomer), คอนเนคเตอร์ (Connector), วัสดุชีวภาพ (Biomaterial), ผลิตภัณฑ์ไม้และกระดาษ, ฟอยล์โลหะ (Metal Foil), ลวด, ตลับลูกปืนชนิดอุ้มน้ำมัน (Oil Bearing), เซรามิก, ชิ้นส่วนและอุปกรณ์ประกอบ (Parts and Components), ตัวยึด (Fastener) และวัสดุคอมโพสิต (Composite Material)"
+      ],
+      "mainImage": "/product-media/DUALCOLUMNSELECTRONICUNIVERSALTESTINGMACHINE.png",
+      "logo": "/product-media/22.png",
+      "specImage": "/product-media/DUALCOLUMNSELECTRONIC-UNIVERSALTESTINGMACHINEspec01.png",
+      "deliveryImage": "/product-media/DUALCOLUMNSELECTRONIC-UNIVERSALTESTINGMACHINEspec02.png"
+    }
+  },
+  {
+    "id": "productsinglecolumn",
+    "name": "Computerized Dual-Column Servo Universal Testing Machine",
+    "category": "products",
+    "subcategory": "ptensilemachine",
+    "image": "/product-media/Single-Column-Electronic-Universal-Testing-Machine.png",
+    "specPdf": "/product-media/SingleColumnElectronicUniversalTestingMachinespec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Series Single-Column Touch Screen<br/> Universal Testing Machine",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "โครงสร้าง: เป็นแบบ Single-Column ขนาดกะทัดรัด ประหยัดพื้นที่",
+        "การควบคุม: ใช้หน้าจอสัมผัส (Touch Screen) ในการควบคุมและแสดงผล ทำให้ใช้งานง่าย",
+        "การใช้งาน: เหมาะสำหรับการทดสอบแรงดึง (Tensile) และแรงกด (Compression) กับวัสดุขนาดเล็กหรือแรงไม่สูงมาก",
+        "ประเภทอุตสาหกรรม: เหมาะสำหรับใช้ในงานตรวจสอบคุณภาพ (QC) งานวิจัย และพัฒนาวัสดุต่างๆ",
+        "ผู้ผลิต: ผลิตโดย Mikrosize ผู้ผลิตเครื่องมือวัดและทดสอบจากประเทศจีน"
+      ],
+      "applications": [
+        "เหมาะสำหรับการทดสอบและวิเคราะห์สมบัติเชิงกลของวัสดุ เช่น การทดสอบแรงดึง (Tensile) แรงอัด (Compression) การลอก (Peel) การฉีกขาด (Tear) และแรงเฉือน (Shear)",
+        "สามารถประยุกต์ใช้กับวัสดุหลากหลายประเภท ได้แก่"
+      ],
+      "mainImage": "/product-media/SingleColumnElectronicUniversalTestingMachine.png",
+      "logo": "/product-media/22.png",
+      "specImage": "/product-media/SingleColumnElectronicUniversalTestingMachinespec01.png",
+      "deliveryImage": "/product-media/SingleColumnElectronicUniversalTestingMachinespec02.png"
+    }
+  },
+  {
+    "id": "productcncvideo",
+    "name": "CNC Video Measuring System",
+    "category": "products",
+    "subcategory": "pvideomeasuring",
+    "image": "/product-media/auto.png",
+    "specPdf": "/product-media/cnc-vmm-spec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Video Measuring Machine",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "Automatic measurement capabilities",
+        "High-precision imaging technology",
+        "User-friendly interface",
+        "ระบบ CNC อัตโนมัติ พร้อม Closed-loop Control",
+        "โครงสร้างหินแกรนิต ลดการสั่นสะเทือน",
+        "ความละเอียด 1 µm แม่นยำสูง",
+        "กล้อง CCD + เลนส์ซูม",
+        "LED Multi-zone + Contour LED 256 ระดับ"
+      ],
+      "applications": [
+        "เครื่องจักรกล / อิเล็กทรอนิกส์ / ยานยนต์",
+        "ตรวจสอบชิ้นงาน (Inspection)",
+        "Measurement & Process Control"
+      ],
+      "mainImage": "/product-media/auto.png",
+      "logo": "/product-media/22.png",
+      "specImage": "/product-media/auto-spec.png",
+      "deliveryImage": "/product-media/standard-dilivery.png"
+    }
+  },
+  {
+    "id": "productcncautovideo",
+    "name": "CNC Auto Video Measuring System(Moving Gantry)",
+    "category": "products",
+    "subcategory": "pvideomeasuring",
+    "image": "/product-media/AVMM.png",
+    "specPdf": "/product-media/VMGVideoMeasuringSystemSpec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "CNC AUTO VIDEO MEASURING SYSTEM(MOVING GANTRY)",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "โครงสร้างแบบแกนเคลื่อนที่ (Moving Gantry) โดยชิ้นงานวางคงที่บนแท่นวัด",
+        "ระบบ CNC อัตโนมัติแบบวงจรปิด (Closed-loop) ควบคุมการวัดได้อัตโนมัติ",
+        "ฐานและเสาทำจากหินแกรนิต “JINANQING” เกรด “00” ให้ความทนทานต่อการกัดกร่อน และความเสถียรสูงในการทำงาน",
+        "เลนส์ซูมอัตโนมัติ พร้อมระบบกำหนดตำแหน่งแบบอิเล็กทรอนิกส์ ปรับกำลังขยายได้ง่าย",
+        "ควบคุมการเคลื่อนที่แกน X-Y-Z แบบ CNC อัตโนมัติอย่างแม่นยำ",
+        "สเกลเชิงเส้น (Linear Scale) ความละเอียด 0.5 ไมครอน ให้ความแม่นยำสูงและเสถียร",
+        "ใช้รางนำทางเชิงเส้น สกรูบอล (Ball Screw) และมอเตอร์เซอร์โว AC คุณภาพสูง ช่วยให้ตำแหน่งมีความแม่นยำและเสถียร",
+        "ระบบไฟส่องสว่างแบบ LED 5 วง 8 ส่วน ปรับความสว่างได้ 256 ระดับ พร้อมไฟส่องขอบ (Contour Light) แบบขนาน",
+        "ซอฟต์แวร์วัด Microsize รองรับการโฟกัสอัตโนมัติ ค้นหาขอบอัตโนมัติ สร้างรายงานได้หลากหลาย และวิเคราะห์ข้อมูล SPC แบบออนไลน์ พร้อมตั้งค่าการวัดอัตโนมัติได้",
+        "กล้องอุตสาหกรรมสีความละเอียดสูง ให้ภาพคมชัด รองรับการวัดที่มีความเสถียร"
+      ],
+      "applications": [
+        "ใช้งานอย่างแพร่หลายในอุตสาหกรรมการผลิตเครื่องจักร อิเล็กทรอนิกส์ ยานยนต์ ฮาร์ดแวร์ พลาสติก และแม่พิมพ์",
+        "เหมาะสำหรับการวัดขนาด รูปร่าง และค่าความคลาดเคลื่อนของตำแหน่ง (Position Tolerance) ของชิ้นงานได้อย่างแม่นยำ รองรับงานตรวจสอบชิ้นส่วน การวัดรูปทรง และการควบคุมกระบวนการผลิต (Process Control)"
+      ],
+      "mainImage": "/product-media/CNCAUTOVIDEOMEASURINGSYSTEM-MOVINGGANTRY-.png",
+      "logo": "/product-media/22.png",
+      "specImage": "/product-media/CNCAUTOVIDEOMEASURINGSYSTEM-MOVINGGANTRY-spec01.png",
+      "deliveryImage": "/product-media/CNCAUTOVIDEOMEASURINGSYSTEM-MOVINGGANTRY-spec02.png"
+    }
+  },
+  {
+    "id": "productmanualvideo",
+    "name": "Manual Video Measuring System",
+    "category": "products",
+    "subcategory": "pvideomeasuring",
+    "image": "/product-media/MVMM.png",
+    "specPdf": "/product-media/ManualVideoMeasuringSystemspec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Manual Video Measuring System",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "ซอฟต์แวร์วัดผลประสิทธิภาพสูง รองรับฟังก์ชันตรวจจับขอบอัตโนมัติ (Auto Edge Tracing) และสามารถสร้างรายงานได้หลายรูปแบบ",
+        "เทคโนโลยี Sub-pixel segmentation ช่วยเพิ่มความละเอียดในการตรวจจับขอบภาพได้อย่างแม่นยำยิ่งขึ้น",
+        "แหล่งกำเนิดแสงแบบ Cold Light Surface รองรับการวัดชิ้นงานที่มีรูปทรงซับซ้อน",
+        "มีเลเซอร์พอยเตอร์ ช่วยระบุตำแหน่งของชิ้นงานที่ต้องการวัดได้ง่ายและรวดเร็ว",
+        "โต๊ะทำงานหินแกรนิตเกรด “00” ให้ความมั่นคงสูง ลดการสั่นสะเทือน",
+        "แกนเลื่อนและตลับลูกปืนความแม่นยำสูง นำเข้าจากประเทศเยอรมนี",
+        "ระบบวิดีโอความละเอียดสูง เพื่อการมองเห็นที่คมชัด",
+        "รองรับการติดตั้งหัววัด Renishaw (อุปกรณ์เสริม) สำหรับการวัดแบบ 3 มิติพื้นฐาน"
+      ],
+      "applications": [
+        "เหมาะสำหรับใช้งานในอุตสาหกรรมการผลิตเครื่องจักร อิเล็กทรอนิกส์ ยานยนต์ ฮาร์ดแวร์ พลาสติก และแม่พิมพ์",
+        "ใช้สำหรับวัดขนาด รูปร่าง และค่าความคลาดเคลื่อนของตำแหน่ง (Position Tolerance) ของชิ้นงานได้อย่างแม่นยำ รองรับงานตรวจสอบคุณภาพ การวัดรูปทรง และการควบคุมกระบวนการผลิต (Process Control)"
+      ],
+      "mainImage": "/product-media/Manual-Video-Measuring-System.png",
+      "logo": "/product-media/22.png",
+      "specImage": "/product-media/ManualVideoMeasuringSystemSpec01.png",
+      "deliveryImage": "/product-media/ManualVideoMeasuringSystemSpec02.png"
+    }
+  },
+  {
+    "id": "ppushpullgaugerze1",
+    "name": "Digital Push-Pull Gauge RZE-1",
+    "category": "small-tools",
+    "subcategory": "paikoh",
+    "image": "/product-media/aikohRZE-1.png",
+    "specPdf": "/product-media/aikohRZE-1SPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Digital Push-Pull Gauge RZE-1",
+      "subtitle": "Digital Push-Pull Gauge",
+      "features": [
+        "หน่วยการวัด: สามารถสลับหน่วยได้ระหว่าง \\(N\\) (นิวตัน), \\(Kgf\\) (กิโลกรัมแรง), และ \\(lb\\) (ปอนด์)",
+        "หน้าจอแสดงผล: หน้าจออ่านง่ายพร้อมฟังก์ชันกลับด้านหน้าจออัตโนมัติ (Reverse Display) เมื่อคว่ำเครื่องลง",
+        "โหมดการวัด: รองรับการวัดทั้งโหมด Peak (ค่าสูงสุด) และ Track (ค่าเรียลไทม์)",
+        "การส่งข้อมูล: รองรับ USB Data Output และ Analog Output (\\(\\pm2\\text{\"V F.S.\"}\\))",
+        "แหล่งพลังงาน: แบตเตอรี่แบบชาร์จไฟได้ ใช้งานได้ต่อเนื่องประมาณ \\(30\\) ชั่วโมง (เมื่อชาร์จเต็ม)",
+        "ฟังก์ชันเสริม: ปิดเครื่องอัตโนมัติ (Auto Power Off) เพื่อประหยัดพลังงาน"
+      ],
+      "applications": [
+        "เหมาะสำหรับเครื่องกลึงทั่วไป, เครื่องแบ่ง (Dividing Head), และโต๊ะหมุน (Rotary Table)",
+        "การตั้งค่าอุปกรณ์ประกอบ (Fixture Setup)",
+        "การวัดชิ้นงานขนาดใหญ่หรือชิ้นงานที่ไม่สามารถเคลื่อนย้ายได้",
+        "Absolute Arm 7-Axis 83 series เหมาะสำหรับงานอุตสาหกรรมที่ต้องการทั้งความเร็วในการเก็บข้อมูลผ่านเลเซอร์สแกนเนอร์และความแม่นยำในการสัมผัสชิ้นงาน",
+        "ความแม่นยำทางคอนทัวร์: มาตรฐานความแม่นยำ ±(1.2+|2H|/100) µm",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/aikohRZE-1.png",
+      "logo": "/product-media/26.png",
+      "specImage": "/product-media/aikohRZE-1SPEC01.png",
+      "deliveryImage": "/product-media/INSIZE1147-300spec02.png"
+    }
+  },
+  {
+    "id": "pthicknessdt156",
+    "name": "COATING THICKNESS GAGUE DT156",
+    "category": "small-tools",
+    "subcategory": "pcem",
+    "image": "/product-media/CEMDT156.png",
+    "specPdf": "/product-media/CEMDT156spec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "COATING THICKNESS GAGUE DT156",
+      "subtitle": "Coating Thickness Tester",
+      "features": [
+        "เครื่องวัดความหนาสีและผิวเคลือบบนโลหะ (Coating Thickness Tester) แบบพกพาที่แม่นยำสูง วัดได้ทั้งบนเหล็ก (Ferrous) และอลูมิเนียม/อโลหะ (Non-Ferrous) ช่วงการวัด(0- 1250um) (50 mils) ใช้งานง่าย รองรับการเชื่อมต่อ USB และบันทึกข้อมูลได้ เหมาะสำหรับตรวจสอบความหนาสีรถยนต์และงานชุบเคลือบ",
+        "เครื่องมือนี้เหมาะสำหรับผู้ตรวจสอบคุณภาพผิวเคลือบ, อู่ซ่อมสีรถยนต์, และงานตรวจสอบวัสดุพื้นฐาน"
+      ],
+      "applications": [
+        "เหมาะสำหรับเครื่องกลึงทั่วไป, เครื่องแบ่ง (Dividing Head), และโต๊ะหมุน (Rotary Table)",
+        "การตั้งค่าอุปกรณ์ประกอบ (Fixture Setup)",
+        "การวัดชิ้นงานขนาดใหญ่หรือชิ้นงานที่ไม่สามารถเคลื่อนย้ายได้",
+        "Absolute Arm 7-Axis 83 series เหมาะสำหรับงานอุตสาหกรรมที่ต้องการทั้งความเร็วในการเก็บข้อมูลผ่านเลเซอร์สแกนเนอร์และความแม่นยำในการสัมผัสชิ้นงาน",
+        "ความแม่นยำทางคอนทัวร์: มาตรฐานความแม่นยำ ±(1.2+|2H|/100) µm",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/CEMDT156.png",
+      "logo": "/product-media/32.png",
+      "specImage": "/product-media/CEMDT156SPEC01.png",
+      "deliveryImage": "/product-media/INSIZE1147-300spec02.png"
+    }
+  },
+  {
+    "id": "pbrixgf10",
+    "name": "BRIX REFACTOMETER GF-10Brix",
+    "category": "small-tools",
+    "subcategory": "pchuer",
+    "image": "/product-media/CHUER10Brix.png",
+    "specPdf": "/product-media/CHUER10Brixspec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "BRIX REFACTOMETER GF-10Brix",
+      "subtitle": "BRIX REFACTOMETER",
+      "features": [
+        "Brix Refractometer 0-10%Brix รุ่น gf-10Brix นี้ได้รับการออกแบบมาเป็นพิเศษ",
+        "มีย่านการวัด 0-10%Brix ชดเชยอุณหภูมิอัตโนมัติ (ATC) เหมาะสำหรับการวัดความ",
+        "เข้มข้นของน้ำตาล เบียร์ ผักผลไม้และอื่นๆ ถูกใช้กันอย่างแพร่หลายในการวัดความเข้มข้นของนม",
+        "ถั่วเหลือง การผลิตน้ำตาลอาหารและเครื่องดื่ม สามารถนำมาใช้ในการควบคุมความเข้มข้นของความหวานในภาคอุตสาหกรรมต่างๆ"
+      ],
+      "applications": [
+        "วัดระยะทาง (Distance)",
+        "คำนวณพื้นที่ (Area)",
+        "คำนวณปริมาตร (Volume)",
+        "วัดระยะทางแบบทฤษฎีบทพิธากอรัส (Pythagorean mode)",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/CHUER10Brix.png",
+      "logo": "/product-media/36.png",
+      "specImage": "/product-media/CHUER10Brixspec01.png",
+      "deliveryImage": "/product-media/INSIZE1147-300spec02.png"
+    }
+  },
+  {
+    "id": "pthickness600in",
+    "name": "PCOATING THICKNESS GAUGE POSITECTOR 6000IN GAUGES ET-03",
+    "category": "small-tools",
+    "subcategory": "pdefelshko",
+    "image": "/product-media/DEFELSKOSPECPOSITECTOR6000.png",
+    "specPdf": "/product-media/DEFELSKOSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "COATING THICKNESS GAUGE POSITECTOR 6000",
+      "subtitle": "HANDHELD COATING THICKNESS GAUGE",
+      "features": [
+        "เป็นเครื่องมือวัดความหนาผิวเคลือบ (Coating Thickness Gage) ที่มีความแม่นยำสูงจากอเมริกา ได้มาตรฐาน ISO/ASTM ใช้งานแบบไม่ทำลายชิ้นงาน (Non-destructive) วัดได้ทั้งบนเหล็ก (Ferrous) และโลหะอโลหะ (Non-Ferrous) หน้าจอสีทนทาน บันทึกข้อมูลได้ และมีโพรบให้เลือกหลากหลาย",
+        "ความแม่นยำสูง: มีโหมด Hi-RES เพิ่มความละเอียดในการวัด มาพร้อม Certificate of Calibration ตามมาตรฐาน NIST หรือ PTB",
+        "ใช้งานอเนกประสงค์: วัดความหนาสี, ชุบ, เคลือบ บนพื้นผิวโลหะได้ทุกชนิด (เหล็ก, อลูมิเนียม, ทองเหลือง ฯลฯ)",
+        "โพรบเปลี่ยนได้: ตัวเครื่อง (Gage Body) สามารถใช้ร่วมกับโพรบของ DeFelsko ได้ทุกรุ่น (6000 Series)",
+        "รวดเร็วและทนทาน: โหมด Quick-Check วัดได้มากกว่า 90 ครั้งต่อนาที จอสีขนาด 2.8 นิ้ว ทนต่อแรงกระแทก",
+        "มาตรฐานสากล: รองรับมาตรฐาน SSPC-PA 2, ISO 19840, และ IMO PSPC 90/10",
+        "การเชื่อมต่อ: รุ่น Advanced บันทึกค่าได้ 250,000 ข้อมูล, ต่อ USB, Wi-Fi, Bluetooth และดูผ่าน Application บนมือถือได้"
+      ],
+      "applications": [
+        "เหมาะสำหรับเครื่องกลึงทั่วไป, เครื่องแบ่ง (Dividing Head), และโต๊ะหมุน (Rotary Table)",
+        "การตั้งค่าอุปกรณ์ประกอบ (Fixture Setup)",
+        "การวัดชิ้นงานขนาดใหญ่หรือชิ้นงานที่ไม่สามารถเคลื่อนย้ายได้",
+        "Absolute Arm 7-Axis 83 series เหมาะสำหรับงานอุตสาหกรรมที่ต้องการทั้งความเร็วในการเก็บข้อมูลผ่านเลเซอร์สแกนเนอร์และความแม่นยำในการสัมผัสชิ้นงาน",
+        "ความแม่นยำทางคอนทัวร์: มาตรฐานความแม่นยำ ±(1.2+|2H|/100) µm",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/DEFELSKOSPECPOSITECTOR6000.png",
+      "logo": "/product-media/14.png",
+      "specImage": "/product-media/Defelskospecpositec.png",
+      "deliveryImage": "/product-media/INSIZE1147-300spec02.png"
+    }
+  },
+  {
+    "id": "pthermoth02",
+    "name": "THERMO / HUMIDITY METER TH-02",
+    "category": "small-tools",
+    "subcategory": "pdigicon",
+    "image": "/product-media/DIGICONTH-02.png",
+    "specPdf": "/product-media/DIGICONTH-02SPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "THERMO / HUMIDITY METER TH-02",
+      "subtitle": "Humidity Meter",
+      "features": [
+        "เครื่องวัดอุณหภูมิและความชื้นแบบดิจิตอลอิเล็กทรอนิกส์ หน้าจอ LCD ขนาดใหญ่ ใช้งานง่าย แสดงค่าอุณหภูมิและความชื้นพร้อมกัน บันทึกค่าสูงสุด-ต่ำสุดได้ ย่านวัดอุณหภูมิประมาณ (-10sim +50 C) และความชื้น (20% RH 95% RH) เหมาะสำหรับใช้งานในห้องพัก ออฟฟิศ หรือคลังสินค้า"
+      ],
+      "applications": [
+        "แสดงค่าอุณหภูมิและความชื้นได้พร้อมกัน",
+        "Coating Thickness Tester",
+        "เลือกหน่วยแสดงผลอุณหภูมิเป็นเซลเซียส หรือ ฟาเรนไฮต์",
+        "มีสัญลักษณ์แจ้งเตือนแบตเตอรี่อ่อน"
+      ],
+      "mainImage": "/product-media/DIGICONTH-02.png",
+      "logo": "/product-media/31.png",
+      "specImage": "/product-media/DIGICONTH-02SPEC01.png",
+      "deliveryImage": "/product-media/INSIZE1147-300spec02.png"
+    }
+  },
+  {
+    "id": "ppingaugeet03",
+    "name": "PIN GAUGES ET-03",
+    "category": "small-tools",
+    "subcategory": "peisens",
+    "image": "/product-media/EISENPINGAUGE.png",
+    "specPdf": "/product-media/EISENSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "PIN GAUGES ET-03",
+      "subtitle": "High Precision Pin Gauges",
+      "features": [
+        "พินเกจความแม่นยำสูง (High Precision Pin Gauges) จากแบรนด์ EISEN ประเทศญี่ปุ่น ในซีรีส์ ET ที่ออกแบบมาสำหรับการวัดขนาดรูหรือตรวจสอบความละเอียดในระดับไมครอน"
+      ],
+      "applications": [
+        "ใช้สำหรับเคาะประกอบชิ้นงาน, งานซ่อมแซม, เคาะขึ้นรูปโลหะ (Bumping/Sheet Metal), และงานที่ไม่ต้องการให้ผิวชิ้นงานเป็นรอย",
+        "จุดเด่น:",
+        "- ผลิตในเยอรมัน มั่นใจในคุณภาพ",
+        "- หัวค้อนมีความเหนียว ทนทาน ไม่แตกหักง่าย",
+        "- ไม่เกิดประกายไฟขณะใช้งาน (Non-sparking)",
+        "มักถูกใช้ในงานช่างยนต์, งานประกอบเฟอร์นิเจอร์, และงานช่างศิลปะต่างๆ"
+      ],
+      "mainImage": "/product-media/EISENPINGAUGE.png",
+      "logo": "/product-media/11.png",
+      "specImage": "/product-media/EISENPINGAUGESPEC01.png",
+      "deliveryImage": "/product-media/EISENPINGAUGESPEC02.png"
+    }
+  },
+  {
+    "id": "pthicknesselcometer456",
+    "name": "COATING THICKNESS GAUGE Elcometer 456",
+    "category": "small-tools",
+    "subcategory": "pelcometers",
+    "image": "/product-media/elcometer.png",
+    "specPdf": "/product-media/ELCOMETERSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "COATING THICKNESS GAUGE Elcometer 456",
+      "subtitle": "Dry Film Thickness Gauge",
+      "features": [
+        "ความแม่นยำสูง: วัดค่าได้ละเอียดและแม่นยำสูงถึง \\(\\pm 1\\%\\)",
+        "ใช้งานง่าย: ปุ่มกดขนาดใหญ่ ใช้งานได้แม้สวมถุงมือ หน้าจอสีใช้งานสะดวก",
+        "โพรบอัจฉริยะ (Bigfoot): หัววัดมีความเสถียร วัดค่าได้สม่ำเสมอ สามารถเปลี่ยนโพรบแยกได้หลายแบบ",
+        "โครงสร้างทนทาน: กันฝุ่นและกันน้ำเทียบเท่ามาตรฐาน IP64 ทนต่อแรงกระแทกและสารเคมี",
+        "การเชื่อมต่อ: รองรับการโอนถ่ายข้อมูลผ่าน USB หรือ Bluetooth ไปยังซอฟต์แวร์ElcoMaster®",
+        "รุ่นที่หลากหลาย: มีรุ่น E, B, S, และ T เพื่อตอบโจทย์ความสามารถในการจำข้อมูลและการวิเคราะห์ที่แตกต่างกัน"
+      ],
+      "applications": [
+        "ใช้วัดความหนาสีบนพื้นผิวโลหะเหล็กและอโลหะ",
+        "เหมาะสำหรับตรวจสอบความหนาผิวเคลือบในอุตสาหกรรมชุบสีและพ่นสีต่างๆ"
+      ],
+      "mainImage": "/product-media/elcometer.png",
+      "logo": "/product-media/13.png",
+      "specImage": "/product-media/elcometerspec01.png",
+      "deliveryImage": "/product-media/shinwa11215spec02.png"
+    }
+  },
+  {
+    "id": "pmultimeter",
+    "name": "Multimeter EX540/EX542",
+    "category": "small-tools",
+    "subcategory": "pextech",
+    "image": "/product-media/EXTECHEX540.png",
+    "specPdf": "/product-media/EXTECHEX540SPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Multimeter EX540/EX542",
+      "subtitle": "MultiMeter/Dataloggers with Real Time Streaming",
+      "features": [
+        "มัลติมิเตอร์และเครื่องบันทึกข้อมูล (Datalogger) แบบอุตสาหกรรม True RMS ขนาด 12 ฟังก์ชัน ที่เน้นความทนทานและความสามารถในการส่งข้อมูลแบบไร้สาย",
+        "True RMS: วัดแรงดันและกระแสไฟฟ้า AC ได้อย่างแม่นยำ",
+        "12 ฟังก์ชันการวัด: ได้แก่ แรงดัน AC/DC, กระแส AC/DC, ความต้านทาน (Resistance), ความจุ (Capacitance), ความถี่ (Frequency - Electrical/Electronic), อุณหภูมิ, ไดโอด และความต่อเนื่อง (Continuity)",
+        "Data Logger: เก็บข้อมูลในตัวเครื่องได้สูงสุด 9,999 ค่า",
+        "Wireless Interface: ส่งข้อมูลแบบ Real-time เข้าคอมพิวเตอร์ผ่าน USB receiver (ระยะประมาณ 10 เมตร/33 ฟุต)",
+        "การแสดงผล: จอ LCD ขนาดใหญ่ แสดงผลพร้อมกันได้ 3 ค่า พร้อมไฟแบ็คไลท์",
+        "ความแตกต่างระหว่าง EX540 และ EX542",
+        "- EX540: ใช้ความถี่ 914MHz เหมาะสำหรับอเมริกาเหนือ (สหรัฐฯ, แคนาดา, เม็กซิโก)",
+        "- EX542: ใช้ความถี่ 433MHz เหมาะสำหรับพื้นที่ส่วนใหญ่ภายนอกอเมริกาเหนือ รวมถึงประเทศไทย"
+      ],
+      "applications": [
+        "เหมาะสำหรับเครื่องกลึงทั่วไป, เครื่องแบ่ง (Dividing Head), และโต๊ะหมุน (Rotary Table)",
+        "การตั้งค่าอุปกรณ์ประกอบ (Fixture Setup)",
+        "การวัดชิ้นงานขนาดใหญ่หรือชิ้นงานที่ไม่สามารถเคลื่อนย้ายได้",
+        "Absolute Arm 7-Axis 83 series เหมาะสำหรับงานอุตสาหกรรมที่ต้องการทั้งความเร็วในการเก็บข้อมูลผ่านเลเซอร์สแกนเนอร์และความแม่นยำในการสัมผัสชิ้นงาน",
+        "ความแม่นยำทางคอนทัวร์: มาตรฐานความแม่นยำ ±(1.2+|2H|/100) µm",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/EXTECHEX540.png",
+      "logo": "/product-media/30.png",
+      "specImage": "/product-media/EXTECHEX540SPEC01.png",
+      "deliveryImage": "/product-media/INSIZE1147-300spec02.png"
+    }
+  },
+  {
+    "id": "plasermeter414d",
+    "name": "LASER DISTANCE METER 414D",
+    "category": "small-tools",
+    "subcategory": "pfluke",
+    "image": "/product-media/FLUKE414.png",
+    "specPdf": "/product-media/FLUKE414SPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "LASER DISTANCE METER 414D",
+      "subtitle": "LASER DISTANCE METER",
+      "features": [
+        "คือเครื่องวัดระยะทางด้วยเลเซอร์ระดับมืออาชีพที่ใช้งานง่ายและแม่นยำสูง วัดระยะได้ไกลถึง 50 เมตร (165 ฟุต) ด้วยความแม่นยำประมาณ 2mm (0.08 นิ้ว) เหมาะสำหรับงานติดตั้งไฟฟ้าและงานช่างทั่วไป ช่วยลดข้อผิดพลาด ประหยัดเวลาและค่าใช้จ่าย แทนการใช้ตลับเมตร",
+        "ระยะการวัด: สูงสุด 50 เมตร (165 ฟุต)",
+        "ความแม่นยำ: ประมาณ \\(2\\text{\"mm\"}\\) (\\(0.08\\text{\"นิ้ว\"}\\))",
+        "การใช้งาน: ใช้งานง่ายเพียงปุ่มเดียว (Point-and-click)",
+        "ฟังก์ชันการคำนวณ:",
+        "- การแสดงผล: หน้าจอแสดงผลขนาดใหญ่ อ่านค่าได้ชัดเจน",
+        "- ความทนทาน: ได้มาตรฐาน IP54 (กันฝุ่นและละอองน้ำ)",
+        "- ระบบปิดอัตโนมัติ: ช่วยประหยัดแบตเตอรี่",
+        "หมายเหตุ: ปัจจุบัน Fluke 414D อาจถูกทดแทนด้วยรุ่นที่ใหม่กว่า เช่น Fluke 417D [1]"
+      ],
+      "applications": [
+        "เหมาะสำหรับเครื่องกลึงทั่วไป, เครื่องแบ่ง (Dividing Head), และโต๊ะหมุน (Rotary Table)",
+        "การตั้งค่าอุปกรณ์ประกอบ (Fixture Setup)",
+        "การวัดชิ้นงานขนาดใหญ่หรือชิ้นงานที่ไม่สามารถเคลื่อนย้ายได้",
+        "Absolute Arm 7-Axis 83 series เหมาะสำหรับงานอุตสาหกรรมที่ต้องการทั้งความเร็วในการเก็บข้อมูลผ่านเลเซอร์สแกนเนอร์และความแม่นยำในการสัมผัสชิ้นงาน",
+        "ความแม่นยำทางคอนทัวร์: มาตรฐานความแม่นยำ ±(1.2+|2H|/100) µm",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/FLUKE414.png",
+      "logo": "/product-media/21.png",
+      "specImage": "/product-media/FLUKE414SPEC01.png",
+      "deliveryImage": "/product-media/INSIZE1147-300spec02.png"
+    }
+  },
+  {
+    "id": "pradiusgauge178ma",
+    "name": "RADIUS GAUGE 178 MA",
+    "category": "small-tools",
+    "subcategory": "pfujitools",
+    "image": "/product-media/fujitool178MA.png",
+    "specPdf": "/product-media/fujitool178MAspec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Radius Gauge 178 MB",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "เป็นเครื่องมือวัดความโค้งเว้าและนูน (Radius Gauge) ความแม่นยำสูงมาตรฐานญี่ปุ่น (Made in Japan) ผลิตจากเหล็กคุณภาพสูง โครงสร้างแบบพับเก็บได้ใช้งานสะดวก เหมาะสำหรับตรวจสอบรัศมีงานชิ้นส่วนเครื่องจักรกลและแม่พิมพ์"
+      ],
+      "applications": [
+        "ใช้ตรวจสอบรัศมีนูน (Convex) และเว้า (Concave)",
+        "ใช้ในงานแม่พิมพ์, งานตรวจสอบคุณภาพ, งานเครื่องกล"
+      ],
+      "mainImage": "/product-media/fujitool178MA.png",
+      "logo": "/product-media/7.png",
+      "specImage": "/product-media/fujitool178MAspec01.png",
+      "deliveryImage": "/product-media/shinwa11215spec02.png"
+    }
+  },
+  {
+    "id": "ptoolmakervise",
+    "name": "Tool Maker Vise VV-20",
+    "category": "small-tools",
+    "subcategory": "pgin",
+    "image": "/product-media/GIN.png",
+    "specPdf": "/product-media/GINVV20SPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Tool Maker Vise VV-20",
+      "subtitle": "Super Precision Tool Maker Vise",
+      "features": [
+        "วัสดุคุณภาพสูง (High Quality Alloy Steel): ผลิตจากเหล็กกล้าเครื่องมือ (SKS) ชุบแข็ง (Hardened) และเจียรนัยละเอียด (Precision Ground) เพื่อความทนทานและรักษาความแม่นยำสูงสุด",
+        "ความแม่นยำสูง (Ultra Precision): ได้มาตรฐานความขนานและเหลี่ยมมุมสูง (Parallelism & Squareness) มักใช้ในงานที่ต้องการความเที่ยงตรงในระดับไมครอน",
+        "การออกแบบป้องกันการบิดเบี้ยว (Distortion Free): มีโครงสร้างที่แข็งแรงเป็นพิเศษ ช่วยป้องกันการบิดเบี้ยวของชิ้นงานขณะขันแน่น",
+        "ใช้งานได้หลายด้าน (Multi-positioning): สามารถจับงานและวางตั้งได้หลายระนาบ ทั้งแนวนอน แนวตั้ง และด้านข้าง (ด้านข้าง, ด้านบน, ด้านล่าง) ทำให้ทำงานได้หลากหลาย",
+        "ขนาดกะทัดรัด: รุ่น VV-20 จัดเป็นขนาดเล็ก (ความกว้างปากประมาณ \\(2\\) นิ้ว) เหมาะสำหรับจับงานชิ้นส่วนขนาดเล็กและละเอียด",
+        "การจับยึดที่ละเอียด: เหมาะสำหรับงานที่ต้องการการจับยึดที่นุ่มนวลแต่แน่นหนา ไม่ทำให้ชิ้นงานเสียหาย"
+      ],
+      "applications": [
+        "เหมาะสำหรับเครื่องกลึงทั่วไป, เครื่องแบ่ง (Dividing Head), และโต๊ะหมุน (Rotary Table)",
+        "การตั้งค่าอุปกรณ์ประกอบ (Fixture Setup)",
+        "การวัดชิ้นงานขนาดใหญ่หรือชิ้นงานที่ไม่สามารถเคลื่อนย้ายได้",
+        "Absolute Arm 7-Axis 83 series เหมาะสำหรับงานอุตสาหกรรมที่ต้องการทั้งความเร็วในการเก็บข้อมูลผ่านเลเซอร์สแกนเนอร์และความแม่นยำในการสัมผัสชิ้นงาน",
+        "ความแม่นยำทางคอนทัวร์: มาตรฐานความแม่นยำ ±(1.2+|2H|/100) µm",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/GIN.png",
+      "logo": "/product-media/16.png",
+      "specImage": "/product-media/GINVV20SPEC.png",
+      "deliveryImage": "/product-media/INSIZE1147-300spec02.png"
+    }
+  },
+  {
+    "id": "pphmeterhi6221",
+    "name": "PH METER BENCH TOP HI6221",
+    "category": "small-tools",
+    "subcategory": "phanna",
+    "image": "/product-media/HANNAHI6221-02.png",
+    "specPdf": null,
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "PH METER BENCH TOP HI6221",
+      "subtitle": "Research Grade pH/ORP Meter with CAL Check",
+      "features": [
+        "เป็นเครื่องวัดค่า pH/ORP แบบตั้งโต๊ะระดับวิจัย (Research Grade) จาก Hanna Instruments โดดเด่นด้วยหน้าจอสัมผัสขนาดใหญ่ 7 นิ้ว มีเทคโนโลยี CAL Check™ ช่วยตรวจสอบหัววัด (Probe) ระหว่างสอบเทียบเพื่อความแม่นยำสูง วัดค่าได้ครอบคลุมทั้ง pH, ORP (mV) และอุณหภูมิ",
+        "เทคโนโลยี CAL Check™: วิเคราะห์สภาพหัววัดและแจ้งเตือนผู้ใช้งานเกี่ยวกับปัญหาที่อาจเกิดขึ้นระหว่างการสอบเทียบ เพื่อการวัดที่แม่นยำที่สุด",
+        "ความละเอียดสูง: สามารถเลือกความละเอียด pH ได้สูงสุด 3 ตำแหน่ง (0.001 pH)",
+        "การสอบเทียบ: สอบเทียบ pH ได้สูงสุด 5 จุด",
+        "การเชื่อมต่อ: รองรับการเชื่อมต่อข้อมูล USB และ RS232 เพื่อการจัดการข้อมูลที่สมบูรณ์",
+        "การประยุกต์ใช้งาน: เหมาะสำหรับงานห้องปฏิบัติการขั้นสูง การควบคุมคุณภาพอาหาร เครื่องสำอาง และอุตสาหกรรมน้ำ",
+        "เครื่องวัดชุดนี้มาพร้อมกับหัววัดอัจฉริยะ (Smart Electrode) ที่มีความทนทานและวัดค่าได้อย่างแม่นยำ"
+      ],
+      "applications": [
+        "ป้องกันน็อตขาดหรือแน่นเกินไปในงานประกอบชิ้นส่วนอิเล็กทรอนิกส์, มอเตอร์ไซค์, จักรยาน หรืออุปกรณ์ที่ต้องการแรงบิดเบา",
+        "การตั้งค่าอุปกรณ์ประกอบ (Fixture Setup)",
+        "การวัดชิ้นงานขนาดใหญ่หรือชิ้นงานที่ไม่สามารถเคลื่อนย้ายได้",
+        "Absolute Arm 7-Axis 83 series เหมาะสำหรับงานอุตสาหกรรมที่ต้องการทั้งความเร็วในการเก็บข้อมูลผ่านเลเซอร์สแกนเนอร์และความแม่นยำในการสัมผัสชิ้นงาน",
+        "ความแม่นยำทางคอนทัวร์: มาตรฐานความแม่นยำ ±(1.2+|2H|/100) µm",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/HANNAHI6221-02.png",
+      "logo": "/product-media/28.png",
+      "specImage": "/product-media/HANNAHI6221-02SPEC01.png",
+      "deliveryImage": "/product-media/INSIZE1147-300spec02.png"
+    }
+  },
+  {
+    "id": "pplatichammer",
+    "name": "Hunter Plastic Hammer/Mallet 22mm",
+    "category": "small-tools",
+    "subcategory": "phunters",
+    "image": "/product-media/HunterHammer22.png",
+    "specPdf": "/product-media/hunterSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Hunter Plastic Hammer/Mallet 22mm",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "เป็นค้อนพลาสติกคุณภาพสูงที่ผลิตจากประเทศเยอรมนี (Made in Germany) เหมาะสำหรับงานที่ต้องการความประณีต งานประกอบ หรือการทุบชิ้นงานโดยไม่ให้เกิดรอย",
+        "วัสดุหัวค้อน: ผลิตจากพลาสติกชนิดพิเศษ (Cellulose Acetate/High Impact Plastic) มีความแข็งแต่ยืดหยุ่นสูง สีเหลืองใส",
+        "วัสดุด้ามจับ: ทำจากไม้ฮิคโครี (Hickory) หรือไม้ธรรมชาติที่มีความแข็งแรง ทนทาน จับถนัดมือ"
+      ],
+      "applications": [
+        "ใช้สำหรับเคาะประกอบชิ้นงาน, งานซ่อมแซม, เคาะขึ้นรูปโลหะ (Bumping/Sheet Metal), และงานที่ไม่ต้องการให้ผิวชิ้นงานเป็นรอย",
+        "จุดเด่น:",
+        "- ผลิตในเยอรมัน มั่นใจในคุณภาพ",
+        "- หัวค้อนมีความเหนียว ทนทาน ไม่แตกหักง่าย",
+        "- ไม่เกิดประกายไฟขณะใช้งาน (Non-sparking)",
+        "มักถูกใช้ในงานช่างยนต์, งานประกอบเฟอร์นิเจอร์, และงานช่างศิลปะต่างๆ"
+      ],
+      "mainImage": "/product-media/HunterHammer22.png",
+      "logo": "/product-media/8.png",
+      "specImage": "/product-media/HunterHammer22spec01.png",
+      "deliveryImage": "/product-media/HunterHammer22spec02.png"
+    }
+  },
+  {
+    "id": "ptorquetesterdtxs",
+    "name": "TORQUE TESTER DTXS-0.5N-Z",
+    "category": "small-tools",
+    "subcategory": "pimada",
+    "image": "/product-media/imadaDTXS-0.5N-Z.png",
+    "specPdf": "/product-media/IMADADTXS-0.5N-ZSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "TORQUE TESTER DTXS-0.5N-Z",
+      "subtitle": "PRE-SET TORQUE WRENCHES",
+      "features": [
+        "เป็นเครื่องมือวัดคุณภาพสูงจากประเทศญี่ปุ่น ที่ออกแบบมาเพื่อวัดแรงบิดในการเปิด-ปิดฝาขวด (Torque Tester) ได้อย่างแม่นยำและทำซ้ำได้ดีเยี่ยม เหมาะสำหรับการตรวจสอบคุณภาพในอุตสาหกรรมต่างๆ เช่น เครื่องดื่ม, ยา, และเครื่องสำอาง",
+        "การสุ่มตัวอย่างรวดเร็ว: Sampling rate สูงสุดที่ 2000 Hz ช่วยจับค่าแรงบิดสูงสุด (Peak) ได้อย่างแม่นยำ แม้ในช่วงการเปลี่ยนแรงบิดที่รวดเร็ว",
+        "การใช้งานสะดวก: หน้าจอแสดงผลดิจิตอล 4 หลัก แสดงค่าแรงบิดสูงสุดได้ทั้งการหมุนตามเข็มและทวนเข็มนาฬิกา (Clockwise/Counter-clockwise)",
+        "หน่วยวัดหลากหลาย: สามารถเปลี่ยนหน่วยวัดได้ระหว่าง N-m, N-cm, kgf-m, kgf-cm, ozf-in, lbf-in",
+        "การจัดการข้อมูล: มาพร้อมซอฟต์แวร์ USB Cable สำหรับเชื่อมต่อคอมพิวเตอร์เพื่อบันทึกข้อมูล (Data logging)",
+        "ความทนทาน: โครงสร้างเซนเซอร์แบริ่งคู่ (Double bearing structure) ช่วยลดอิทธิพลของแรงดัด ทำให้ค่าที่วัดได้มีความแม่นยำ",
+        "การใช้งานยาวนาน: แบตเตอรี่ใช้งานได้ต่อเนื่องประมาณ 8 ชั่วโมง (ชาร์จเต็ม) [1, 2, 3, 4, 5, 6]"
+      ],
+      "applications": [
+        "เหมาะสำหรับเครื่องกลึงทั่วไป, เครื่องแบ่ง (Dividing Head), และโต๊ะหมุน (Rotary Table)",
+        "การตั้งค่าอุปกรณ์ประกอบ (Fixture Setup)",
+        "การวัดชิ้นงานขนาดใหญ่หรือชิ้นงานที่ไม่สามารถเคลื่อนย้ายได้",
+        "Absolute Arm 7-Axis 83 series เหมาะสำหรับงานอุตสาหกรรมที่ต้องการทั้งความเร็วในการเก็บข้อมูลผ่านเลเซอร์สแกนเนอร์และความแม่นยำในการสัมผัสชิ้นงาน",
+        "ความแม่นยำทางคอนทัวร์: มาตรฐานความแม่นยำ ±(1.2+|2H|/100) µm",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/imadaDTXS-0.5N-Z.png",
+      "logo": "/product-media/25.png",
+      "specImage": "/product-media/imadaDTXS-0.5N-Zspec01.png",
+      "deliveryImage": "/product-media/INSIZE1147-300spec02.png"
+    }
+  },
+  {
+    "id": "pdepthguages1147",
+    "name": "Digital Depth Gauges",
+    "category": "small-tools",
+    "subcategory": "pinsizes",
+    "image": "/product-media/INSIZE1147-300.png",
+    "specPdf": "/product-media/INSIZE1147-300spec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Digital Depth Gauges with mounting holes for extension base",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "เป็นเครื่องมือวัดความลึกแบบดิจิตอล (Digital Depth Gauges) มาตรฐาน DIN862 ทำจากสแตนเลส สตีล แข้ง ทนทาน จุดเด่นคือมีรูบนฐานต่อขยาย(Extension Base)เพื่อเพิ่มความมั่นคงในการวัด",
+        "วัสดุ: สแตนเลส สตีล (Stainless Steel)",
+        "ฐาน: ยาว 100mm มีรูสำหรับยึดฐานขยาย (Mounting holes for extension base)",
+        "ปุ่มกด: เปิด/ปิด (on/off), เซ็ตศูนย์ (zero), เปลี่ยนหน่วย (mm/inch)",
+        "การแสดงผล: หน้าจอ LCD มีระบบปิดอัตโนมัติ (Automatic power off)",
+        "แบตเตอรี่: CR2032",
+        "การใช้งาน: ไม่กันน้ำ (Non-waterproof)",
+        "ข้อมูลการส่งออก: มีช่องส่งข้อมูล (Data output)"
+      ],
+      "applications": [
+        "เหมาะสำหรับงานวัดความลึกในพื้นที่ที่ต้องการความมั่นคงสูงโดยใช้ฐานต่อขยาย"
+      ],
+      "mainImage": "/product-media/INSIZE1147-300.png",
+      "logo": "/product-media/2.png",
+      "specImage": "/product-media/INSIZE1147-300spec01.png",
+      "deliveryImage": "/product-media/INSIZE1147-300spec02.png"
+    }
+  },
+  {
+    "id": "ppluggaugem4",
+    "name": "THREAD PLUG GAUGE M4x0.7",
+    "category": "small-tools",
+    "subcategory": "pissokus",
+    "image": "/product-media/ISSOKUPLUGGAUGE.png",
+    "specPdf": "/product-media/ISSOKUSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "THREAD PLUG GAUGE M4x0.7",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "เป็นเครื่องมือวัดละเอียดมาตรฐานสูงจากประเทศญี่ปุ่น ผลิตจากเหล็กกล้าชุบแข็งอย่างดี ออกแบบมาเพื่อตรวจสอบขนาดเกลียวในของน็อตหรือรูเจาะอย่างแม่นยำ มีฟีเจอร์ GO/NOGO ในด้ามเดียวเพื่อแยกงานดีและงานเสียตามมาตรฐาน JIS หรือ ISO"
+      ],
+      "applications": [
+        "ใช้ตรวจสอบระยะเกลียว (Pitch) และเส้นผ่านศูนย์กลางของเกลียวภายใน เพื่อให้มั่นใจว่าเกลียวในชิ้นงานตรงตามสเปคที่กำหนด"
+      ],
+      "mainImage": "/product-media/ISSOKUPLUGGAUGE.png",
+      "logo": "/product-media/10.png",
+      "specImage": "/product-media/ISSOKUPLUGGAUGESPEC01.png",
+      "deliveryImage": "/product-media/shinwa11215spec02.png"
+    }
+  },
+  {
+    "id": "pblockkya8b",
+    "name": "SQUARE TYPE BLOCK KYA- 8B",
+    "category": "small-tools",
+    "subcategory": "pkanetec",
+    "image": "/product-media/KANETECKYA8B.png",
+    "specPdf": "/product-media/KANETECKYA8BSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "SQUARE TYPE BLOCK KYA- 8B",
+      "subtitle": "SQUARE TYPE BLOCK",
+      "features": [
+        "การใช้งานหลัก: ใช้สำหรับจับยึดชิ้นงานในการตรวจสอบ (Scribing), งานประกอบ, หรืองานเจาะ/เจียรเบาๆ",
+        "โครงสร้าง: เป็นบล็อกแม่เหล็กรูปทรงเหลี่ยม (Square Type) ที่มีความแข็งแรง ทนทาน",
+        "หน้าการดูดซับ: สามารถดูดชิ้นงานได้ 3 ด้าน คือ ด้านบน (V surface), และด้านข้างทั้งสองด้าน (End faces) ช่วยให้ทำงานได้หลากหลายมุม",
+        "ร่อง V (V-Groove): ออกแบบให้มีร่อง V ที่แม่นยำสำหรับการจับยึดชิ้นงานทรงกลม",
+        "ระบบ ON/OFF: มีสวิตช์เปิด-ปิดแม่เหล็กที่ใช้งานง่าย ด้ามจับสามารถถอดออกได้",
+        "ความทนทาน: โครงสร้างป้องกันน้ำและกันน้ำมัน (Drip-proof and oil-resistant) เหมาะสำหรับสภาพแวดล้อมการทำงานจริงในโรงงาน"
+      ],
+      "applications": [
+        "เหมาะสำหรับเครื่องกลึงทั่วไป, เครื่องแบ่ง (Dividing Head), และโต๊ะหมุน (Rotary Table)",
+        "การตั้งค่าอุปกรณ์ประกอบ (Fixture Setup)",
+        "การวัดชิ้นงานขนาดใหญ่หรือชิ้นงานที่ไม่สามารถเคลื่อนย้ายได้",
+        "Absolute Arm 7-Axis 83 series เหมาะสำหรับงานอุตสาหกรรมที่ต้องการทั้งความเร็วในการเก็บข้อมูลผ่านเลเซอร์สแกนเนอร์และความแม่นยำในการสัมผัสชิ้นงาน",
+        "ความแม่นยำทางคอนทัวร์: มาตรฐานความแม่นยำ ±(1.2+|2H|/100) µm",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/KANETECKYA8B.png",
+      "logo": "/product-media/18.png",
+      "specImage": "/product-media/KANETECKYA8BSPEC01.png",
+      "deliveryImage": "/product-media/INSIZE1147-300spec02.png"
+    }
+  },
+  {
+    "id": "ptorgue30spk",
+    "name": "TORQUE WRENCHES 30SPK",
+    "category": "small-tools",
+    "subcategory": "pkanon",
+    "image": "/product-media/KANON30SPK.png",
+    "specPdf": "/product-media/KANON30SPKSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "TORQUE WRENCHES 30SPK",
+      "subtitle": "PRE-SET TORQUE WRENCHES",
+      "features": [
+        "เครื่องมือวัดแรงขันประเภทหัวปากตาย (Open Head) ที่ตั้งค่าแรงบิดไว้ล่วงหน้า",
+        "ประเภทเครื่องมือ: เป็นประแจปอนด์ชนิดฟังก์ชันเดียว (Single function wrench) ที่ออกแบบมาเพื่อการใช้งานขันแรงบิดค่าเดิมซ้ำๆ",
+        "ความแม่นยำ: มีความแม่นยำสูง ±3% ของค่าที่ตั้งไว้",
+        "หัวปากตาย (Open Head): เหมาะสำหรับการใช้งานในพื้นที่จำกัด หรือการขันที่ใช้ร่วมกับน็อตหกเหลี่ยม",
+        "กลไกการแจ้งเตือน: เมื่อถึงค่าแรงบิดที่ตั้งไว้ จะมีเสียง \"คลิก\" เพื่อเตือนผู้ใช้งาน",
+        "เหมาะสำหรับงานซ้ำๆ: ออกแบบมาเพื่อประสิทธิภาพสูงสุดในการขันสกรูหรือน็อตในสายการผลิตที่ต้องใช้แรงบิดเท่าเดิมทุกครั้ง",
+        "ข้อดีหลักๆ คือ ความทนทาน แม่นยำ และหัวเปิดที่เข้าถึงที่แคบได้ดี"
+      ],
+      "applications": [
+        "เหมาะสำหรับเครื่องกลึงทั่วไป, เครื่องแบ่ง (Dividing Head), และโต๊ะหมุน (Rotary Table)",
+        "การตั้งค่าอุปกรณ์ประกอบ (Fixture Setup)",
+        "การวัดชิ้นงานขนาดใหญ่หรือชิ้นงานที่ไม่สามารถเคลื่อนย้ายได้",
+        "Absolute Arm 7-Axis 83 series เหมาะสำหรับงานอุตสาหกรรมที่ต้องการทั้งความเร็วในการเก็บข้อมูลผ่านเลเซอร์สแกนเนอร์และความแม่นยำในการสัมผัสชิ้นงาน",
+        "ความแม่นยำทางคอนทัวร์: มาตรฐานความแม่นยำ ±(1.2+|2H|/100) µm",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/KANON30SPK.png",
+      "logo": "/product-media/24.png",
+      "specImage": "/product-media/KANON30SPKSPEC01.png",
+      "deliveryImage": "/product-media/INSIZE1147-300spec02.png"
+    }
+  },
+  {
+    "id": "pmeterht3007sd",
+    "name": "HUMIDITY/TEMP. METER HT-3007SD",
+    "category": "small-tools",
+    "subcategory": "plutron",
+    "image": "/product-media/LUTRONHT-3007SD.png",
+    "specPdf": "/product-media/LUTRONHT-3007SDSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "HUMIDITY/TEMP. METER HT-3007SD",
+      "subtitle": "HUMIDITY/TEMP. METER",
+      "features": [
+        "ฟังก์ชันวัด 4 in 1: วัดความชื้นสัมพัทธ์ (Humidity), อุณหภูมิ (Temp), จุดน้ำค้าง (Dew point) และอุณหภูมิกระเปาะเปียก (Wet bulb)",
+        "บันทึกข้อมูล SD Card: บันทึกข้อมูล Real-time ลง SD Card (1-16 GB) และแสดงผลไฟล์ Excel ได้ทันทีโดยไม่ต้องใช้ซอฟต์แวร์",
+        "ช่วงการวัด: ความชื้น 5% ถึง 95% RH / อุณหภูมิ 0 ถึง 50 °C (32 ถึง 122 °F)",
+        "ฟังก์ชันเสริม: รองรับการวัดอุณหภูมิภายนอกด้วยเทอร์โมคัปเปิ้ล (Type K/J)",
+        "ระบบบันทึก: ตั้งเวลาบันทึกอัตโนมัติ (Sampling time) ได้ 1 - 3600 วินาที หรือบันทึกแบบแมนนวล (Manual) ได้ 1 - 99 ข้อมูล",
+        "การแสดงผล: หน้าจอ LCD ขนาดใหญ่ พร้อมฟังก์ชัน Data Hold, บันทึกค่าสูงสุด (Max) และต่ำสุด (Min)",
+        "พลังงาน: ใช้แบตเตอรี่ UM3/AA (1.5 V) x 6 ก้อน"
+      ],
+      "applications": [
+        "เหมาะสำหรับงานวิจัย, ห้องคอนโทรล, คลังสินค้า, ห้องปฏิบัติการ, และการตรวจสอบสภาพแวดล้อมที่ต้องการความแม่นยำ"
+      ],
+      "mainImage": "/product-media/HANNAHI6221-02.png",
+      "logo": "/product-media/29.png",
+      "specImage": "/product-media/LUTRONHT-3007SDSPEC01.png",
+      "deliveryImage": "/product-media/INSIZE1147-300spec02.png"
+    }
+  },
+  {
+    "id": "pfeelergauge172mb",
+    "name": "Feeler Gauge 172 MB",
+    "category": "small-tools",
+    "subcategory": "pmitsuwas",
+    "image": "/product-media/Mitsuwa172MB.png",
+    "specPdf": "/product-media/MITSUWA2SPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Feeler Gauge 172 MB",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "ฟิลเลอร์เกจ (Feeler Gauge) หรือเกจวัดความหนา/รอยแยก เหมาะสำหรับวัดช่องว่างเครื่องยนต์ มอเตอร์ และชิ้นส่วนยานยนต์ ใช้งานง่ายด้วยใบที่เรียวปลายแบน ทนทาน แม่นยำสูงมาตรฐานญี่ปุ่น",
+        "วัสดุ: เหล็กคุณภาพสูง (มีรุ่น SUS หรือ Stainless Steel ให้เลือกตามรุ่นย่อย)"
+      ],
+      "applications": [
+        "ใช้ตรวจสอบความแข็งของยางที่ผ่านการวัดคาไนซ์ (Vulcanized Rubber)",
+        "เหมาะกับงานวัดชิ้นงานยาง, พลาสติกอ่อน, นีโอพรีน (Neoprene), ซิลิโคน",
+        "นิยมใช้ในอุตสาหกรรมยานยนต์และชิ้นส่วนยางต่างๆ",
+        "Absolute Arm 7-Axis 83 series เหมาะสำหรับงานอุตสาหกรรมที่ต้องการทั้งความเร็วในการเก็บข้อมูลผ่านเลเซอร์สแกนเนอร์และความแม่นยำในการสัมผัสชิ้นงาน",
+        "ความแม่นยำทางคอนทัวร์: มาตรฐานความแม่นยำ ±(1.2+|2H|/100) µm",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/Mitsuwa172MB.png",
+      "logo": "/product-media/6.png",
+      "specImage": "/product-media/Mitsuwa172MBspec01.png",
+      "deliveryImage": "/product-media/shinwa11215spec02.png"
+    }
+  },
+  {
+    "id": "pdigitalmicro103",
+    "name": "Digital Micrometer",
+    "category": "small-tools",
+    "subcategory": "pmitutoyo",
+    "image": "/product-media/mitutoyo103-137.png",
+    "specPdf": "/product-media/mitutoyo103-137spec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Digital Micrometer 103-137 Outside Micrometer",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "ไมโครมิเตอร์วัดนอกแบบอนาล็อกคุณภาพสูงจากญี่ปุ่น โครงสร้างแข็งแรงงทนทาน ทาสีเขียว Hammertone ปากวัดเคลือบคาร์ไบด์ ปลายสัมผัสวัดแบบคาร์ไบด์และมาพร้อมกลไก Ratchet Stop เพื่อให้แรงกดในการวัดสม่ำเสมอ เหมาะสำหรับการวัดความหน้าหรือเส้นผ่านศูนย์กลางชิ้นงานที่มีความแม่นยำ",
+        "ปากวัด (Measuring Faces): เคลือบคาร์ไบด์ (Carbide Tipped) เพื่อความทนทานต่อการสึกหรอ",
+        "กลไกการวัด (Ratchet Stop) (แบบลูกบิดมีเสียง): ช่วยให้แรงกดเท่ากันทุกครั้ง",
+        "โครงสร้าง (Frame): โครงแบบ Hammertone-green, baked-enamet-finished แข็งแรงทนทาน",
+        "ลักษณะการแสดงผล: แบบอนาล็อก (Analog)"
+      ],
+      "applications": [
+        "ใช้สำหรับวัดขนาดภายนอก , ความหนา , หรือเส้นผ่านศูนย์กลางของชิ้นงานขนาดเล็ก(เช่น กระดาษ, ลวด)",
+        "ควรทำการตรวจเช็คค่าศูนย์(Zero Setting) ก่อนการใช้งานทุกครั้ง"
+      ],
+      "mainImage": "/product-media/mitutoyo103-137.png",
+      "logo": "/product-media/1.png",
+      "specImage": "/product-media/mitutoyo103-137spec01.png",
+      "deliveryImage": "/product-media/mitutoyo103-137spec02.png"
+    }
+  },
+  {
+    "id": "pfineholderma61003",
+    "name": "FINE ADJUSTMENT HOLDER MA61003",
+    "category": "small-tools",
+    "subcategory": "pnoga",
+    "image": "/product-media/NOGA.png",
+    "specPdf": "/product-media/NOGAMA61003SPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "FINE ADJUSTMENT HOLDER MA61003",
+      "subtitle": "ARTICULATED HOLDER",
+      "features": [
+        "เป็นขาตั้งแม่เหล็กคุณภาพสูงสำหรับจับไดอัลเกจ (Dial Gauge) ที่มีความเสถียรสูง ล็อคจุดเดียวด้วยระบบ 3 มิติ (5 แกน) มีตัวปรับละเอียดด้านบน (Fine Adjustment) และฐานแม่เหล็กเปิด-ปิดได้ แรงยึดสูง"
+      ],
+      "applications": [
+        "ระบบล็อค 3 มิติ (Central Locking): ล็อคแขนทั้งหมดด้วยลูกบิดเดียวที่จุดกลาง ใช้งานง่ายและรวดเร็ว",
+        "ปรับละเอียดด้านบน (Fine Adjustment on Top): ตัวปรับละเอียดอยู่บริเวณหัวจับ ช่วยให้ตั้งค่าศูนย์ได้ง่ายและแม่นยำ",
+        "การจับยึดอเนกประสงค์: ตัวจับยึด Universal Swivel Clamp สามารถจับก้านไดอัลขนาด 6 มม., 8 มม., 3/8\" และ Dovetail",
+        "ฐานแม่เหล็กทรงพลัง: ฐานเปิด-ปิดได้ (On/Off) แรงยึดประมาณ (1300N) (หรือประมาณ (292 lbs))",
+        "โครงสร้างทนทาน: แขนและข้อต่อเป็นสีดำ ทำจากโลหะคุณภาพสูง แข็งแรงทนทาน"
+      ],
+      "mainImage": "/product-media/NOGA.png",
+      "logo": "/product-media/17.png",
+      "specImage": "/product-media/NOGAMA61003SPEC01.png",
+      "deliveryImage": "/product-media/EISENPINGAUGESPEC02.png"
+    }
+  },
+  {
+    "id": "pdialcaliperla2",
+    "name": "Dial Caliper Gauges LA-2",
+    "category": "small-tools",
+    "subcategory": "ppeacocks",
+    "image": "/product-media/peakcockLA-2.png",
+    "specPdf": "/product-media/peakcockLA-2spec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Dial Caliper Gauge La-2",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "เกจ์เวอร์เนียร์แบบหน้าปัด (Dial Caliper) แสดงประสิทธิภาพอันยอดเยี่ยมในการวัดขนาดทั้งภายในและภายนอก เช่น ความหนาของผนัง ความกว้างของร่อง เส้นผ่านศูนย์กลางของรู รวมถึงชิ้นงานที่มีรูปทรงหรือพื้นที่เข้าถึงได้ยากอย่างแม่นยำ"
+      ],
+      "applications": [
+        "ใช้สำหรับวัดเส้นผ่านศูนย์กลางภายนอก (Outside Diameter) และความหนา",
+        "เหมาะสำหรับงานวัดที่ต้องการความรวดเร็ว เช่น งานยาง, เฟลท์, กระดาษ หรือชิ้นงานขนาดเล็ก",
+        "โครงสร้างแข็งแรง ทนทาน หน้าปัดอ่านค่าง่าย",
+        "สำหรับงานวัดที่ต้องการความละเอียดและความสะดวกในการใช้งาน"
+      ],
+      "mainImage": "/product-media/peakcockLA-2.png",
+      "logo": "/product-media/4.png",
+      "specImage": "/product-media/peakcockLA-2spec01.png",
+      "deliveryImage": "/product-media/peakcockLA-2spec02.png"
+    }
+  },
+  {
+    "id": "pruller11215",
+    "name": "Stainless Steel Ruller (11215)",
+    "category": "small-tools",
+    "subcategory": "pshinnwas",
+    "image": "/product-media/shinwa11215.png",
+    "specPdf": "/product-media/shinwa11215spec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Stainless Steel Ruller 11215",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "ไม้ฉากเหล็กสแตนเลสคุณภาพสูงจากญี่ปุ่น (Thick and Wide) ขนาด 30 ซม. (300x150 มม.) ที่โดดเด่นเรื่องความแข็งแรงทนทาน หนาและกว้างกว่าปกติ เหมาะสำหรับงานโครงสร้าง งานเหล็ก และงานช่างไม้ที่ต้องการความแม่นยำสูง มาตรฐาน",
+        "แข็งแรงและทนทาน: ผลิตจากสแตนเลสหนาและกว้างพิเศษ (Thick and Wide Type) ไม่บิดงอได้ง่าย",
+        "ความแม่นยำสูง: มีค่าความตั้งฉากอยู่ที่ \\(\\pm \\) 0.1 มม. หรือน้อยกว่าต่อ 100 มม.",
+        "สเกลชัดเจน: ตัวเลขและสเกลวัดขนาด (มิลลิเมตร) ทั้งสองด้านถูกกัดลึก (Etched) ทำให้ทนทานต่อการลบเลือนและอ่านง่าย",
+        "ใช้งานได้สองด้าน: สเกลระบุขนาดมม. เท่ากันทั้งสองด้าน สะดวกในการใช้งาน",
+        "มาตรฐาน JIS: ผลิตตามมาตรฐานอุตสาหกรรมญี่ปุ่น (JIS)",
+        "การใช้งาน: เหมาะสำหรับงานตรวจสอบมุมฉาก งานวัดระยะ งานเขียนแบบ และงานตัดในงานเหล็กหรืองานไม้"
+      ],
+      "applications": [
+        "ใช้ตรวจสอบความแข็งของยางที่ผ่านการวัดคาไนซ์ (Vulcanized Rubber)",
+        "เหมาะกับงานวัดชิ้นงานยาง, พลาสติกอ่อน, นีโอพรีน (Neoprene), ซิลิโคน",
+        "นิยมใช้ในอุตสาหกรรมยานยนต์และชิ้นส่วนยางต่างๆ",
+        "Absolute Arm 7-Axis 83 series เหมาะสำหรับงานอุตสาหกรรมที่ต้องการทั้งความเร็วในการเก็บข้อมูลผ่านเลเซอร์สแกนเนอร์และความแม่นยำในการสัมผัสชิ้นงาน",
+        "ความแม่นยำทางคอนทัวร์: มาตรฐานความแม่นยำ ±(1.2+|2H|/100) µm",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/shinwa11215.png",
+      "logo": "/product-media/5.png",
+      "specImage": "/product-media/shinwa11215spec01.png",
+      "deliveryImage": "/product-media/shinwa11215spec02.png"
+    }
+  },
+  {
+    "id": "pfeelergaugesfg005",
+    "name": "Feeler Gauge SFG-005-1",
+    "category": "small-tools",
+    "subcategory": "psk",
+    "image": "/product-media/SKFEELERGAUGE.png",
+    "specPdf": "/product-media/SKSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Feeller Gauge SFG-005-1",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "ฟิลเลอร์เกจสแตนเลส เป็นเกจแบบม้วน บรรจุในกล่องกระดาษสะดวกต่อการจัดเก็บ สามารถตัดตามความยาวที่ต้องการใช้งานได้ เป็นเครื่องมือวัดความละเอียดสูง"
+      ],
+      "applications": [
+        "ใช้สำหรับเช็คระยะห่าง (Gap) ความละเอียดสูง ในงานประกอบเครื่องยนต์, ปรับแต่งเครื่องจักร หรือวัดช่องว่างต่างๆ"
+      ],
+      "mainImage": "/product-media/SKFEELERGAUGE.png",
+      "logo": "/product-media/12.png",
+      "specImage": "/product-media/SKFEELERGAUGESPEC01.png",
+      "deliveryImage": "/product-media/shinwa11215spec02.png"
+    }
+  },
+  {
+    "id": "plasermeterar861",
+    "name": "Laser Distance Meter AR861",
+    "category": "small-tools",
+    "subcategory": "psmartsensor",
+    "image": "/product-media/smartsensorAR861.png",
+    "specPdf": "/product-media/SMARTSENSORSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Laser Distance Meter AR861",
+      "subtitle": "Laser Distance Meter",
+      "features": [
+        "เครื่องวัดระยะเลเซอร์ (Laser Distance Meter) ที่ออกแบบมาเพื่อการวัดระยะทางที่แม่นยำและรวดเร็ว เหมาะสำหรับงานก่อสร้าง สถาปัตยกรรม และการใช้งานทั่วไป"
+      ],
+      "applications": [
+        "วัดระยะทาง (Distance)",
+        "คำนวณพื้นที่ (Area)",
+        "คำนวณปริมาตร (Volume)",
+        "วัดระยะทางแบบทฤษฎีบทพิธากอรัส (Pythagorean mode)"
+      ],
+      "mainImage": "/product-media/smartsensorAR861.png",
+      "logo": "/product-media/33.png",
+      "specImage": "/product-media/smartsensorAR861SPEC01.png",
+      "deliveryImage": "/product-media/INSIZE1147-300spec02.png"
+    }
+  },
+  {
+    "id": "pdurometer",
+    "name": "Durometer GS-719N",
+    "category": "small-tools",
+    "subcategory": "pteclocks",
+    "image": "/product-media/teclockGS-719N.png",
+    "specPdf": "/product-media/teclockGS-719Nspec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Durometer Shore A",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "เครื่องวัดความแข็งรุ่นมาตรฐานจากญี่ปุ่น สำหรับวัดความแข็งของยางและพลาสติกอ่อน ให้ค่าที่แม่นยำ ใช้งานง่าย เหมาะสำหรับงานควบคุมคุณภาพในโรงงานและห้องปฏิบัติการ"
+      ],
+      "applications": [
+        "ใช้ตรวจสอบความแข็งของยางที่ผ่านการวัดคาไนซ์ (Vulcanized Rubber)",
+        "เหมาะกับงานวัดชิ้นงานยาง, พลาสติกอ่อน, นีโอพรีน (Neoprene), ซิลิโคน",
+        "นิยมใช้ในอุตสาหกรรมยานยนต์และชิ้นส่วนยางต่างๆ"
+      ],
+      "mainImage": "/product-media/teclockGS-719N.png",
+      "logo": "/product-media/3.png",
+      "specImage": "/product-media/teclockGS-719Nspec01.png",
+      "deliveryImage": "/product-media/teclockGS-719Nspec02.png"
+    }
+  },
+  {
+    "id": "pwrenchql5n",
+    "name": "Torque Wrench QL5N",
+    "category": "small-tools",
+    "subcategory": "ptohnichi",
+    "image": "/product-media/tohnichiQL5N.png",
+    "specPdf": "/product-media/tohnichiQL5NSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Torque Wrench QL5N",
+      "subtitle": "Torque Wrench Ratchet Head Type Adjustable",
+      "features": [
+        "เป็นประแจปอนด์หัวฟรี (Ratchet) แบบปรับค่าได้ขนาด 1/4 นิ้ว ช่วงแรงบิด 1-5 N.m ที่แม่นยำสูง (±3%) เหมาะสำหรับงานขันแน่นขนาดเล็กที่ต้องการความแม่นยำ ใช้งานง่ายด้วยสเกลที่ชัดเจน เสียง \"คลิก\" ดังชัดเจนเมื่อถึงค่าที่ตั้งไว้",
+        "กลไกการแจ้งเตือน: เสียง \"คลิก\" จะดังขึ้นและรู้สึกได้เมื่อขันถึงค่าแรงบิดที่ตั้งไว้",
+        "การใช้งาน: ปรับตั้งค่าได้ง่ายโดยการหมุนด้ามจับ (Knob) และมีสเกลที่อ่านได้ชัดเจน",
+        "ทิศทางการขัน: ออกแบบมาสำหรับการขันตามเข็มนาฬิกา (Clockwise)",
+        "คุณภาพ: มาตรฐานอุตสาหกรรมญี่ปุ่น (Made in Japan) พร้อมใบรับรองการสอบเทียบจากโรงงาน"
+      ],
+      "applications": [
+        "ป้องกันน็อตขาดหรือแน่นเกินไปในงานประกอบชิ้นส่วนอิเล็กทรอนิกส์, มอเตอร์ไซค์, จักรยาน หรืออุปกรณ์ที่ต้องการแรงบิดเบา"
+      ],
+      "mainImage": "/product-media/tohnichiQL5N.png",
+      "logo": "/product-media/27.png",
+      "specImage": "/product-media/tohnichiQL5NSPEC01.png",
+      "deliveryImage": "/product-media/INSIZE1147-300spec02.png"
+    }
+  },
+  {
+    "id": "pfeellergauge100my",
+    "name": "FEELLER GAUGE 100 MY",
+    "category": "small-tools",
+    "subcategory": "ptsks",
+    "image": "/product-media/tskFELLER100MY.png",
+    "specPdf": "/product-media/TSKSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Feeller Gauge 100 MY",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "ฟิลเลอร์เกจคุณภาพสูงจากญี่ปุ่น โดดเด่นด้วยความแม่นยำสูง ใบสปริงทนทาน เหมาะสำหรับวัดระยะห่าง (Gap) และความเรียบของชิ้นงานในงานวิศวกรรม อุตสาหกรรมแม่พิมพ์ และซ่อมบำรุงรถยนต์",
+        "วัสดุ: เหล็กกล้าชุบแข็งคุณภาพสูง (Hardened Steel) มีความยืดหยุ่น (Spring) และทนทานต่อการสึกหรอ",
+        "ด้ามจับ: โครงสแตนเลส/เหล็ก ทนทาน พร้อมสกรูล๊อกใบวัดเพื่อให้ใช้งานง่ายและจัดเก็บสะดวก"
+      ],
+      "applications": [
+        "วัดระยะห่างของวาล์วรถยนต์ (Valve Clearance)",
+        "วัดช่องว่างแม่พิมพ์ (Die/Mold Gap)",
+        "วัดระยะห่างของชิ้นงานเครื่องจักร (Machine Setting)",
+        "ตรวจสอบความเรียบหรือช่องว่างระหว่างผิวหน้าสองด้าน"
+      ],
+      "mainImage": "/product-media/tskFELLER100MY.png",
+      "logo": "/product-media/9.png",
+      "specImage": "/product-media/tskFELLER100MYSPEC01.png",
+      "deliveryImage": "/product-media/shinwa11215spec02.png"
+    }
+  },
+  {
+    "id": "p3jawself",
+    "name": "3-Jaw Self-Centering Chuck VSC-6A",
+    "category": "small-tools",
+    "subcategory": "pvertex",
+    "image": "/product-media/vertex.png",
+    "specPdf": "/product-media/VERTEXVSC-6ASPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "3-Jaw Self-Centering Chuck",
+      "subtitle": "High Precision Measurement Solution",
+      "features": [
+        "หัวจับเครื่องกลึง 3 จับ (3-Jaw Self-Centering Chuck) ชนิดขันหน้า (Front Mount) ที่มีความแม่นยำสูง ทนทาน ผลิตจากเหล็กหล่อ Meehanite คุณภาพสูง เหมาะสำหรับการผลิตจำนวนมาก มีฟันจับ 2 ชุด (ใน/นอก) ความแม่นยำในการจับสูง"
+      ],
+      "applications": [
+        "เหมาะสำหรับเครื่องกลึงทั่วไป, เครื่องแบ่ง (Dividing Head), และโต๊ะหมุน (Rotary Table)"
+      ],
+      "mainImage": "/product-media/vertex.png",
+      "logo": "/product-media/15.png",
+      "specImage": "/product-media/VERTEXVSC-6ASPEC01.png",
+      "deliveryImage": "/product-media/INSIZE1147-300spec02.png"
+    }
+  },
+  {
+    "id": "phardnesshrc",
+    "name": "HARDNESS TEST BLOCK HR-C",
+    "category": "small-tools",
+    "subcategory": "pyamamoto",
+    "image": "/product-media/YAMAMOTOHR-C.png",
+    "specPdf": "/product-media/YAMAMOTOHR-CSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "HARDNESS TEST BLOCK HR-C",
+      "subtitle": "Standard Hardness Test Blocks",
+      "features": [
+        "ก้อนทดสอบความแข็งมาตรฐานจากญี่ปุ่นที่ใช้สำหรับสอบเทียบ (Calibration) เครื่องวัดความแข็งแบบ Rockwell (HRC) มีความแม่นยำสูง เสถียร เชื่อถือได้ตามมาตรฐาน JIS B 7730 และ ISO มีลักษณะเป็นทรงกลม (φ64 x 15 มม.) มีค่าความแข็งหลากหลายระดับ (เช่น HRC 20-60+) เพื่อตรวจสอบความแม่นยำของเครื่องมือ"
+      ],
+      "applications": [
+        "สอบเทียบ (Calibration) เครื่องวัดความแข็งระบบ Rockwell C Scale",
+        "ตรวจสอบความเที่ยงตรงของเครื่องวัดความแข็งประจำวัน",
+        "ใช้อ้างอิงมาตรฐานสำหรับห้องปฏิบัติการตรวจสอบวัสดุ"
+      ],
+      "mainImage": "/product-media/YAMAMOTOHR-C.png",
+      "logo": "/product-media/23.png",
+      "specImage": "/product-media/YAMAMOTOHR-CSPEC01.png",
+      "deliveryImage": "/product-media/INSIZE1147-300spec02.png"
+    }
+  },
+  {
+    "id": "pbmseries",
+    "name": "Analytical Balance BM-SERIES",
+    "category": "industrial-balance",
+    "subcategory": null,
+    "image": "/product-media/BM-SERIES.png",
+    "specPdf": "/product-media/BMSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Analytical Balance BM-SERIES",
+      "subtitle": "Semi-Micro Analytical Balance",
+      "features": [
+        "เป็นเครื่องชั่งความละเอียดสูง 5 ตำแหน่ง (0.01 mg) มาพร้อม Ionizer ในตัวสำหรับกำจัดไฟฟ้าสถิต โครงสร้างกระจกกันลมเคลือบโลหะนำไฟฟ้า ปรับเทียบภายในอัตโนมัติ (Internal Calibration) เหมาะสำหรับงานวิจัยที่ต้องการความแม่นยำสูง",
+        "ความแม่นยำสูง: อ่านละเอียด (Readability) 0.01 mg (0.00001 g)",
+        "Built-in Ionizer: มีตัวกำจัดไฟฟ้าสถิตแบบไร้พัดลมในตัว ช่วยกำจัดไฟฟ้าสถิตจากตัวอย่างและภาชนะได้ทันที ช่วยให้การชั่งสารที่เบาหรือเป็นผงมีความเสถียรและแม่นยำ",
+        "ระบบกระจกกันลมพิเศษ: กระจกกันลมเคลือบโลหะนำไฟฟ้า ช่วยลดผลกระทบจากไฟฟ้าสถิตภายนอกได้ดี",
+        "ระบบปรับเทียบภายใน (Internal Calibration): ปรับเทียบน้ำหนักอัตโนมัติเมื่ออุณหภูมิเปลี่ยน หรือตามเวลาที่กำหนด เพื่อความแม่นยำตลอดเวลา",
+        "ฟังก์ชันการใช้งาน: มีหน้าจอแสดงผลชัดเจน อินเตอร์เฟซมาตรฐาน RS232C และ USB (ตามตัวเลือก) รองรับการเชื่อมต่อคอมพิวเตอร์",
+        "เหมาะสำหรับ: งานในห้องปฏิบัติการวิจัย งานวิทยาศาสตร์ และการชั่งสารเคมีที่ต้องการความแม่นยำสูงมาก"
+      ],
+      "applications": [
+        "เหมาะสำหรับเครื่องกลึงทั่วไป, เครื่องแบ่ง (Dividing Head), และโต๊ะหมุน (Rotary Table)",
+        "การตั้งค่าอุปกรณ์ประกอบ (Fixture Setup)",
+        "การวัดชิ้นงานขนาดใหญ่หรือชิ้นงานที่ไม่สามารถเคลื่อนย้ายได้",
+        "Absolute Arm 7-Axis 83 series เหมาะสำหรับงานอุตสาหกรรมที่ต้องการทั้งความเร็วในการเก็บข้อมูลผ่านเลเซอร์สแกนเนอร์และความแม่นยำในการสัมผัสชิ้นงาน",
+        "ความแม่นยำทางคอนทัวร์: มาตรฐานความแม่นยำ ±(1.2+|2H|/100) µm",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/BM-SERIES.png",
+      "logo": "/product-media/47.png",
+      "specImage": "/product-media/bm-series1.png",
+      "deliveryImage": "/product-media/bm-series2.png"
+    }
+  },
+  {
+    "id": "papseries",
+    "name": "Analytical Balance AP-W-SERIES",
+    "category": "industrial-balance",
+    "subcategory": null,
+    "image": "/product-media/ap-w-series.png",
+    "specPdf": "/product-media/APSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Analytical Balance AP-W-SERIES",
+      "subtitle": "Semi-Micro Analytical Balance",
+      "features": [
+        "เป็นเครื่องชั่งแบบ Top-loading ที่มีความแม่นยำสูง โดดเด่นเรื่องเทคโนโลยีเซนเซอร์ UniBloc AP ที่ช่วยให้ประมวลผลเร็วและคงที่",
+        "เทคโนโลยีเซนเซอร์: UniBloc AP (One-piece sensor) ช่วยให้เสถียรภาพและความเร็วในการชั่งดีขึ้น",
+        "การปรับตั้งค่า (Calibration): มีระบบ PSC (Perfect Self-Calibration) ปรับค่าอัตโนมัติเมื่ออุณหภูมิเปลี่ยน",
+        "หน้าจอแสดงผล: OEL Display (Dot matrix) สว่างชัดเจน",
+        "การเชื่อมต่อ:",
+        "- USB และ RS232C (สำหรับส่งข้อมูลเข้าคอมพิวเตอร์)",
+        "- Windows Direct Function: ส่งข้อมูลเข้า Excel โดยไม่ต้องลงซอฟต์แวร์เพิ่ม",
+        "ฟังก์ชันพิเศษ:",
+        "- มีระบบควบคุม AP-i (Intelligent-Advanced Processing System)",
+        "- รองรับฟังก์ชันชั่งน้ำหนักต่ำกว่าฐาน (Under-weighing)",
+        "- บางรุ่นรองรับการใช้ร่วมกับ Ionizer (STABLO-AP) เพื่อลดไฟฟ้าสถิต",
+        "พลังงาน: ใช้ AC Adapter",
+        "การรับรอง: ผลิตจากโรงงานที่ได้รับมาตรฐาน ISO 9001"
+      ],
+      "applications": [
+        "เหมาะสำหรับเครื่องกลึงทั่วไป, เครื่องแบ่ง (Dividing Head), และโต๊ะหมุน (Rotary Table)",
+        "การตั้งค่าอุปกรณ์ประกอบ (Fixture Setup)",
+        "การวัดชิ้นงานขนาดใหญ่หรือชิ้นงานที่ไม่สามารถเคลื่อนย้ายได้",
+        "Absolute Arm 7-Axis 83 series เหมาะสำหรับงานอุตสาหกรรมที่ต้องการทั้งความเร็วในการเก็บข้อมูลผ่านเลเซอร์สแกนเนอร์และความแม่นยำในการสัมผัสชิ้นงาน",
+        "ความแม่นยำทางคอนทัวร์: มาตรฐานความแม่นยำ ±(1.2+|2H|/100) µm",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/ap-w-series.png",
+      "logo": "/product-media/46.png",
+      "specImage": "/product-media/ap-w-series2.png",
+      "deliveryImage": "/product-media/ap-w-series1.png"
+    }
+  },
+  {
+    "id": "pehbseries",
+    "name": "Precision Balance EHB-SERIES",
+    "category": "industrial-balance",
+    "subcategory": null,
+    "image": "/product-media/EHB-SERIES.png",
+    "specPdf": "/product-media/EHBSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Precision Balance EHB-SERIES",
+      "subtitle": "Precision Balance",
+      "features": [
+        "เครื่องชั่งดิจิตอลความละเอียดสูง T-Scale รุ่น EHB-SERIES (Precision Balance) เป็นเครื่องชั่งทศนิยม 2และ3 ตำแหน่ง ที่เหมาะสำหรับการใช้งานในห้องแล็บ, ร้านทอง หรือการชั่งน้ำหนักสารที่ต้องการความแม่นยำสูง",
+        "หน้าจอแสดงผล: LCD สีดำพร้อมไฟเรืองแสงสีฟ้า (Backlight) ตัวเลขสูงประมาณ 16.5 มิลลิเมตร มองเห็นชัดเจน"
+      ],
+      "applications": [
+        "โหมดนับจำนวนชิ้นงาน (Counting): ใช้เพื่อนับจำนวนชิ้นส่วนเล็กๆ",
+        "โหมดคำนวณ % (Percentage): ใช้สำหรับการเทียบสัดส่วนเปอร์เซ็นต์",
+        "ฟังก์ชันสะสมน้ำหนัก (Accumulation): สำหรับการบวกค่าน้ำหนักรวม",
+        "การสอบเทียบ (Calibration): รองรับการทำ External Calibration เพื่อความเที่ยงตรง",
+        "หน่วยการวัด: รองรับหน่วยที่หลากหลาย เช่น g, ct, oz, lb"
+      ],
+      "mainImage": "/product-media/EHB-SERIES.png",
+      "logo": "/product-media/41.png",
+      "specImage": "/product-media/ehb-series1.png",
+      "deliveryImage": "/product-media/ehb-series2.png"
+    }
+  },
+  {
+    "id": "plpbseries",
+    "name": "Precision Balance LPB-series",
+    "category": "industrial-balance",
+    "subcategory": null,
+    "image": "/product-media/LPB-series.png",
+    "specPdf": "/product-media/LPBSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Precision Balance LPB-series",
+      "subtitle": "Precision Balance",
+      "features": [
+        "ADAM LPB-series (Luna Precision Balances) เป็นเครื่องชั่งที่ออกแบบมาเพื่อการใช้งานในห้องปฏิบัติการ (Lab), การวิจัย และอุตสาหกรรมที่ต้องการความแม่นยำสูง ทนทาน และใช้งานง่าย",
+        "ความละเอียดสูง: เหมาะสำหรับการชั่งน้ำหนักที่ต้องการความแม่นยำ โดยรุ่นยอดนิยมอย่าง LPB 423e มีความละเอียดถึง (0.001 g) (ทศนิยม 3 ตำแหน่ง)",
+        "โครงสร้างทนทาน: จานชั่งทำจากสแตนเลสเกรด 304 ทำความสะอาดง่ายและทนทานต่อการกัดกร่อน",
+        "ระบบกระจกกันลมพิเศษ: กระจกกันลมเคลือบโลหะนำไฟฟ้า ช่วยลดผลกระทบจากไฟฟ้าสถิตภายนอกได้ดี",
+        "หน้าจอแสดงผลชัดเจน: หน้าจอ LCD Backlit เรืองแสง ตัวเลขขนาดใหญ่ 24 mm บนพื้นหลังสีดำ มองเห็นได้ชัดเจนในทุกสภาพแสง",
+        "การเชื่อมต่อ: มีอินเตอร์เฟส USB และ RS-232 สำหรับเก็บข้อมูลและสื่อสารกับอุปกรณ์ภายนอก"
+      ],
+      "applications": [
+        "Parts Counting: ฟังก์ชันนับจำนวนชิ้นส่วน",
+        "Percentage Weighing: ชั่งน้ำหนักแบบเปรียบเทียบเปอร์เซ็นต์",
+        "Tare: หักค่าน้ำหนักภาชนะ",
+        "Hold: ล็อคค่าน้ำหนัก",
+        "Digital Filtering: มีระบบกรองสัญญาณดิจิตอลที่ปรับเลือกได้ ช่วยให้การชั่งนิ่งและแม่นยำ"
+      ],
+      "mainImage": "/product-media/LPB-series.png",
+      "logo": "/product-media/48.png",
+      "specImage": "/product-media/lpb-series1.png",
+      "deliveryImage": "/product-media/More-Information.png"
+    }
+  },
+  {
+    "id": "pbwseries",
+    "name": "Platform Balances BW-Series",
+    "category": "industrial-balance",
+    "subcategory": null,
+    "image": "/product-media/BW-SERIES.png",
+    "specPdf": "/product-media/BWSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Platform Balances BW-Series",
+      "subtitle": "Platform Balances",
+      "features": [
+        "เครื่องชั่งตั้งพื้นดิจิตอล TSCALE BW-Series (ผลิตจากไต้หวัน) เป็นเครื่องชั่งอุตสาหกรรมที่เน้นความแข็งแรงทนทาน โครงสร้างเหล็กปูพื้นเหล็กลายกันลื่น (บางรุ่นเป็นสแตนเลส) หน้าจอ LCD ขนาดใหญ่ 2 นิ้ว มีไฟพื้นหลัง (Backlight) ชั่งน้ำหนักได้แม่นยำสูง, นับจำนวนได้, ตรวจสอบน้ำหนัก (HI/LO/OK) ได้, เชื่อมต่อ RS232C ได้",
+        "หน้าจอ: LCD 6 หลัก ขนาดใหญ่ 52 มม. (2 นิ้ว) พร้อมไฟเรืองแสง (White LED backlight) อ่านง่าย",
+        "โครงสร้าง: แท่นเหล็กทนทาน โครงสร้าง ABS plastic สำหรับหน้าจอ",
+        "การเชื่อมต่อ: RS232C port สำหรับเชื่อมต่อคอมพิวเตอร์หรือปรินเตอร์",
+        "พลังงาน: ใช้ได้ทั้งไฟบ้าน 220V และแบตเตอรี่ชาร์จไฟได้ในตัว (6V/4Ah)"
+      ],
+      "applications": [
+        "หักน้ำหนักภาชนะ (Tare)",
+        "บวกสะสมน้ำหนัก (Accumulation)",
+        "ตรวจสอบน้ำหนัก (Check weighing) พร้อมเสียงเตือน HI/LO/OK",
+        "นับชิ้นงาน (Counting weighing)",
+        "ชั่งน้ำหนักสัตว์ (Animal weighing)",
+        "ล็อคค่าน้ำหนักสูงสุด (Peak hold)"
+      ],
+      "mainImage": "/product-media/BW-SERIES.png",
+      "logo": "/product-media/41.png",
+      "specImage": "/product-media/bw-series1.png",
+      "deliveryImage": "/product-media/bw-series2.png"
+    }
+  },
+  {
+    "id": "ptwi700c",
+    "name": "COUNTING BALANCE TWI-700C-SERIES",
+    "category": "industrial-balance",
+    "subcategory": null,
+    "image": "/product-media/TWI-700C-SERIES.png",
+    "specPdf": "/product-media/TWI-700C-SPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "COUNTING BALANCE TWI-700C-SERIES",
+      "subtitle": "Platform Counting Balances",
+      "features": [
+        "เครื่องชั่งน้ำหนักนับจำนวน T-BOSS รุ่น TWI-700C-Series เป็นเครื่องชั่งดิจิตอลแบบตั้งพื้นหรือตั้งโต๊ะที่ออกแบบมาเพื่อการใช้งานหนัก (Heavy Duty) โดยเฉพาะงานนับจำนวนสต็อกสินค้า (Counting) ที่ต้องการความแม่นยำสูง มาพร้อมพอร์ตเชื่อมต่อมาตรฐาน ครอบคลุมพิกัดตั้งแต่ระดับกิโลกรัมไปจนถึงระดับตัน",
+        "ความแม่นยำและการแสดงผล:",
+        "- ความละเอียดสูงสุด 1/30,000",
+        "- หน้าจอ LCD แบ่ง 3 จอ (น้ำหนักรวม, น้ำหนัก/ชิ้น, จำนวนชิ้น) ขนาด 6 หลัก",
+        "- มีไฟเรืองแสง (Backlight) ช่วยให้มองเห็นชัดเจนในที่มืด",
+        "โครงสร้างและการเชื่อมต่อ:",
+        "- โครงสร้างแท่นชั่งเหล็กหนาพิเศษ (เช่น รุ่น FM) ทนแรงกระแทก",
+        "- พอร์ตเชื่อมต่อ: มี RS-232C และ Relay Interface มาพร้อมหัวอ่าน",
+        "- รองรับการต่อพ่วง: Computer, Light Tower, Printer, USB Disk (ส่งข้อมูลไฟล์ Excel/TXT)",
+        "- รองรับโหลดเซลล์ได้สูงสุด 8 ชุด (ขึ้นอยู่กับรุ่นหัวอ่าน)",
+        "แหล่งพลังงาน: ชาร์จไฟใช้งานได้ (AC 220V / Battery 6V4Ah)",
+        "เหมาะอย่างยิ่งสำหรับงานในโรงงาน, โกดังสินค้า, หรือธุรกิจที่ต้องนับจำนวนสินค้าชิ้นเล็กจำนวนมาก"
+      ],
+      "applications": [
+        "โหมดนับจำนวนชิ้นงาน (Counting Mode)",
+        "ฟังก์ชัน HI, LO, OK (ตรวจสอบน้ำหนัก)",
+        "Preset Tare (ตั้งค่าหักค่าภาชนะ)",
+        "ตั้งค่า Filter สำหรับใช้งานในสภาพแวดล้อมที่มีการสั่นสะเทือน"
+      ],
+      "mainImage": "/product-media/TWI-700C-SERIES.png",
+      "logo": "/product-media/49.png",
+      "specImage": "/product-media/twi-700c.png",
+      "deliveryImage": "/product-media/twi-700c.png"
+    }
+  },
+  {
+    "id": "pt7eseries",
+    "name": "ELECTRONIC FLOOR SCALE T7E-SERIES",
+    "category": "industrial-balance",
+    "subcategory": null,
+    "image": "/product-media/T7E-SERIES.png",
+    "specPdf": "/product-media/T7E-spec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "ELECTRONIC FLOOR SCALE T7E-SERIES",
+      "subtitle": "ELECTRONIC FLOOR SCALE",
+      "features": [
+        "Zepper T7E Series หัวอ่านแสดงผลน้ำหนักแบบดิจิตอลยอดนิยมที่ใช้กับเครื่องชั่งน้ำหนักตั้งพื้นขนาดใหญ่ (Floor Scale) โดยมีคุณสมบัติเด่นคือหน้าจอ LED สีแดงขนาดใหญ่ 2 นิ้ว มองเห็นได้ชัดเจนจากระยะไกล",
+        "หน้าจอแสดงผล: LED สีแดงเรืองแสง (Bright Red LED) ขนาดใหญ่ สูง 2 นิ้ว (ประมาณ (50 mm))",
+        "ความแม่นยำ: ความละเอียดสูงสุด 1/30,000",
+        "การใช้งานไฟฟ้า: รองรับระบบไฟ 220 V และมีแบตเตอรี่แบบชาร์จไฟได้ในตัว (Rechargeable Battery)",
+        "การเชื่อมต่อ: มีอุปกรณ์มาตรฐาน RS232C สำหรับเชื่อมต่อกับคอมพิวเตอร์หรือเครื่องพิมพ์",
+        "พิกัดและขนาด: นิยมใช้กับแท่นชั่งขนาดใหญ่ ตั้งแต่ 500 kg - 5,000 kg (5 ตัน)",
+        "รุ่นนี้มักผ่านการตรวจรับรองจากสำนักชั่งตวงวัด เหมาะสำหรับอุตสาหกรรมที่ต้องการความแม่นยำและความทนทาน"
+      ],
+      "applications": [
+        "Tare Function: หักค่าน้ำหนักภาชนะได้เต็มพิกัด",
+        "Zero Function: ตั้งค่าศูนย์",
+        "Hold Function: ฟังก์ชันล็อคน้ำหนัก",
+        "Accumulate Function: บวกสะสมน้ำหนักได้",
+        "HI/LO/OK Function: ตั้งค่าตรวจสอบน้ำหนัก (Check Weigher)"
+      ],
+      "mainImage": "/product-media/T7E-SERIES.png",
+      "logo": "/product-media/69.png",
+      "specImage": "/product-media/t7e-series1.png",
+      "deliveryImage": "/product-media/twi-700c.png"
+    }
+  },
+  {
+    "id": "pti01series",
+    "name": "ELECTRONIC FLOOR SCALE TI01-SERIES",
+    "category": "industrial-balance",
+    "subcategory": null,
+    "image": "/product-media/TI01-SERIES.png",
+    "specPdf": "/product-media/TI01-SPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "ELECTRONIC FLOOR SCALE TI01-SERIES",
+      "subtitle": "ELECTRONIC FLOOR SCALE",
+      "features": [
+        "เครื่องชั่ง TIGER รุ่น TI-01 Series เป็นเครื่องชั่งน้ำหนักแบบตั้งพื้นระบบดิจิตอลที่เหมาะสำหรับอุตสาหกรรม โดดเด่นด้วยจอ LED สีแดงขนาด 30 มม. อ่านค่าง่าย ชั่งได้สูงสุด 750 กิโลกรัม (หรือ 2 ตันในรุ่นใหญ่) สามารถชั่งได้ 2 หน่วย (kg/lb) มีพอร์ต RS-232 เชื่อมต่อคอมพิวเตอร์/ปริ้นเตอร์ พร้อมผ่านการตรวจรับรองจากสำนักงานชั่งตวงวัด",
+        "หน้าจอแสดงผล: หน้าจอ LED สีแดง ขนาดตัวเลข 30 มม. มองเห็นชัดเจน",
+        "หน่วยการชั่ง: รองรับการชั่ง 2 หน่วย คือ กิโลกรัม (kg) และ ปอนด์ (lb)",
+        "พิกัดการชั่ง: ครอบคลุมตั้งแต่น้ำหนักเบาจนถึงพิกัดสูง (เช่น 15 กก. ถึง 750 กก. ขึ้นอยู่กับรุ่นย่อย)",
+        "การเชื่อมต่อ: มีพอร์ต RS-232 สำหรับเชื่อมต่อกับคอมพิวเตอร์, ปริ้นเตอร์ หรือจอแสดงผลภายนอกได้",
+        "พลังงาน: ใช้แบตเตอรี่ชนิดชาร์จไฟฟ้าได้ (Rechargeable Battery)",
+        "มาตรฐาน: สินค้าผ่านการตรวจรับรองจากสำนักงานชั่งตวงวัด กระทรวงพาณิชย์",
+        "โครงสร้างแท่นชั่ง: มีขนาดแท่นให้เลือกหลากหลาย",
+        "การใช้งาน: เหมาะสำหรับอุตสาหกรรม, คลังสินค้า, หรือการชั่งพืชผลทางการเกษตรที่ต้องการความแม่นยำสูง"
+      ],
+      "applications": [
+        "ระบบตรวจสอบน้ำหนัก (HI, LO, OK)",
+        "ระบบหักค่าภาชนะ (Tare) ได้ตลอดช่วงการชั่ง",
+        "โหมดนับจำนวนชิ้นงาน (Counting)"
+      ],
+      "mainImage": "/product-media/TI01-SERIES.png",
+      "logo": "/product-media/52.png",
+      "specImage": "/product-media/ti01-series1.png",
+      "deliveryImage": "/product-media/ti01-series2.png"
+    }
+  },
+  {
+    "id": "ptnseries",
+    "name": "Crane Scale TN-SERIES",
+    "category": "industrial-balance",
+    "subcategory": null,
+    "image": "/product-media/TN-series.png",
+    "specPdf": "/product-media/TN-LCD-sepec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Crane Scale TN-SERIES",
+      "subtitle": "Crane Scale",
+      "features": [
+        "T-Scale TN-6T Series เป็นเครื่องชั่งแขวนดิจิตอล (Crane Scale) แบบกันน้ำ เหมาะสำหรับงานอุตสาหกรรมหนัก",
+        "การแสดงผล: จอ LCD ขนาด 30mm พร้อมไฟ LED backlight สีขาว ทำให้อ่านค่าน้ำหนักได้ชัดเจน",
+        "ความสามารถในการกันน้ำ: มาตรฐาน IP65/IP67 (ขึ้นอยู่กับรุ่นย่อย) ทนต่อความชื้นและการทำงานกลางแจ้ง",
+        "ความสามารถในการชั่ง (Capacity): มีหลากหลายรุ่นตั้งแต่ 600 kg, 1.5 t, 3 t, 6 t, ไปจนถึง 15 t",
+        "โครงสร้าง: แข็งแรงทนทาน ออกแบบสำหรับงานแขวนโดยเฉพาะ",
+        "การเชื่อมต่อ (Optional): รองรับ WIFI และ Bluetooth 5.0",
+        "แหล่งพลังงาน: แบตเตอรี่แบบชาร์จไฟได้ (7.4V/5.2Ah Lead-acid) ใช้งานได้ต่อเนื่องประมาณ 72 ชั่วโมง (แบบไม่เปิดไฟ backlight)",
+        "ฟังก์ชัน: ปุ่มกดแบบกลไก (5 keys) มีฟังก์ชันหักค่าภาชนะ (Tare) และพักค่าน้ำหนัก (Hold)",
+        "มาตรฐาน: OIML, GS"
+      ],
+      "applications": [
+        "ระบบตรวจสอบน้ำหนัก (HI, LO, OK)",
+        "ระบบหักค่าภาชนะ (Tare) ได้ตลอดช่วงการชั่ง",
+        "โหมดนับจำนวนชิ้นงาน (Counting)",
+        "Accumulate Function: บวกสะสมน้ำหนักได้",
+        "HI/LO/OK Function: ตั้งค่าตรวจสอบน้ำหนัก (Check Weigher)"
+      ],
+      "mainImage": "/product-media/TN-series.png",
+      "logo": "/product-media/41.png",
+      "specImage": "/product-media/tb-series.png",
+      "deliveryImage": "/product-media/ti01-series2.png"
+    }
+  },
+  {
+    "id": "pthp03series",
+    "name": "ELECTRONIC Hand Pallet THP-03-SERIES",
+    "category": "industrial-balance",
+    "subcategory": null,
+    "image": "/product-media/THP03-SERIES.png",
+    "specPdf": "/product-media/THP-SPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "ELECTRONIC Hand Pallet THP-03-SERIES",
+      "subtitle": "ELECTRONIC Hand Pallet",
+      "features": [
+        "เครื่องชั่งน้ำหนักรถพาเลท TIGER รุ่น THP-03-SERIES เป็นเครื่องชั่งในงานอุตสาหกรรมที่รวมรถแฮนด์พาเลท (Hand Pallet) เข้ากับเครื่องชั่งดิจิตอล ความสามารถหลักคือยกและชั่งน้ำหนักได้สูงสุด (1000kg) หรือ (2000 kg) โดยมีค่าความละเอียด(0.5 kg) ถึง (1 kg) โครงสร้างแข็งแรงทนทาน ใช้จอแสดงผล LCD/LED ที่ชัดเจน",
+        "หัวอ่าน: ใช้หัวอ่านคุณภาพสูง (มักเป็นรุ่น [TI-03SS]) ซึ่งเป็นจอ LCD/LED ตัวเลขขนาดใหญ่ 40 มม. พร้อมไฟ Backlight",
+        "ฟังก์ชันการทำงาน: สามารถหักค่าภาชนะ (TARE), เปลี่ยนหน่วยน้ำหนัก (Kg/g), และใช้งานได้ต่อเนื่อง",
+        "การใช้งาน: เหมาะสำหรับเคลื่อนย้ายและชั่งน้ำหนักพาเลทสินค้า ช่วยผ่อนแรงในคลังสินค้าและสายการผลิต",
+        "รุ่นพิเศษ: มีรุ่นที่รองรับการพิมพ์ผล (Printer) เช่น THP-03P สำหรับพิมพ์ข้อมูลการชั่ง"
+      ],
+      "applications": [
+        "ระบบตรวจสอบน้ำหนัก (HI, LO, OK)",
+        "ระบบหักค่าภาชนะ (Tare) ได้ตลอดช่วงการชั่ง",
+        "โหมดนับจำนวนชิ้นงาน (Counting)",
+        "Accumulate Function: บวกสะสมน้ำหนักได้",
+        "HI/LO/OK Function: ตั้งค่าตรวจสอบน้ำหนัก (Check Weigher)"
+      ],
+      "mainImage": "/product-media/THP03-SERIES.png",
+      "logo": "/product-media/52.png",
+      "specImage": "/product-media/thp-spec1.png",
+      "deliveryImage": "/product-media/thp-spec2.png"
+    }
+  },
+  {
+    "id": "pbw7842",
+    "name": "DIGITAL ANIMAL WEIGHING SCALE BW-7842",
+    "category": "animal-balance",
+    "subcategory": null,
+    "image": "/product-media/BW-7842.png",
+    "specPdf": "/product-media/bw-7842spec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "DIGITAL ANIMAL WEIGHING SCALE BW-7842",
+      "subtitle": "เครื่องชั่งน้ำหนักสัตว์เลี้ยงดิจิทัล",
+      "features": [
+        "NAGATA รุ่น BW-7842 เป็นเครื่องชั่งน้ำหนักสัตว์เลี้ยงดิจิทัลเกรดพรีเมียมจากไต้หวัน พิกัดสูงสุด 300 กก. ความละเอียด 50 กรัม โดดเด่นด้วยฟังก์ชันล็อกน้ำหนักอัตโนมัติ (Hold) ภายใน 2 วินาที แท่นชั่งสแตนเลสขนาดกว้าง 55 x 90 ซม. พร้อมยางกันลื่น เหมาะสำหรับโรงพยาบาลสัตว์และคลินิก",
+        "เครื่องชั่งรุ่นนี้เหมาะอย่างยิ่งสำหรับการชั่งน้ำหนักสุนัข แมว หรือสัตว์เลี้ยงขนาดกลางถึงขนาดใหญ่ โดยเน้นความสะดวกในการใช้งานและความปลอดภัยของสัตว์เลี้ยงเป็นหลัก"
+      ],
+      "applications": [
+        "เหมาะสำหรับเครื่องกลึงทั่วไป, เครื่องแบ่ง (Dividing Head), และโต๊ะหมุน (Rotary Table)",
+        "การตั้งค่าอุปกรณ์ประกอบ (Fixture Setup)",
+        "การวัดชิ้นงานขนาดใหญ่หรือชิ้นงานที่ไม่สามารถเคลื่อนย้ายได้",
+        "Absolute Arm 7-Axis 83 series เหมาะสำหรับงานอุตสาหกรรมที่ต้องการทั้งความเร็วในการเก็บข้อมูลผ่านเลเซอร์สแกนเนอร์และความแม่นยำในการสัมผัสชิ้นงาน",
+        "ความแม่นยำทางคอนทัวร์: มาตรฐานความแม่นยำ ±(1.2+|2H|/100) µm",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/BW-7842.png",
+      "logo": "/product-media/44.png",
+      "specImage": "/product-media/be7842spce01.png",
+      "deliveryImage": "/product-media/bw-7842spec.pdf"
+    }
+  },
+  {
+    "id": "ptas01",
+    "name": "ANIMAL WEIGHING SCALE TAS-01",
+    "category": "animal-balance",
+    "subcategory": null,
+    "image": "/product-media/TAS-01.png",
+    "specPdf": "/product-media/TAS-01spec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "ANIMAL WEIGHING SCALE TAS-01",
+      "subtitle": "เครื่องชั่งน้ำหนักสัตว์",
+      "features": [
+        "เครื่องชั่งน้ำหนักสัตว์ TIGER รุ่น TAS-01 เป็นเครื่องชั่งดิจิตอลสำหรับสัตว์เลี้ยงหรือสัตว์ขนาดใหญ่ พิกัดน้ำหนักสูงสุด 300 kg ความละเอียด 0.05 kg(50 กรัม) แท่นชั่งขนาด 50 x 90 ซม. พร้อมแผ่นกันลื่น มีฟังก์ชันล็อกน้ำหนัก (Hold) สำหรับสัตว์ที่เคลื่อนไหว แสดงผล LCD แบตเตอรี่ในตัวชาร์จได้ และมีล้อเลื่อนสะดวกในการเคลื่อนย้า",
+        "การเชื่อมต่อ: มีช่องสัญญาณ RS232 สามารถต่อปริ้นเตอร์หรือส่งข้อมูลเข้าคอมพิวเตอร์ได้",
+        "พลังงาน: แบตเตอรี่แบบชาร์จไฟได้ (Rechargeable Battery) ใช้ได้นานประมาณ 40 ชั่วโมง",
+        "โครงสร้าง: แท่นชั่งเหล็กมีแผ่นกันลื่น และมีล้อเลื่อนด้านข้างเพื่อการเคลื่อนย้ายที่สะดวก",
+        "Option เสริม: สามารถต่อ Bluetooth เพื่อดูน้ำหนักบนมือถือได้"
+      ],
+      "applications": [
+        "Animal Scale Mode: มีโหมดชั่งน้ำหนักสัตว์เลี้ยงโดยเฉพาะ ช่วยจับน้ำหนักแม้สัตว์จะเคลื่อนไหว",
+        "Hold Function: ฟังก์ชันล็อกน้ำหนักสัตว์",
+        "TARE: ฟังก์ชันหักค่าน้ำหนักภาชนะ",
+        "Counting: ฟังก์ชันนับจำนวนชิ้นงาน",
+        "Hi-Low: ตั้งค่าเตือนน้ำหนัก (High-Low)"
+      ],
+      "mainImage": "/product-media/TAS-01.png",
+      "logo": "/product-media/52.png",
+      "specImage": "/product-media/tas01spec.png",
+      "deliveryImage": "/product-media/bw-7842spec.pdf"
+    }
+  },
+  {
+    "id": "ptcsd300",
+    "name": "ANIMAL WEIGHING SCALE TCS-D-300",
+    "category": "animal-balance",
+    "subcategory": null,
+    "image": "/product-media/TCS-D-300.png",
+    "specPdf": "/product-media/TCS-D-300spec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "ANIMAL WEIGHING SCALE TCS-D-300",
+      "subtitle": "เครื่องชั่งน้ำหนักสัตว์",
+      "features": [
+        "เครื่องชั่งน้ำหนักสัตว์ CST รุ่น TCS-D-300 เป็นเครื่องชั่งดิจิตอลอเนกประสงค์ พิกัดสูงสุด 300 กิโลกรัม ความละเอียด 50 กรัม (0.05 กก.) เหมาะสำหรับชั่งสัตว์เลี้ยง สุนัข หรือแมว แท่นชั่งสแตนเลสขนาด 60 x 90 ซม. ทนทาน แข็งแรง พร้อมฟังก์ชันล็อคน้ำหนักอัตโนมัติ [Hold Function] หน้าจอ LCD มีไฟเรืองแสงสีเขียว ใช้งานต่อเนื่องได้นานด้วยแบตเตอรี่แบบชาร์จไฟ"
+      ],
+      "applications": [
+        "Hold Function: ล็อคค่าน้ำหนักอัตโนมัติ เหมาะสำหรับสัตว์ที่ไม่นิ่ง",
+        "Power Off: ปิดเครื่องอัตโนมัติเมื่อไม่ใช้งาน (Auto Power Off) ช่วยประหยัดพลังงาน",
+        "Comparator Function: มีระบบตรวจสอบน้ำหนัก"
+      ],
+      "mainImage": "/product-media/TCS-D-300.png",
+      "logo": "/product-media/56.png",
+      "specImage": "/product-media/tcs-d300spec01.png",
+      "deliveryImage": "/product-media/bw-7842spec.pdf"
+    }
+  },
+  {
+    "id": "pac168",
+    "name": "ANIMAL WEIGHING SCALE AC-168",
+    "category": "animal-balance",
+    "subcategory": null,
+    "image": "/product-media/ac-168.png",
+    "specPdf": "/product-media/ac168spec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "ANIMAL WEIGHING SCALE AC-168",
+      "subtitle": "เครื่องชั่งน้ำหนักสัตว์",
+      "features": [
+        "เครื่อง ชั่งสัตว์ เครื่องชั่งสัตว์เลี้ยง เครื่องชั่งน้ำหนักสัตว์ ขั่งน้ำหนักได้ 300 kg ค่าละเอียด 0.1g ยี่ห้อ ACU ACU-168 300kg 0.1kg"
+      ],
+      "applications": [
+        "Hold Function: ล็อคค่าน้ำหนักอัตโนมัติ เหมาะสำหรับสัตว์ที่ไม่นิ่ง",
+        "Power Off: ปิดเครื่องอัตโนมัติเมื่อไม่ใช้งาน (Auto Power Off) ช่วยประหยัดพลังงาน",
+        "Comparator Function: มีระบบตรวจสอบน้ำหนัก",
+        "Counting: ฟังก์ชันนับจำนวนชิ้นงาน",
+        "Hi-Low: ตั้งค่าเตือนน้ำหนัก (High-Low)"
+      ],
+      "mainImage": "/product-media/ac-168.png",
+      "logo": "/product-media/brand-gf.png",
+      "specImage": "/product-media/ac168spce.png",
+      "deliveryImage": "/product-media/bw-7842spec.pdf"
+    }
+  },
+  {
+    "id": "pids707",
+    "name": "ANIMAL WEIGHING SCALE IDS707",
+    "category": "animal-balance",
+    "subcategory": null,
+    "image": "/product-media/IDS707-VET-SCALE-.png",
+    "specPdf": "/product-media/IDS707VETSCALEspec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "ANIMAL WEIGHING SCALE IDS707",
+      "subtitle": "เครื่องชั่งน้ำหนักสัตว์",
+      "features": [
+        "เครื่องชั่งน้ำหนักสัตว์เลี้ยงดิจิตอล SDS รุ่น IDS707 (VET SCALE) พิกัด 300 กิโลกรัม ละเอียด 50 กรัม เหมาะสำหรับสัตว์เลี้ยงขนาดกลาง-ใหญ่ ตัวแท่นทำจากสแตนเลสทนทาน มีฟังก์ชันล็อคน้ำหนักอัตโนมัติ (Animal Weighing) เมื่อสัตว์เคลื่อนไหว หน้าจอแสดงผลเรืองแสง (Backlight) ชัดเจน และใช้งานแบบไร้สายได้ด้วยแบตเตอรี่รีชาร์จ"
+      ],
+      "applications": [
+        "Tare: หักค่าภาชนะหรือถาด",
+        "Zero: ตั้งค่าเป็นศูนย์",
+        "Auto Off: ระบบปิดอัตโนมัติเมื่อไม่ใช้งาน ช่วยประหยัดพลังงาน"
+      ],
+      "mainImage": "/product-media/IDS707-VET-SCALE-.png",
+      "logo": "/product-media/42.png",
+      "specImage": "/product-media/ids707.png",
+      "deliveryImage": "/product-media/bw-7842spec.pdf"
+    }
+  },
+  {
+    "id": "ppf110h",
+    "name": "Pet-Feeding Bowl Scale PF110H",
+    "category": "animal-balance",
+    "subcategory": null,
+    "image": "/product-media/PF110H.png",
+    "specPdf": "/product-media/PF110HSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Pet-Feeding Bowl Scale PF110H",
+      "subtitle": "เครื่องชั่งชามให้อาหารสัตว์เลี้ยงระบบดิจิตอล",
+      "features": [
+        "เครื่องชั่งชามให้อาหารสัตว์เลี้ยงระบบดิจิตอล CAMRY รุ่น PF110H (Pet-Feeding Bowl Scale) ออกแบบมาเพื่อช่วยควบคุมปริมาณอาหารสัตว์เลี้ยงให้เหมาะสมในแต่ละวัน มีคุณสมบัติหลักที่โดดเด่น",
+        "พิกัดกำลัง (Capacity): ชั่งน้ำหนักได้สูงสุด 2 กิโลกรัม",
+        "ค่าความละเอียด (Accuracy): ละเอียด 1 กรัม",
+        "การแสดงผล: จอ LCD สีดำ ตัวเลขสูง 12 mm ชัดเจน",
+        "หน่วยวัด: รองรับหน่วยกรัม g และสามารถชั่งของเหลวเป็นหน่วยมิลลิลิตร ml ได้",
+        "โครงสร้าง: เป็นพลาสติกกันน้ำ มาตรฐาน IPX5 เหมาะสำหรับการใช้งานร่วมกับอาหารสัตว์",
+        "ฟีเจอร์การออกแบบ:",
+        "- ความเอียงพิเศษ: ก้นชามมีความลาดเอียง 5องศา ช่วยให้สัตว์เลี้ยงกินอาหารได้ง่ายขึ้น และลดภาระกระดูกสันหลัง",
+        "- ดีไซน์ U-Shape: ก้นชามรูปตัวยู ช่วยป้องกันอาหารหกเลอะเทอะ",
+        "- ขนาดพื้นที่ชั่ง: ขนาดพื้นที่วางอาหาร142 X 142 mm",
+        "ขนาดเครื่องชั่ง: 183 X 170 X 73 mm",
+        "Option เสริม: สามารถต่อ Bluetooth เพื่อดูน้ำหนักบนมือถือได้",
+        "Option เสริม: สามารถต่อ Bluetooth เพื่อดูน้ำหนักบนมือถือได้",
+        "Option เสริม: สามารถต่อ Bluetooth เพื่อดูน้ำหนักบนมือถือได้"
+      ],
+      "applications": [
+        "เหมาะสำหรับ: สุนัขขนาดเล็ก, แมว, นก, กระต่าย หรือสัตว์เลี้ยงขนาดเล็กชนิดอื่นๆ",
+        "ความสะดวก: น้ำหนักเบา ใช้งานสะดวก และทำความสะอาดได้ง่าย"
+      ],
+      "mainImage": "/product-media/PF110H.png",
+      "logo": "/product-media/43.png",
+      "specImage": "/product-media/pf110hspec01.png",
+      "deliveryImage": "/product-media/bw-7842spec.pdf"
+    }
+  },
+  {
+    "id": "panimalbigsize",
+    "name": "เครื่องชั่งน้ำหนักสัตว์ใหญ่แบบกรง",
+    "category": "animal-balance",
+    "subcategory": null,
+    "image": null,
+    "specPdf": "/product-media/animalbig.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "เครื่องชั่งน้ำหนักสัตว์ใหญ่แบบกรง",
+      "subtitle": "เครื่องชั่งน้ำหนักวัว สุกร ปศุสัตว์ แบบกรง คอก ชั่งทีละตัว",
+      "features": [
+        "เครื่องชั่งน้ำหนักวัวในฟาร์มส่วนใหญ่เป็นระบบอิเล็กทรอนิกส์/ดิจิตอล โครงสร้างแข็งแรงทนทานทำจากเหล็กคาร์บอนหรือสแตนเลส (กรง/แท่นชั่ง) พิกัดชั่งสูงสุด 1,000-2,000 กก. มีความแม่นยำสูง (ค่าละเอียด0.5-1 กก.) โดยใช้โหลดเซลล์ 4 ตัว (Loadcell) รองรับการชั่งแม้สัตว์เคลื่อนไหว มีจอแสดงผล LED/LCD แบตเตอรี่ในตัวชาร์จไฟได้ และมักมีการออกแบบแบบกรงขัง"
+      ],
+      "applications": [
+        "Hold Function: ล็อคค่าน้ำหนักอัตโนมัติ เหมาะสำหรับสัตว์ที่ไม่นิ่ง",
+        "Power Off: ปิดเครื่องอัตโนมัติเมื่อไม่ใช้งาน (Auto Power Off) ช่วยประหยัดพลังงาน",
+        "Comparator Function: มีระบบตรวจสอบน้ำหนัก",
+        "Counting: ฟังก์ชันนับจำนวนชิ้นงาน",
+        "Hi-Low: ตั้งค่าเตือนน้ำหนัก (High-Low)"
+      ],
+      "mainImage": null,
+      "logo": "/product-media/brand-gf.png",
+      "specImage": "/product-media/animalbig.png",
+      "deliveryImage": "/product-media/bw-7842spec.pdf"
+    }
+  },
+  {
+    "id": "panimalsmallsize",
+    "name": "เครื่องชั่งน้ำหนักสัตว์เล็กแบบกรง",
+    "category": "animal-balance",
+    "subcategory": null,
+    "image": "/product-media/animalsmall.png",
+    "specPdf": "/product-media/animalsmall.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "เครื่องชั่งน้ำหนักสัตว์เล็กแบบกรง",
+      "subtitle": "เครื่องชั่งน้ำหนักวัว สุกร ปศุสัตว์ แบบกรง คอก ชั่งทีละตัว",
+      "features": [
+        "เครื่องชั่งน้ำหนักสุกร (หมู) เป็นเครื่องชั่งระบบอิเล็กทรอนิกส์/ดิจิตอลที่ออกแบบมาเพื่องานปศุสัตว์โดยเฉพาะ มีคุณสมบัติเด่นคือโครงสร้างแข็งแรงทนทาน (มักเป็นเหล็กหรือสแตนเลส) มีกรงขังเพื่อป้องกันหมูวิ่งหนี รับน้ำหนักได้สูงตั้งแต่ 300 - 2,000 กก. มาพร้อมฟังก์ชันล็อคน้ำหนัก (Hold) เพื่ออ่านค่าได้แม่นยำแม้สัตว์ขยับตัว และมักมีระบบล้อเลื่อนเคลื่อนที่ได้สะดวก"
+      ],
+      "applications": [
+        "Hold Function: ล็อคค่าน้ำหนักอัตโนมัติ เหมาะสำหรับสัตว์ที่ไม่นิ่ง",
+        "Power Off: ปิดเครื่องอัตโนมัติเมื่อไม่ใช้งาน (Auto Power Off) ช่วยประหยัดพลังงาน",
+        "Comparator Function: มีระบบตรวจสอบน้ำหนัก",
+        "Counting: ฟังก์ชันนับจำนวนชิ้นงาน",
+        "Hi-Low: ตั้งค่าเตือนน้ำหนัก (High-Low)"
+      ],
+      "mainImage": "/product-media/animalsmall.png",
+      "logo": "/product-media/brand-gf.png",
+      "specImage": "/product-media/animalsmall-1.png",
+      "deliveryImage": "/product-media/bw-7842spec.pdf"
+    }
+  },
+  {
+    "id": "pdc360",
+    "name": "Body Composition Analyzer DC-360",
+    "category": "hospital-balance",
+    "subcategory": null,
+    "image": "/product-media/DC-360.png",
+    "specPdf": "/product-media/DC-360spec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Body Composition Analyzer DC-360",
+      "subtitle": "Body Composition Analyzer",
+      "features": [
+        "TANITA DC-360 Series เป็นเครื่องวิเคราะห์องค์ประกอบร่างกาย (Body Composition Analyzer) ที่ใช้เทคโนโลยีขั้นสูง เหมาะสำหรับใช้ในคลินิก ฟิตเนส หรือการตรวจสุขภาพทั่วไป",
+        "เทคโนโลยีการวัด: ใช้ระบบ Dual Frequency BIA (Bioelectrical Impedance Analysis) ซึ่งเป็นการวิเคราะห์ความต้านทานกระแสไฟฟ้าต่อเซลล์ในร่างกายสองความถี่ เพื่อความแม่นยำที่สูงขึ้นในการวัด",
+        "การวิเคราะห์ข้อมูล: เครื่องสามารถวิเคราะห์ค่าต่าง ๆ ได้หลากหลาย เช่น:",
+        "- น้ำหนักตัว (Weight)",
+        "- ดัชนีมวลกาย (BMI)",
+        "- มวลไขมันรวมในร่างกาย (Body Fat)",
+        "- มวลร่างกายที่ไร้ไขมัน (Fat-Free Mass)",
+        "- มวลกล้ามเนื้อ (Muscle Mass)",
+        "- ไขมันในช่องท้อง (Visceral Fat)",
+        "- อัตราการเผาผลาญพลังงานพื้นฐาน (Basal Metabolic Rate - BMR)",
+        "การแสดงผลและบันทึกข้อมูล: มีเครื่องพิมพ์ในตัว (ในรุ่น DC-360P) เพื่อแสดงผลลัพธ์ทันที หรือสามารถถ่ายโอนข้อมูลไปยังคอมพิวเตอร์ผ่าน USB ได้",
+        "โครงสร้าง: ออกแบบมาให้มีความแข็งแรง ใช้งานง่าย และมีความแม่นยำสูง",
+        "ข้อควรระวังในการใช้งาน: ขณะทำการวัด แขนทั้งสองข้างไม่ควรแนบติดชิดข้างลำตัว และต้นขาด้านในไม่ควรสัมผัสกัน"
+      ],
+      "applications": [
+        "เหมาะสำหรับเครื่องกลึงทั่วไป, เครื่องแบ่ง (Dividing Head), และโต๊ะหมุน (Rotary Table)",
+        "การตั้งค่าอุปกรณ์ประกอบ (Fixture Setup)",
+        "การวัดชิ้นงานขนาดใหญ่หรือชิ้นงานที่ไม่สามารถเคลื่อนย้ายได้",
+        "Absolute Arm 7-Axis 83 series เหมาะสำหรับงานอุตสาหกรรมที่ต้องการทั้งความเร็วในการเก็บข้อมูลผ่านเลเซอร์สแกนเนอร์และความแม่นยำในการสัมผัสชิ้นงาน",
+        "ความแม่นยำทางคอนทัวร์: มาตรฐานความแม่นยำ ±(1.2+|2H|/100) µm",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/DC-360.png",
+      "logo": "/product-media/63.png",
+      "specImage": "/product-media/DC-360-1.png",
+      "deliveryImage": "/product-media/DC-360-1.png"
+    }
+  },
+  {
+    "id": "ptcs200a",
+    "name": "Body SCALE TCS-200A-RT",
+    "category": "hospital-balance",
+    "subcategory": null,
+    "image": "/product-media/TCS-200A-RT.png",
+    "specPdf": "/product-media/TCS-200A-RTspec.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Body SCALE TCS-200A-RT",
+      "subtitle": "เครื่องชั่งน้ำหนักบุคคลพร้อมวัดส่วนสูงดิจิตอล",
+      "features": [
+        "เครื่องชั่งน้ำหนักบุคคลพร้อมวัดส่วนสูงดิจิตอล Zepper รุ่น TCS-200A-RT พิกัดสูงสุด 200-250 kg ความละเอียด 100 g (0.1 kg) พร้อมชุดวัดส่วนสูง 70-190 cm โดดเด่นด้วยจอ LED สีแดงชัดเจน โครงสร้างเหล็กทนทาน ใช้ได้ทั้งไฟบ้านและแบตเตอรี่ชาร์จไฟได้ เหมาะสำหรับสถานพยาบาลหรือฟิตเนส",
+        "หน้าจอแสดงผล: แสดงผลด้วยจอ LED สีแดง ขนาดตัวเลขสูงประมาณ15-20 mm มองเห็นชัดเจนแม้ในที่แสงน้อย",
+        "วัสดุและโครงสร้าง: แท่นชั่งและตัวเครื่องทำจากเหล็กพ่นเคลือบสีกันสนิมอย่างดี แข็งแรงทนทาน",
+        "พลังงาน: ใช้ไฟบ้าน AC 220V หรือแบตเตอรี่แบบชาร์จไฟได้ (Rechargeable) ใช้งานต่อเนื่องได้ยาวนาน"
+      ],
+      "applications": [
+        "ชั่งน้ำหนักได้ 2 หน่วย: กิโลกรัม (kg) และปอนด์ (lb)",
+        "ฟังก์ชันหักค่าน้ำหนักภาชนะ (Tare)",
+        "ฟังก์ชันคำนวณค่าดัชนีมวลกาย (BMI) ในบางรุ่น",
+        "ปิดเครื่องอัตโนมัติ (Auto Power Off) เพื่อประหยัดพลังงาน ภายใน 3-5 นาที"
+      ],
+      "mainImage": "/product-media/TCS-200A-RT.png",
+      "logo": "/product-media/69.png",
+      "specImage": "/product-media/tcs-200a-at1.png",
+      "deliveryImage": "/product-media/DC-360-1.png"
+    }
+  },
+  {
+    "id": "pm301",
+    "name": "Body SCALE M301",
+    "category": "hospital-balance",
+    "subcategory": null,
+    "image": "/product-media/M301.png",
+    "specPdf": "/product-media/M-301SPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Body SCALE M301",
+      "subtitle": "เครื่องชั่งน้ำหนักบุคคลระบบดิจิตอลพร้อมชุดวัดส่วนสูง",
+      "features": [
+        "TSCALE M301 เป็นเครื่องชั่งน้ำหนักบุคคลระบบดิจิตอลพร้อมชุดวัดส่วนสูง พิกัดกำลังสูงสุด 250 กิโลกรัม ความละเอียด 0.1 กิโลกรัม (100 กรัม) โดดเด่นด้วยฟังก์ชันคำนวณค่าดัชนีมวลกาย (BMI) หน้าจอ LCD เรืองแสงขนาด 25 มม. โครงสร้างแข็งแรงทนทานพร้อมแผ่นยางกันลื่น เหมาะสำหรับใช้งานในสถานพยาบาลหรือฟิตเนส",
+        "โครงสร้าง: แท่นชั่งขนาดประมาณ 355x360 มม. หรือ 370x370 มม. ปูพื้นกันลื่น",
+        "การเคลื่อนย้าย: มีล้อคู่หลังช่วยให้เคลื่อนย้ายสะดวก",
+        "พลังงาน: AC Adapter 12V / 500mA"
+      ],
+      "applications": [
+        "คำนวณค่าดัชนีมวลกาย (BMI) พร้อมแถบบาร์กราฟแสดงผล",
+        "ระบบ HOLD ล็อคค่าน้ำหนักอัตโนมัติ",
+        "TARE ตัดน้ำหนักภาชนะ (ชั่งน้ำหนักแม่และเด็ก)",
+        "Zero เคลียร์ค่าหน้าจอเป็นศูนย์"
+      ],
+      "mainImage": "/product-media/M301.png",
+      "logo": "/product-media/41.png",
+      "specImage": "/product-media/m301-1.png",
+      "deliveryImage": "/product-media/DC-360-1.png"
+    }
+  },
+  {
+    "id": "pids851",
+    "name": "Body SCALE IDS851",
+    "category": "hospital-balance",
+    "subcategory": null,
+    "image": "/product-media/IDS851.png",
+    "specPdf": null,
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Body SCALE IDS851",
+      "subtitle": "เครื่องชั่งน้ำหนักบุคคลดิจิตอลพร้อมที่วัดส่วนสูง",
+      "features": [
+        "เครื่องชั่งน้ำหนักบุคคลดิจิตอลพร้อมที่วัดส่วนสูง ยี่ห้อ SDS รุ่น IDS851 (หรือ IDS851 Series) เป็นเครื่องชั่งน้ำหนักแบบดิจิตอลที่ออกแบบมาสำหรับการใช้งานในสถานพยาบาล โรงพยาบาล หรือฟิตเนส"
+      ],
+      "applications": [
+        "Hold: ฟังก์ชันล็อคค่าน้ำหนักอัตโนมัติ",
+        "BMI: คำนวณค่าดัชนีมวลกาย (Body Mass Index)",
+        "Zero/Tare: หักค่าน้ำหนักส่วนเกิน หรือตั้งค่าหน้าจอเป็นศูนย์",
+        "Unit: สามารถเปลี่ยนหน่วยการชั่งได้ เช่น กิโลกรัม (kg) หรือ ปอนด์ (lb)"
+      ],
+      "mainImage": "/product-media/IDS851.png",
+      "logo": "/product-media/42.png",
+      "specImage": "/product-media/ids851-1.png",
+      "deliveryImage": "/product-media/DC-360-1.png"
+    }
+  },
+  {
+    "id": "pbw1410xxl",
+    "name": "Body SCALE BW-1410XXL",
+    "category": "hospital-balance",
+    "subcategory": null,
+    "image": "/product-media/BW-1410XXL.png",
+    "specPdf": "/product-media/BW-1410XXLSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Body SCALE BW-1410XXL",
+      "subtitle": "เครื่องชั่งน้ำหนักดิจิตอลสำหรับรถเข็นผู้ป่วย/เปลนอน",
+      "features": [
+        "เครื่องชั่งน้ำหนักดิจิตอลสำหรับรถเข็นผู้ป่วย/เปลนอน [NAGATA รุ่น BW-1410XXL] เป็นเครื่องชั่งเกรดโรงพยาบาล ผลิตจากไต้หวัน ชั่งน้ำหนักได้สูงสุด 300 กิโลกรัม ความละเอียด 100 กรัม แท่นชั่งขนาดใหญ่100 X 170 ซม. พร้อมทางลาดและราวจับสแตนเลส เหมาะสำหรับรถเข็นผ่านได้สะดวก มีฟังก์ชันคำนวณ BMI และล็อคค่าน้ำหนัก"
+      ],
+      "applications": [
+        "BMI: คำนวณดัชนีมวลกายอัตโนมัติ",
+        "Hold/Recall: ล็อคค่าน้ำหนักหน้าจอและเรียกดูค่าน้ำหนักย้อนหลัง",
+        "Tare: หักค่าน้ำหนักรถเข็นหรือสิ่งของอื่นๆ",
+        "Stand-by: ปิดเครื่องอัตโนมัติเมื่อไม่ใช้งานเพื่อประหยัดพลังงาน"
+      ],
+      "mainImage": "/product-media/BW-1410XXL.png",
+      "logo": "/product-media/44.png",
+      "specImage": "/product-media/bw-1410xxl1.png",
+      "deliveryImage": "/product-media/DC-360-1.png"
+    }
+  },
+  {
+    "id": "pbw5156lm",
+    "name": "Wheelchair Scale BW-5156LM",
+    "category": "hospital-balance",
+    "subcategory": null,
+    "image": "/product-media/BW-5156LM.png",
+    "specPdf": "/product-media/BW5156LMSPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Wheelchair Scale BW-5156LM",
+      "subtitle": "เครื่องชั่งน้ำหนักดิจิตอลสำหรับรถเข็นผู้ป่วย/เปลนอน",
+      "features": [
+        "NAGATA รุ่น BW-5156LM เป็นเครื่องชั่งน้ำหนักดิจิทัลสำหรับผู้ป่วยและรถเข็น (Wheelchair Scale) มาตรฐานไต้หวัน พิกัดน้ำหนัก 300 kgละเอียด0.1 kg(100 g) โดดเด่นด้วยฟังก์ชันคำนวณ BMI อัตโนมัติ จอ LCD มีแบคไลท์ และพื้นราบสำหรับเข็นรถเข็นขึ้นได้ง่าย เหมาะสำหรับโรงพยาบาลหรือศูนย์ฟื้นฟู"
+      ],
+      "applications": [
+        "BMI: คำนวณค่าดัชนีมวลกาย (Body Mass Index) อัตโนมัติ",
+        "Hold: ฟังก์ชันล็อกค่าน้ำหนักเพื่อบันทึกแม้คนไข้ลงจากแท่นชั่งแล้ว",
+        "Tare: ฟังก์ชันหักน้ำหนักรถเข็นหรือภาชนะ",
+        "Auto Stand-by: ระบบปิดหน้าจออัตโนมัติเมื่อไม่ใช้งานเพื่อประหยัดพลังงาน"
+      ],
+      "mainImage": "/product-media/BW-5156LM.png",
+      "logo": "/product-media/44.png",
+      "specImage": "/product-media/bw-5156lm1.png",
+      "deliveryImage": "/product-media/DC-360-1.png"
+    }
+  },
+  {
+    "id": "pbw3133",
+    "name": "Body SCALE BW-3133",
+    "category": "hospital-balance",
+    "subcategory": null,
+    "image": "/product-media/BW-3133.png",
+    "specPdf": "/product-media/BW-3133SPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "Body SCALE BW-3133",
+      "subtitle": "เครื่องชั่งน้ำหนักดิจิตอลสำหรับรถเข็นผู้ป่วย/เปลนอน",
+      "features": [
+        "NAGATA รุ่น BW-3133 เป็นเครื่องชั่งน้ำหนักแบบนั่งดิจิทัลคุณภาพสูง ออกแบบมาเพื่อผู้ป่วย ผู้สูงอายุ หรือผู้พิการ พิกัดกำลังสูงสุด 250 kg (ละเอียด 0.1 kg) มีเบาะนั่งและที่วางแขนพับได้เพื่อความสะดวกในการเคลื่อนย้าย พัฒนาโครงสร้างให้แข็งแรงทนทาน อ่านค่าง่ายด้วยจอ LCD"
+      ],
+      "applications": [
+        "โปรแกรมหักน้ำหนักภาชนะ (Tare)",
+        "โปรแกรม Zero ล้างค่าหน้าจอ"
+      ],
+      "mainImage": "/product-media/BW-3133.png",
+      "logo": "/product-media/44.png",
+      "specImage": "/product-media/bw-3133-1.png",
+      "deliveryImage": "/product-media/DC-360-1.png"
+    }
+  },
+  {
+    "id": "pbd590",
+    "name": "BABY SCALE BD-590",
+    "category": "hospital-balance",
+    "subcategory": null,
+    "image": "/product-media/BD-590.png",
+    "specPdf": "/product-media/BD-590SPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "BABY SCALE BD-590",
+      "subtitle": "เครื่องชั่งน้ำหนักเด็กอ่อนดิจิตอล",
+      "features": [
+        "เครื่องชั่งน้ำหนักเด็กอ่อนดิจิตอล [TANITA รุ่น BD-590] เป็นเครื่องชั่งคุณภาพสูงจากญี่ปุ่น ชั่งน้ำหนักได้สูงสุด 20 กก. ความละเอียด 10 กรัม (0.01 กก.) โดดเด่นด้วยดีไซน์ All-in-One แข็งแรงทนทาน น้ำหนักเบา หน้าจอ LCD ขนาดใหญ่ 28 มม. อ่านค่าง่าย มีฟังก์ชัน Tare หักค่าน้ำหนักภาชนะ/ผ้าห่อตัว และฟังก์ชันล็อคค่าน้ำหนักอัตโนมัติขณะเด็กขยับตัว",
+        "คุณสมบัติเด่นและข้อมูลจำเพาะ TANITA BD-590",
+        "- ความแม่นยำสูง: ชั่งน้ำหนักได้สูงสุด 20 กิโลกรัม (44 ปอนด์) ค่าความละเอียด 10 กรัม (0.5 ออนซ์) เหมาะสำหรับเช็คน้ำหนักทารก",
+        "- เทคโนโลยี Motion-Stop: ล็อคค่าน้ำหนักอัตโนมัติแม้เด็กจะไม่อยู่นิ่ง ช่วยให้อ่านค่าได้แม่นยำ",
+        "- ฟังก์ชัน TARE: สามารถหักน้ำหนักผ้าอ้อมหรือผ้าห่อตัวก่อนชั่งได้",
+        "- หน้าจอชัดเจน: แสดงผลหน้าจอ LCD ขนาดใหญ่ 28 มิลลิเมตร",
+        "- ดีไซน์ปลอดภัยและทำความสะอาดง่าย: โครงสร้างแบบชิ้นเดียว (All-in-one) ไม่มีรอยต่อ แข็งแรงทนทาน",
+        "- พลังงาน: ใช้แบตเตอรี่ AA 4 ก้อน (มีแถมมาในชุด)",
+        "- ขนาด: ถาดชั่งกว้างขวาง เหมาะสำหรับเด็กนอนชั่ง"
+      ],
+      "applications": [
+        "โปรแกรมหักน้ำหนักภาชนะ (Tare)",
+        "โปรแกรม Zero ล้างค่าหน้าจอ",
+        "TARE ตัดน้ำหนักภาชนะ (ชั่งน้ำหนักแม่และเด็ก)",
+        "Zero เคลียร์ค่าหน้าจอเป็นศูนย์",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/BD-590.png",
+      "logo": "/product-media/63.png",
+      "specImage": "/product-media/Bd-590-1.png",
+      "deliveryImage": "/product-media/DC-360-1.png"
+    }
+  },
+  {
+    "id": "phd380",
+    "name": "BODY SCALE HD-380",
+    "category": "hospital-balance",
+    "subcategory": null,
+    "image": "/product-media/HD-380.png",
+    "specPdf": "/product-media/HD-380SPEC.pdf",
+    "lineUrl": "https://lin.ee/v7Kf7rD",
+    "detail": {
+      "title": "BODY SCALE HD-380",
+      "subtitle": "เครื่องชั่งน้ำหนักบุคคล",
+      "features": [
+        "Tanita HD-380 เป็นเครื่องชั่งน้ำหนักบุคคลระบบดิจิทัลดีไซน์บางเฉียบ (Ultra Slim) เพียง 22 มม. ชั่งน้ำหนักสูงสุดได้ 150 กก. ความละเอียด 100 กรัม ผลิตจากกระจกนิรภัยแข็งแรงทนทาน (Safety Glass) จอ LCD อ่านง่าย 30 มม. ใช้งานง่ายด้วยระบบ Tap-on เปิดอัตโนมัติเมื่อขึ้นชั่ง ใช้พลังงานจากแบตเตอรี่",
+        "เหมาะสำหรับใช้ชั่งน้ำหนักในบ้าน ดีไซน์สวยงาม ทนทานตามมาตรฐาน"
+      ],
+      "applications": [
+        "โปรแกรมหักน้ำหนักภาชนะ (Tare)",
+        "โปรแกรม Zero ล้างค่าหน้าจอ",
+        "TARE ตัดน้ำหนักภาชนะ (ชั่งน้ำหนักแม่และเด็ก)",
+        "Zero เคลียร์ค่าหน้าจอเป็นศูนย์",
+        "ซอฟต์แวร์ ACCETee: ใช้งานง่าย พร้อมฟังก์ชัน teach-in programming สำหรับ CNC"
+      ],
+      "mainImage": "/product-media/HD-380.png",
+      "logo": "/product-media/63.png",
+      "specImage": "/product-media/HD-380-1.png",
+      "deliveryImage": "/product-media/DC-360-1.png"
+    }
+  }
+]

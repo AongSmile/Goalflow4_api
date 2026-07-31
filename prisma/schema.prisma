@@ -1,0 +1,227 @@
+// GoldFlowin API - Prisma schema
+// docs: https://pris.ly/d/prisma-schema
+//
+// NOTE (Prisma 7): connection URLs are no longer allowed here - they live in
+// prisma.config.mjs (for the CLI: db push / migrate / studio / seed) and are
+// passed directly to the driver adapter in config/prisma.js (for the app's
+// runtime PrismaClient). See ../prisma.config.mjs and ../config/prisma.js.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model User {
+  id        Int      @id @default(autoincrement())
+  email     String   @unique
+  password  String?
+  name      String?
+  picture   String?
+  // Coarse kind of account: "user" (storefront customer), "staff" (CMS
+  // access, permissions come from `roleRef`), or "admin" (full access to
+  // everything, bypasses permission checks entirely). Kept as a plain
+  // string for backward compatibility with existing authCheck/adminCheck
+  // logic - `roleRef` is the new, fine-grained piece for staff.
+  role      String   @default("user")
+  // Only meaningful when role === "staff": which configurable Role (with
+  // its Permission set) this staff member has been assigned via the admin
+  // "Role & Permission" screen. Admins and regular users ignore this.
+  roleRef   Role?    @relation(fields: [roleId], references: [id])
+  roleId    Int?
+  enabled   Boolean  @default(true)
+  address   String?
+  orders    Order[]
+  carts     Cart[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+// A named, admin-configurable set of Permissions (e.g. "Staff - สินค้า",
+// "Staff - บทความ"). Assigned to staff Users via User.roleId. Admin creates/
+// edits these and picks which Permissions each Role grants through the
+// admin "จัดการสิทธิ์" screen (see server/README.md Phase 1 section).
+model Role {
+  id          Int          @id @default(autoincrement())
+  name        String       @unique
+  description String?
+  permissions Permission[] @relation("RolePermissions")
+  users       User[]
+  createdAt   DateTime     @default(now())
+  updatedAt   DateTime     @updatedAt
+}
+
+// A single grantable capability, e.g. "product.create", "product.delete",
+// "article.edit", "category.manage". The fixed list of valid keys lives in
+// config/permissions.js (seeded into this table) - Roles just pick a subset.
+model Permission {
+  id    Int    @id @default(autoincrement())
+  key   String @unique
+  label String?
+  group String? // groups related keys in the admin UI, e.g. "product", "article"
+  roles Role[] @relation("RolePermissions")
+}
+
+model Product {
+  id          Int              @id @default(autoincrement())
+  // Public-facing unique slug used by the storefront, e.g. "producthardness".
+  // Falls back to nothing for products created fresh via the admin (a slug
+  // should always be supplied on create).
+  slug        String?          @unique
+  title       String
+  description String           @default("")
+  price       Float            @default(0)
+  sold        Int              @default(0)
+  quantity    Int              @default(0)
+  orderItems  ProductOnOrder[]
+  cartItems   ProductOnCart[]
+  images      Image[]
+  createdAt   DateTime         @default(now())
+  updatedAt   DateTime         @updatedAt
+  category    Category?        @relation(fields: [categoryId], references: [id])
+  categoryId  Int?
+  subcategory   Subcategory?   @relation(fields: [subcategoryId], references: [id])
+  subcategoryId Int?
+  brand       Brand?           @relation(fields: [brandId], references: [id])
+  brandId     Int?
+
+  // ---- Fields migrated from the old GoalFlows instrument catalog ----
+  subtitle       String?  // short tagline shown under the product title
+  lineUrl        String?  // LINE "สนใจสอบถาม" contact link
+  specPdf        String?  // downloadable specification PDF
+  features       String[] @default([]) // "คุณสมบัติผลิตภัณฑ์" bullet list
+  applications   String[] @default([]) // "การใช้งานผลิตภัณฑ์" bullet list
+  thumbnail      String?  // image shown in listing/grid cards
+  mainImage      String?  // large image on the detail page (falls back to thumbnail)
+  logoImage      String?  // brand/manufacturer logo shown on the detail page
+  specImage      String?  // "Specification" tab image
+  deliveryImage  String?  // "Standard Delivery" tab image
+}
+
+model Order {
+  id              Int              @id @default(autoincrement())
+  products        ProductOnOrder[]
+  cartTotal       Float
+  orderStatus     String           @default("Not Process")
+  createdAt       DateTime         @default(now())
+  updatedAt       DateTime         @updatedAt
+  orderedBy       User             @relation(fields: [orderedById], references: [id])
+  orderedById     Int
+  stripePaymentId String
+  amount          Float
+  status          String
+  currency        String
+}
+
+model ProductOnOrder {
+  id        Int     @id @default(autoincrement())
+  product   Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+  productId Int
+  order     Order   @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  orderId   Int
+  count     Int
+  price     Float
+}
+
+model Category {
+  id            Int           @id @default(autoincrement())
+  name          String
+  // Machine-readable key used by the storefront routes, e.g.
+  // "products", "small-tools", "industrial-balance", "animal-balance",
+  // "hospital-balance".
+  slug          String?       @unique
+  title         String?
+  subtitle      String?
+  status        Boolean       @default(true) // false = hidden from Navbar/storefront
+  products      Product[]
+  subcategories Subcategory[]
+  createdAt     DateTime      @default(now())
+  updatedAt     DateTime      @updatedAt
+}
+
+// Second-level grouping used only by the "products" (e.g. Hardness Tester,
+// Coordinate Measuring Machine...) and "small-tools" (brand pages, e.g.
+// Mitutoyo) categories. Categories that list products directly
+// (industrial/animal/hospital balance) leave Product.subcategoryId null.
+model Subcategory {
+  id         Int       @id @default(autoincrement())
+  slug       String    @unique
+  title      String?
+  subtitle   String?
+  status     Boolean   @default(true) // false = hidden from Navbar dropdown/storefront
+  category   Category  @relation(fields: [categoryId], references: [id])
+  categoryId Int
+  products   Product[]
+  createdAt  DateTime  @default(now())
+  updatedAt  DateTime  @updatedAt
+}
+
+model Brand {
+  id        Int       @id @default(autoincrement())
+  name      String
+  logoUrl   String?   // shown on the storefront's brand strip/page
+  url       String?   // brand's own website, if any - storefront links out to it
+  sortOrder Int       @default(0) // lower = shown first
+  status    Boolean   @default(true) // false = hidden from storefront
+  products  Product[]
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+}
+
+model Cart {
+  id          Int             @id @default(autoincrement())
+  products    ProductOnCart[]
+  cartTotal   Float
+  createdAt   DateTime        @default(now())
+  updatedAt   DateTime        @updatedAt
+  orderedBy   User            @relation(fields: [orderedById], references: [id])
+  orderedById Int
+}
+
+model ProductOnCart {
+  id        Int     @id @default(autoincrement())
+  cart      Cart    @relation(fields: [cartId], references: [id], onDelete: Cascade)
+  cartId    Int
+  product   Product @relation(fields: [productId], references: [id])
+  productId Int
+  count     Int
+  price     Float
+}
+
+model Image {
+  id         Int      @id @default(autoincrement())
+  asset_id   String
+  public_id  String
+  url        String
+  secure_url String
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+  product    Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  productId  Int
+}
+
+model Article {
+  id          Int            @id @default(autoincrement())
+  name        String
+  excerpt     String?        // short blurb shown on listing cards ("คำอธิบายย่อ")
+  description String         // full body, shown on the article's own page
+  status      Boolean        @default(true) // false = hidden from the storefront
+  publishedAt DateTime       @default(now()) // what "เรียงจากวันที่ล่าสุด" sorts by
+  images      ImageArticle[]
+  createdAt   DateTime       @default(now())
+  updatedAt   DateTime       @updatedAt
+}
+
+model ImageArticle {
+  id         Int      @id @default(autoincrement())
+  asset_id   String
+  public_id  String
+  url        String
+  secure_url String
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+  article    Article  @relation(fields: [articleId], references: [id], onDelete: Cascade)
+  articleId  Int
+}
