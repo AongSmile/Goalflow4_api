@@ -1,8 +1,7 @@
 {
   "framework": null,
-  "buildCommand": null,
-  "outputDirectory": null,
-  "installCommand": null,
+  "buildCommand": "echo 'No frontend build needed - this project only deploys /api as serverless functions'",
+  "outputDirectory": "public",
   "rewrites": [{ "source": "/(.*)", "destination": "/api/index" }],
   "regions": ["hnd1"]
 }
