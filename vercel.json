@@ -1,4 +1,8 @@
 {
+  "framework": null,
+  "buildCommand": null,
+  "outputDirectory": null,
+  "installCommand": null,
   "rewrites": [{ "source": "/(.*)", "destination": "/api/index" }],
   "regions": ["hnd1"]
 }
