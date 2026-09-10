@@ -20,7 +20,8 @@ router.get("/product/:id", authCheck, permissionCheck("product.view"), productCo
 router.put("/product/:id", authCheck, permissionCheck("product.edit"), productController.update);
 // Delete is always admin-only, never delegable to Staff - see
 // modules/brand/brand.routes.ts for the same rule applied elsewhere.
-router.delete("/product/:id", authCheck, adminCheck, productController.remove);
+router.delete("/product/:id", authCheck, permissionCheck("product.delete"), productController.remove);
+// router.delete("/product/:id", authCheck, adminCheck, productController.remove); //สำหรับadminเท่านั้นที่ลบได้
 
 router.post("/productby", productController.listby);
 router.post("/search/filters", productController.searchFilters);
