@@ -14,7 +14,7 @@ router.get("/articles", authCheck, permissionCheck("article.view"), articleContr
 router.post("/articles", authCheck, permissionCheck("article.create"), articleController.create);
 router.put("/articles/:id", authCheck, permissionCheck("article.edit"), articleController.update);
 // Delete is always admin-only - see brand.routes.ts for why.
-router.delete("/product/:id", authCheck, permissionCheck("article.delete"), articleController.remove);
+router.delete("/articles/:id", authCheck, permissionCheck("article.delete"), articleController.remove);
 // router.delete("/articles/:id", authCheck, adminCheck, articleController.remove);สำหรับแอดมินเท่านั้นที่ลบได้
 
 router.post("/article/images", authCheck, permissionCheck("article.create"), articleController.createImages);
